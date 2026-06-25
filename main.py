@@ -30,7 +30,7 @@ n = 3000
 
 
 
-
+df = pd.read_csv("data.csv")
 
 
 
