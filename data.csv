@@ -1,0 +1,3001 @@
+CustomerID,Age,Gender,SubscriptionType,MonthlyCharges,TenureMonths,SupportTickets,PaymentMethod,SatisfactionScore,UsageHoursPerWeek
+1001,56,Male,Premium,4862,34,3,UPI,3,11
+1002,69,Female,Basic,4526,56,5,Credit Card,2,29
+1003,46,Male,Basic,1073,32,13,UPI,2,41
+1004,32,Male,Premium,2821,9,2,UPI,10,5
+1005,60,Female,Basic,4535,63,11,Net Banking,4,7
+1006,25,Male,Premium,289,33,9,Net Banking,1,22
+1007,38,Male,Premium,2479,21,13,Credit Card,10,47
+1008,56,Female,Premium,656,55,9,Net Banking,2,4
+1009,36,Male,Basic,2480,57,6,Credit Card,10,32
+1010,40,Female,Premium,4649,2,6,Debit Card,2,19
+1011,28,Female,Basic,1204,13,14,Credit Card,4,45
+1012,28,Female,Enterprise,4734,4,4,UPI,4,33
+1013,41,Female,Premium,544,50,2,Credit Card,1,1
+1014,53,Female,Basic,2911,48,1,Debit Card,7,46
+1015,57,Male,Basic,4952,30,14,UPI,7,41
+1016,41,Male,Basic,2662,29,14,Credit Card,10,44
+1017,20,Female,Premium,1316,8,3,Net Banking,10,41
+1018,39,Female,Basic,825,12,13,Net Banking,10,8
+1019,19,Male,Premium,4579,41,14,Net Banking,1,32
+1020,41,Female,Basic,2179,26,12,Credit Card,8,30
+1021,61,Female,Premium,4194,50,3,Credit Card,10,46
+1022,47,Female,Premium,1878,2,10,Debit Card,7,28
+1023,55,Male,Premium,422,55,7,UPI,7,41
+1024,19,Male,Premium,943,56,7,UPI,6,32
+1025,38,Female,Basic,662,14,12,UPI,4,25
+1026,50,Female,Basic,1768,6,4,UPI,8,34
+1027,29,Male,Premium,3547,61,12,Credit Card,2,33
+1028,39,Male,Basic,1936,12,5,Credit Card,7,13
+1029,61,Female,Basic,4239,13,7,Debit Card,3,25
+1030,42,Female,Basic,4151,19,14,UPI,3,42
+1031,66,Male,Basic,864,44,0,Credit Card,7,40
+1032,44,Male,Basic,1556,59,4,Credit Card,3,39
+1033,59,Male,Enterprise,1214,37,3,Credit Card,5,44
+1034,45,Female,Basic,2332,25,3,Credit Card,8,49
+1035,33,Male,Premium,2868,16,10,UPI,4,44
+1036,32,Female,Basic,1254,38,1,UPI,7,48
+1037,64,Male,Premium,1964,43,9,Credit Card,7,10
+1038,68,Male,Basic,4658,14,0,Net Banking,2,31
+1039,61,Male,Enterprise,3069,6,13,Debit Card,8,44
+1040,69,Male,Enterprise,1612,23,14,UPI,10,11
+1041,20,Female,Basic,867,60,5,UPI,10,25
+1042,54,Female,Enterprise,3570,12,6,Net Banking,9,46
+1043,68,Male,Enterprise,1594,13,4,UPI,6,45
+1044,24,Female,Premium,298,6,14,Net Banking,5,34
+1045,38,Male,Premium,4270,63,7,Net Banking,1,20
+1046,26,Male,Basic,621,38,8,Credit Card,1,7
+1047,56,Male,Premium,3850,50,10,UPI,9,33
+1048,35,Male,Basic,4357,52,10,Debit Card,4,35
+1049,21,Female,Basic,1332,40,1,Net Banking,1,29
+1050,42,Male,Enterprise,1902,8,10,Debit Card,10,12
+1051,31,Male,Basic,3820,61,12,Credit Card,3,5
+1052,67,Female,Premium,3390,8,3,UPI,6,12
+1053,26,Male,Premium,797,34,10,Credit Card,8,29
+1054,43,Male,Enterprise,591,60,8,Credit Card,10,35
+1055,19,Male,Enterprise,1275,57,4,Debit Card,2,20
+1056,37,Female,Basic,2850,46,2,Debit Card,8,37
+1057,45,Male,Basic,2584,22,5,Net Banking,1,1
+1058,64,Female,Basic,1009,40,14,UPI,2,16
+1059,24,Male,Basic,3509,45,2,Credit Card,8,30
+1060,61,Male,Basic,3938,55,13,Net Banking,7,9
+1061,25,Female,Basic,1359,51,4,Net Banking,5,42
+1062,64,Male,Premium,1731,5,2,Credit Card,10,10
+1063,52,Male,Premium,2882,13,5,Credit Card,2,13
+1064,31,Female,Basic,453,28,11,Net Banking,9,48
+1065,34,Female,Premium,3748,62,9,Credit Card,5,20
+1066,53,Female,Basic,3385,24,4,Credit Card,8,29
+1067,67,Female,Basic,1431,7,13,Debit Card,4,4
+1068,57,Female,Premium,2623,38,8,UPI,9,46
+1069,21,Male,Premium,3775,37,2,Net Banking,10,49
+1070,19,Female,Premium,4461,68,5,Credit Card,7,28
+1071,23,Male,Basic,1773,42,7,Net Banking,2,37
+1072,59,Male,Premium,3108,5,6,UPI,3,13
+1073,21,Male,Premium,4912,64,5,Net Banking,2,3
+1074,46,Female,Premium,1825,50,13,Net Banking,5,37
+1075,35,Female,Premium,4198,15,14,Net Banking,2,48
+1076,43,Male,Enterprise,4083,53,1,Debit Card,5,19
+1077,61,Female,Premium,3715,25,14,UPI,9,28
+1078,51,Female,Premium,3603,9,6,UPI,2,19
+1079,27,Female,Enterprise,4798,38,7,Net Banking,9,17
+1080,53,Female,Premium,4880,22,0,Net Banking,7,18
+1081,31,Male,Basic,2158,49,14,UPI,7,18
+1082,48,Male,Premium,4209,68,8,Credit Card,5,23
+1083,65,Female,Basic,2935,15,3,Debit Card,8,40
+1084,32,Male,Basic,4691,65,7,UPI,7,9
+1085,25,Female,Premium,3374,54,14,Net Banking,6,29
+1086,31,Female,Enterprise,601,30,9,Credit Card,2,42
+1087,40,Male,Enterprise,1174,20,6,Credit Card,6,29
+1088,57,Male,Basic,423,33,13,Credit Card,2,2
+1089,38,Male,Premium,4813,7,12,Debit Card,1,17
+1090,33,Female,Basic,435,8,9,Debit Card,9,45
+1091,62,Male,Enterprise,3698,28,6,UPI,5,31
+1092,35,Female,Enterprise,4411,45,1,UPI,10,28
+1093,64,Male,Premium,3434,11,0,UPI,10,43
+1094,41,Male,Premium,425,31,3,UPI,4,48
+1095,43,Female,Premium,2477,12,11,Net Banking,8,39
+1096,42,Female,Premium,4477,51,1,Debit Card,5,30
+1097,62,Female,Basic,1541,44,7,Credit Card,7,35
+1098,58,Female,Basic,4236,50,9,Net Banking,3,48
+1099,46,Female,Premium,409,17,6,UPI,8,20
+1100,32,Female,Premium,3927,35,7,UPI,8,16
+1101,62,Female,Basic,4128,1,10,Net Banking,3,34
+1102,18,Female,Enterprise,3003,29,5,Credit Card,9,14
+1103,42,Male,Basic,1309,51,0,Debit Card,8,26
+1104,24,Female,Premium,2226,64,13,Debit Card,1,20
+1105,26,Female,Premium,593,4,12,Credit Card,8,42
+1106,41,Male,Premium,1043,28,12,Debit Card,4,24
+1107,18,Female,Premium,1724,16,11,UPI,6,43
+1108,61,Male,Basic,803,63,8,UPI,10,18
+1109,25,Male,Basic,781,53,5,UPI,9,43
+1110,41,Female,Premium,2139,17,11,UPI,5,9
+1111,28,Male,Premium,332,40,12,Credit Card,7,19
+1112,68,Female,Basic,3038,13,9,Debit Card,1,20
+1113,34,Male,Premium,3585,52,0,Debit Card,9,42
+1114,25,Male,Basic,3970,58,0,Net Banking,6,30
+1115,52,Male,Premium,2468,37,7,Credit Card,4,26
+1116,52,Female,Premium,1175,61,5,Debit Card,6,31
+1117,50,Female,Basic,2013,34,7,Debit Card,5,35
+1118,22,Male,Basic,3463,70,7,Net Banking,3,3
+1119,59,Male,Premium,1743,17,14,UPI,7,40
+1120,56,Female,Premium,3035,20,10,Debit Card,3,29
+1121,58,Female,Premium,2938,59,13,UPI,2,6
+1122,45,Male,Premium,1557,69,7,Net Banking,4,1
+1123,24,Male,Premium,4334,33,9,Debit Card,7,24
+1124,26,Female,Enterprise,1516,17,14,UPI,5,38
+1125,25,Female,Premium,361,57,6,Credit Card,9,34
+1126,29,Female,Basic,2109,1,6,UPI,10,7
+1127,51,Female,Basic,1327,13,9,UPI,7,11
+1128,50,Female,Basic,4070,27,3,UPI,9,11
+1129,65,Male,Premium,1858,70,8,UPI,9,36
+1130,40,Female,Basic,3325,59,11,Credit Card,2,20
+1131,41,Male,Enterprise,2163,6,1,Net Banking,1,16
+1132,54,Female,Premium,2489,23,10,UPI,4,5
+1133,52,Male,Premium,1166,10,8,UPI,4,24
+1134,61,Female,Basic,1089,51,9,Debit Card,2,30
+1135,57,Female,Basic,3261,19,2,Debit Card,3,30
+1136,39,Male,Basic,3829,51,13,Credit Card,3,39
+1137,44,Male,Basic,3389,68,12,Credit Card,5,48
+1138,52,Female,Basic,2948,42,14,Credit Card,1,47
+1139,18,Female,Premium,1866,57,1,Debit Card,9,37
+1140,52,Female,Enterprise,3266,68,12,UPI,8,33
+1141,54,Female,Enterprise,1641,38,3,Debit Card,8,20
+1142,64,Female,Premium,1267,62,4,Net Banking,3,22
+1143,31,Male,Basic,4423,7,1,Credit Card,2,41
+1144,20,Male,Enterprise,3123,71,12,Credit Card,1,21
+1145,18,Female,Enterprise,4453,50,14,Credit Card,6,37
+1146,22,Male,Basic,4056,52,0,Net Banking,10,27
+1147,43,Male,Premium,1026,26,9,UPI,1,38
+1148,31,Male,Basic,4807,26,10,UPI,5,35
+1149,56,Female,Premium,4185,19,4,UPI,9,38
+1150,44,Male,Enterprise,2292,9,8,Credit Card,9,40
+1151,26,Female,Basic,3379,61,14,UPI,4,6
+1152,32,Male,Enterprise,4738,20,11,Debit Card,7,32
+1153,32,Female,Premium,4101,50,11,Credit Card,7,16
+1154,43,Male,Enterprise,2562,22,14,Net Banking,4,28
+1155,59,Female,Basic,2424,13,4,Net Banking,5,16
+1156,30,Female,Premium,1926,12,11,UPI,9,27
+1157,68,Male,Basic,2206,10,10,Credit Card,7,3
+1158,49,Female,Basic,466,65,9,Debit Card,7,49
+1159,56,Female,Basic,1037,30,8,Debit Card,10,21
+1160,66,Female,Enterprise,4784,8,13,Credit Card,7,38
+1161,69,Female,Premium,4997,21,12,UPI,9,38
+1162,49,Female,Enterprise,886,22,11,Net Banking,5,30
+1163,21,Female,Enterprise,3561,18,9,Net Banking,6,22
+1164,47,Female,Basic,556,66,5,Debit Card,3,19
+1165,54,Female,Basic,4015,48,2,Debit Card,1,31
+1166,40,Male,Basic,1071,44,3,Debit Card,2,20
+1167,56,Male,Basic,2173,9,3,Net Banking,8,47
+1168,62,Female,Basic,4847,67,0,Debit Card,1,19
+1169,32,Female,Basic,2010,54,2,Net Banking,10,2
+1170,60,Male,Basic,4618,26,2,Net Banking,7,40
+1171,46,Male,Basic,2841,26,12,UPI,5,39
+1172,53,Male,Basic,2428,34,13,UPI,6,27
+1173,30,Female,Basic,3591,8,0,UPI,8,8
+1174,49,Male,Enterprise,4378,10,12,Debit Card,4,45
+1175,24,Female,Premium,2550,48,8,Net Banking,6,27
+1176,68,Female,Enterprise,4557,55,10,Debit Card,3,15
+1177,39,Male,Basic,2939,54,0,Net Banking,7,12
+1178,45,Female,Basic,2930,40,8,UPI,2,47
+1179,19,Female,Premium,1518,15,0,UPI,8,14
+1180,59,Female,Basic,1735,18,1,Debit Card,7,7
+1181,62,Female,Basic,4984,23,1,Net Banking,8,17
+1182,23,Male,Basic,2643,62,13,Debit Card,2,26
+1183,45,Male,Basic,1972,46,5,Credit Card,3,37
+1184,45,Female,Basic,3409,39,6,Debit Card,4,20
+1185,61,Female,Basic,1077,15,10,UPI,9,10
+1186,61,Male,Premium,3070,53,0,Net Banking,5,19
+1187,37,Female,Basic,3400,64,2,Net Banking,6,18
+1188,47,Male,Basic,4344,63,1,Debit Card,1,30
+1189,28,Female,Premium,3947,16,7,UPI,4,30
+1190,45,Female,Basic,3036,70,8,Credit Card,4,25
+1191,42,Male,Basic,492,66,12,Debit Card,10,24
+1192,56,Male,Enterprise,1851,13,1,Net Banking,8,10
+1193,50,Male,Basic,4831,47,1,UPI,8,2
+1194,18,Male,Basic,4606,9,9,Net Banking,10,38
+1195,44,Female,Basic,736,63,14,Net Banking,6,32
+1196,69,Male,Basic,2886,34,8,Net Banking,8,35
+1197,30,Female,Premium,433,29,13,Net Banking,9,37
+1198,58,Male,Premium,2852,37,3,Credit Card,5,7
+1199,20,Male,Basic,2574,43,4,UPI,1,7
+1200,56,Female,Premium,2472,64,12,Debit Card,1,27
+1201,23,Male,Premium,1166,24,10,UPI,2,10
+1202,25,Male,Basic,1089,71,8,UPI,2,33
+1203,44,Male,Premium,4063,34,5,UPI,5,43
+1204,26,Male,Basic,3600,48,9,Debit Card,7,7
+1205,54,Female,Basic,234,12,11,UPI,7,6
+1206,50,Female,Basic,4742,23,8,Debit Card,4,6
+1207,68,Male,Basic,3723,13,8,Debit Card,4,13
+1208,59,Male,Basic,1963,45,6,Credit Card,10,48
+1209,61,Male,Premium,3491,65,13,Net Banking,3,13
+1210,41,Female,Basic,2688,47,11,Debit Card,2,2
+1211,32,Female,Basic,2900,58,9,Net Banking,3,19
+1212,49,Female,Basic,1758,5,8,UPI,8,19
+1213,49,Female,Premium,4890,5,4,Net Banking,1,38
+1214,41,Male,Premium,2476,60,4,Net Banking,4,2
+1215,58,Male,Premium,4206,21,11,Net Banking,7,26
+1216,69,Male,Premium,4639,24,7,UPI,5,6
+1217,66,Female,Enterprise,1303,18,9,UPI,2,20
+1218,66,Male,Basic,1619,21,3,Debit Card,1,23
+1219,69,Female,Premium,1678,54,8,Debit Card,6,15
+1220,29,Female,Premium,4114,10,6,Credit Card,5,6
+1221,56,Male,Enterprise,3942,24,6,UPI,3,28
+1222,19,Male,Enterprise,3156,60,12,Credit Card,9,35
+1223,20,Male,Basic,1582,57,14,UPI,3,11
+1224,66,Female,Basic,2774,23,2,Net Banking,2,8
+1225,54,Female,Basic,3584,22,3,Credit Card,5,49
+1226,66,Male,Premium,1769,68,6,Credit Card,9,24
+1227,34,Male,Basic,2094,34,10,Credit Card,8,21
+1228,66,Female,Basic,2443,70,10,UPI,6,49
+1229,19,Male,Premium,2066,28,13,Debit Card,3,36
+1230,19,Female,Basic,228,39,4,Credit Card,6,7
+1231,45,Female,Enterprise,905,42,11,Debit Card,5,5
+1232,40,Male,Basic,1220,23,2,UPI,1,29
+1233,54,Male,Basic,2263,70,0,Credit Card,5,16
+1234,49,Male,Basic,1646,2,6,UPI,7,6
+1235,50,Male,Premium,3864,24,5,Debit Card,9,14
+1236,18,Female,Basic,3187,17,9,Debit Card,1,2
+1237,36,Female,Basic,3802,65,14,Credit Card,3,25
+1238,19,Female,Enterprise,3885,70,6,Debit Card,8,31
+1239,61,Male,Basic,3568,69,14,Net Banking,6,13
+1240,43,Female,Premium,3781,60,13,Net Banking,5,18
+1241,49,Male,Premium,2962,50,1,Credit Card,10,17
+1242,23,Male,Basic,4237,12,12,UPI,2,45
+1243,49,Male,Premium,772,47,11,UPI,3,28
+1244,21,Male,Basic,4288,67,3,UPI,2,12
+1245,28,Male,Premium,814,65,1,Net Banking,1,35
+1246,34,Male,Basic,4250,27,7,Debit Card,7,22
+1247,55,Female,Premium,525,48,6,Net Banking,3,39
+1248,41,Male,Basic,3940,62,0,Debit Card,7,1
+1249,22,Female,Premium,558,44,1,Net Banking,7,37
+1250,69,Female,Basic,3977,19,1,UPI,8,21
+1251,51,Male,Basic,2571,59,3,UPI,1,1
+1252,23,Male,Basic,1921,8,2,UPI,5,4
+1253,39,Male,Basic,1549,55,0,Credit Card,10,32
+1254,28,Female,Premium,3896,47,11,Credit Card,9,1
+1255,65,Male,Basic,4096,2,13,Debit Card,7,13
+1256,33,Female,Enterprise,4460,39,1,Credit Card,1,46
+1257,50,Male,Enterprise,1796,45,10,Net Banking,8,47
+1258,26,Male,Premium,1827,32,8,Net Banking,3,17
+1259,23,Female,Basic,2702,65,12,Debit Card,4,12
+1260,33,Female,Basic,4008,38,0,Debit Card,4,7
+1261,46,Male,Premium,392,11,8,UPI,10,3
+1262,20,Female,Basic,2874,10,6,Credit Card,8,26
+1263,37,Female,Basic,4045,59,1,UPI,1,31
+1264,53,Female,Premium,2777,55,1,Credit Card,8,36
+1265,36,Female,Premium,291,20,4,Credit Card,9,26
+1266,43,Female,Premium,4434,17,12,Debit Card,9,3
+1267,20,Male,Basic,680,68,4,UPI,5,44
+1268,36,Male,Premium,3116,5,3,UPI,4,28
+1269,37,Female,Basic,4635,60,11,Credit Card,4,44
+1270,49,Male,Basic,1275,23,9,Credit Card,9,17
+1271,24,Male,Enterprise,2713,46,9,Debit Card,8,38
+1272,69,Female,Basic,998,52,12,Net Banking,10,47
+1273,58,Male,Basic,4770,10,11,UPI,10,30
+1274,50,Female,Basic,4149,46,2,UPI,7,2
+1275,57,Female,Enterprise,804,28,3,Debit Card,3,8
+1276,56,Male,Premium,3179,43,9,Debit Card,4,14
+1277,35,Female,Premium,797,26,3,UPI,9,37
+1278,57,Female,Premium,1732,55,1,UPI,8,35
+1279,18,Female,Basic,713,48,4,Credit Card,1,42
+1280,28,Female,Basic,2077,29,14,Net Banking,3,39
+1281,45,Female,Basic,4172,27,4,UPI,10,11
+1282,42,Male,Basic,4043,18,4,Debit Card,2,15
+1283,67,Male,Basic,1899,60,10,Credit Card,2,2
+1284,40,Female,Enterprise,1229,69,14,Credit Card,8,37
+1285,48,Female,Basic,4795,21,10,Debit Card,6,43
+1286,47,Male,Basic,916,24,9,Debit Card,6,32
+1287,59,Female,Basic,4286,3,0,Credit Card,4,40
+1288,52,Male,Basic,865,62,5,Debit Card,1,13
+1289,24,Female,Enterprise,2408,2,10,Credit Card,7,43
+1290,33,Female,Basic,1279,66,1,Debit Card,8,17
+1291,43,Female,Basic,427,42,6,Credit Card,2,15
+1292,65,Female,Premium,348,34,3,UPI,2,33
+1293,69,Female,Basic,1269,42,14,UPI,1,16
+1294,66,Female,Basic,4927,20,4,Debit Card,4,13
+1295,19,Female,Basic,1563,68,4,Net Banking,6,22
+1296,18,Male,Premium,4708,45,4,UPI,5,23
+1297,65,Male,Enterprise,1955,42,1,Credit Card,4,36
+1298,29,Male,Premium,719,47,4,Net Banking,4,43
+1299,22,Female,Basic,3744,5,2,Credit Card,10,10
+1300,54,Female,Premium,2522,49,3,Credit Card,7,17
+1301,49,Female,Basic,1302,37,12,UPI,7,30
+1302,26,Female,Basic,797,34,1,Debit Card,2,13
+1303,58,Female,Basic,3473,70,3,Debit Card,7,30
+1304,52,Female,Basic,4249,18,12,Credit Card,2,46
+1305,36,Female,Premium,2805,19,8,UPI,4,30
+1306,65,Male,Premium,2388,40,7,Credit Card,1,7
+1307,33,Female,Enterprise,788,17,12,Net Banking,5,10
+1308,20,Male,Premium,4672,60,13,Credit Card,1,35
+1309,37,Male,Premium,1607,42,14,UPI,4,2
+1310,41,Female,Basic,4922,65,10,Credit Card,9,30
+1311,50,Female,Basic,3590,53,11,UPI,8,19
+1312,41,Male,Premium,3640,7,2,Debit Card,6,39
+1313,69,Male,Basic,1829,5,0,UPI,8,37
+1314,28,Female,Premium,1194,24,0,Net Banking,5,3
+1315,66,Female,Basic,4998,28,5,UPI,7,25
+1316,25,Male,Basic,2259,62,2,Net Banking,8,34
+1317,53,Female,Basic,4772,17,3,Net Banking,7,22
+1318,55,Female,Basic,3186,20,0,Credit Card,4,38
+1319,57,Female,Basic,600,3,7,Net Banking,5,14
+1320,37,Male,Premium,3055,37,0,UPI,10,39
+1321,52,Male,Basic,2424,15,4,Debit Card,6,2
+1322,65,Male,Premium,3612,51,5,UPI,6,32
+1323,42,Female,Basic,256,48,14,Debit Card,9,43
+1324,52,Female,Basic,2075,8,1,Net Banking,10,3
+1325,42,Male,Basic,4743,13,6,Credit Card,2,41
+1326,46,Male,Premium,4498,48,6,Net Banking,6,8
+1327,35,Male,Basic,3968,3,0,Net Banking,3,26
+1328,63,Female,Premium,4497,65,3,Debit Card,2,32
+1329,35,Male,Basic,1553,31,11,UPI,6,11
+1330,19,Male,Premium,2610,26,12,Credit Card,4,1
+1331,52,Female,Basic,4511,56,3,Credit Card,5,15
+1332,33,Female,Premium,2802,34,4,Credit Card,5,4
+1333,58,Female,Premium,3134,9,0,Credit Card,3,4
+1334,53,Male,Enterprise,222,62,0,UPI,4,28
+1335,50,Female,Basic,2402,13,6,Credit Card,3,10
+1336,21,Female,Basic,1409,69,8,Debit Card,7,11
+1337,50,Male,Basic,2496,41,0,Debit Card,1,23
+1338,31,Female,Premium,948,1,1,Credit Card,6,47
+1339,38,Male,Premium,1004,47,5,Credit Card,4,3
+1340,65,Male,Premium,333,4,14,UPI,1,39
+1341,37,Female,Basic,4616,63,14,UPI,1,39
+1342,25,Female,Basic,2637,52,5,Credit Card,5,17
+1343,24,Female,Basic,633,10,1,UPI,5,22
+1344,20,Female,Enterprise,3871,28,8,Net Banking,10,27
+1345,34,Female,Premium,3936,6,3,Credit Card,7,16
+1346,50,Female,Enterprise,4239,27,12,UPI,4,16
+1347,65,Male,Basic,2298,12,6,Debit Card,9,40
+1348,29,Male,Premium,3117,62,5,Credit Card,4,3
+1349,68,Female,Premium,452,52,10,Credit Card,7,47
+1350,39,Male,Basic,1329,48,12,Debit Card,5,33
+1351,39,Female,Premium,3464,67,10,Debit Card,5,42
+1352,63,Male,Enterprise,501,46,2,UPI,6,2
+1353,47,Male,Enterprise,2177,15,7,Debit Card,8,39
+1354,55,Male,Premium,2963,71,6,Net Banking,5,46
+1355,55,Female,Basic,4205,36,8,Credit Card,3,48
+1356,62,Male,Basic,3441,14,2,Net Banking,6,27
+1357,68,Female,Enterprise,3257,3,0,UPI,2,15
+1358,25,Male,Basic,750,67,1,Debit Card,8,7
+1359,44,Male,Premium,1787,19,11,Credit Card,8,45
+1360,44,Male,Premium,2022,54,10,Debit Card,3,42
+1361,51,Male,Premium,3417,69,14,Debit Card,8,9
+1362,38,Male,Enterprise,3696,10,11,UPI,9,41
+1363,47,Female,Basic,4609,33,0,UPI,5,6
+1364,50,Female,Basic,4479,13,10,UPI,5,12
+1365,45,Male,Basic,912,51,4,UPI,6,30
+1366,64,Male,Basic,2375,32,14,Credit Card,7,20
+1367,50,Male,Basic,4272,24,9,Net Banking,3,20
+1368,22,Male,Basic,4049,35,13,Net Banking,5,46
+1369,65,Female,Premium,2633,70,1,Credit Card,1,27
+1370,36,Male,Enterprise,3501,40,2,Debit Card,10,20
+1371,21,Female,Basic,470,54,7,Credit Card,5,7
+1372,52,Male,Basic,1994,44,14,Net Banking,4,40
+1373,66,Female,Enterprise,2662,62,9,Net Banking,1,40
+1374,34,Male,Basic,4493,68,13,Credit Card,7,30
+1375,61,Male,Basic,3594,33,4,UPI,1,8
+1376,45,Female,Basic,1279,56,3,Debit Card,8,2
+1377,47,Male,Premium,3078,36,4,Credit Card,10,14
+1378,46,Male,Basic,4923,54,9,Net Banking,2,10
+1379,63,Male,Enterprise,803,19,5,UPI,10,18
+1380,23,Female,Basic,1785,43,11,Debit Card,5,18
+1381,52,Male,Premium,3257,12,6,Net Banking,6,16
+1382,58,Male,Basic,4185,11,13,Debit Card,9,5
+1383,54,Female,Basic,4889,70,12,UPI,7,31
+1384,41,Female,Premium,1595,12,8,Net Banking,6,37
+1385,46,Female,Premium,3888,41,0,UPI,5,20
+1386,66,Male,Premium,799,25,3,Credit Card,6,23
+1387,63,Male,Premium,713,3,11,Credit Card,4,32
+1388,48,Male,Enterprise,1266,3,11,Debit Card,1,42
+1389,52,Female,Premium,3086,28,8,UPI,9,17
+1390,50,Male,Premium,2853,23,4,UPI,5,13
+1391,69,Male,Basic,1288,48,7,Debit Card,8,49
+1392,38,Female,Basic,4585,67,11,Debit Card,7,13
+1393,49,Female,Basic,2714,42,0,Debit Card,8,17
+1394,40,Female,Premium,4169,40,3,Credit Card,1,15
+1395,50,Female,Basic,3484,6,11,Debit Card,9,26
+1396,20,Female,Basic,4766,20,13,Credit Card,1,44
+1397,35,Male,Enterprise,2396,11,11,Debit Card,3,28
+1398,42,Female,Enterprise,4383,27,8,UPI,8,42
+1399,59,Male,Enterprise,989,21,12,UPI,1,45
+1400,48,Male,Basic,3675,13,0,Debit Card,1,30
+1401,20,Female,Premium,3353,35,0,Debit Card,6,43
+1402,57,Female,Basic,1864,47,3,Credit Card,5,35
+1403,63,Female,Basic,1509,28,13,Net Banking,6,22
+1404,41,Male,Basic,1064,21,2,Credit Card,3,10
+1405,67,Female,Basic,4063,18,6,UPI,10,11
+1406,49,Female,Basic,3563,31,10,Debit Card,10,38
+1407,64,Female,Premium,3724,60,2,UPI,6,33
+1408,39,Female,Basic,3986,37,0,Net Banking,2,6
+1409,40,Female,Premium,223,21,11,Credit Card,8,37
+1410,19,Male,Premium,3203,14,14,UPI,6,7
+1411,44,Male,Basic,510,60,10,Credit Card,4,44
+1412,59,Male,Basic,1431,23,9,Debit Card,4,12
+1413,19,Female,Basic,3988,29,1,UPI,7,7
+1414,43,Female,Premium,2911,47,9,Net Banking,3,2
+1415,34,Female,Basic,621,30,12,Credit Card,3,1
+1416,57,Male,Basic,1973,38,3,Credit Card,6,23
+1417,50,Female,Basic,3768,27,0,Net Banking,9,25
+1418,26,Female,Premium,1146,15,0,UPI,1,18
+1419,60,Female,Enterprise,1386,59,11,UPI,5,44
+1420,65,Male,Basic,2034,3,13,Credit Card,1,7
+1421,56,Female,Premium,1764,10,7,Net Banking,1,3
+1422,46,Male,Premium,2147,17,6,Credit Card,3,29
+1423,59,Female,Enterprise,1508,11,13,Credit Card,3,10
+1424,43,Male,Premium,3186,48,7,Debit Card,4,43
+1425,52,Male,Premium,586,5,12,UPI,3,5
+1426,67,Male,Premium,1361,69,3,UPI,6,34
+1427,42,Female,Enterprise,3458,64,5,Debit Card,4,8
+1428,41,Female,Basic,4133,14,14,UPI,8,14
+1429,30,Male,Basic,3047,50,12,UPI,1,40
+1430,24,Male,Basic,4721,26,2,UPI,8,6
+1431,53,Female,Premium,1639,69,10,Net Banking,1,1
+1432,62,Female,Premium,3642,7,12,Debit Card,1,33
+1433,37,Male,Basic,4680,16,7,Credit Card,7,40
+1434,18,Female,Premium,255,55,3,Net Banking,1,11
+1435,25,Female,Basic,3524,56,2,Credit Card,9,24
+1436,63,Female,Basic,305,4,3,Debit Card,8,10
+1437,33,Female,Enterprise,3401,48,5,Debit Card,1,44
+1438,31,Male,Basic,869,17,10,Debit Card,2,23
+1439,29,Female,Basic,4671,36,6,UPI,2,16
+1440,68,Female,Premium,942,70,6,Net Banking,2,37
+1441,40,Male,Premium,1166,38,13,Debit Card,6,16
+1442,32,Male,Basic,507,62,14,Credit Card,4,44
+1443,45,Female,Premium,2338,48,11,UPI,8,31
+1444,51,Female,Premium,3664,10,3,UPI,1,6
+1445,19,Female,Basic,309,36,7,Net Banking,10,30
+1446,49,Female,Basic,3832,29,6,Net Banking,4,37
+1447,40,Male,Premium,4635,4,1,Net Banking,10,1
+1448,39,Male,Basic,2115,44,12,UPI,5,42
+1449,68,Male,Enterprise,4463,56,7,Debit Card,9,25
+1450,42,Female,Premium,756,42,8,Credit Card,5,46
+1451,39,Female,Enterprise,304,13,4,Debit Card,3,21
+1452,39,Female,Basic,2247,46,14,Credit Card,4,35
+1453,66,Female,Enterprise,345,33,3,Debit Card,10,38
+1454,69,Male,Basic,2963,21,3,Net Banking,7,5
+1455,59,Male,Basic,1073,57,12,Credit Card,1,49
+1456,23,Female,Basic,498,69,3,UPI,6,12
+1457,32,Male,Basic,3438,70,5,Credit Card,8,5
+1458,60,Female,Premium,845,67,10,UPI,1,9
+1459,54,Female,Basic,4933,48,3,Debit Card,8,44
+1460,50,Male,Basic,3278,33,6,Net Banking,7,9
+1461,25,Female,Premium,2711,36,6,Credit Card,1,35
+1462,61,Female,Basic,983,33,4,UPI,9,1
+1463,61,Male,Premium,570,31,12,Debit Card,3,47
+1464,22,Female,Basic,686,21,4,Net Banking,2,10
+1465,56,Female,Premium,2237,27,14,Net Banking,7,46
+1466,21,Male,Premium,3396,62,9,Net Banking,3,39
+1467,23,Female,Basic,1560,26,7,Debit Card,1,36
+1468,62,Male,Basic,4487,66,6,Debit Card,10,37
+1469,49,Female,Basic,2461,12,13,Debit Card,3,48
+1470,69,Male,Premium,2821,22,6,Net Banking,6,35
+1471,47,Male,Basic,1156,17,5,Credit Card,3,17
+1472,64,Male,Basic,580,7,6,UPI,5,13
+1473,52,Female,Basic,3849,68,6,Debit Card,9,6
+1474,57,Male,Basic,438,37,9,Credit Card,7,37
+1475,69,Male,Basic,1305,38,13,UPI,2,48
+1476,33,Male,Premium,1586,11,1,Net Banking,1,32
+1477,30,Male,Basic,2752,1,13,Credit Card,7,11
+1478,67,Male,Basic,2449,25,9,Net Banking,4,17
+1479,59,Female,Premium,1727,42,1,UPI,7,5
+1480,47,Female,Premium,1867,52,13,Debit Card,6,6
+1481,36,Female,Basic,4332,24,9,Net Banking,7,10
+1482,34,Female,Basic,2891,53,6,Credit Card,4,33
+1483,36,Female,Basic,3872,56,13,Debit Card,3,30
+1484,45,Female,Enterprise,2196,63,9,Credit Card,5,21
+1485,43,Female,Basic,1625,8,6,UPI,3,42
+1486,54,Male,Enterprise,3012,59,6,UPI,3,17
+1487,43,Female,Premium,3447,45,4,Debit Card,4,27
+1488,40,Male,Premium,2792,27,0,Credit Card,8,3
+1489,26,Male,Basic,1690,52,13,Credit Card,2,29
+1490,29,Female,Basic,1424,18,1,Credit Card,4,2
+1491,18,Male,Basic,2787,16,12,Credit Card,3,29
+1492,18,Male,Basic,3264,66,8,UPI,7,49
+1493,64,Male,Premium,1032,5,7,Credit Card,2,36
+1494,51,Male,Enterprise,4892,3,7,UPI,1,34
+1495,49,Female,Premium,2640,70,9,Credit Card,10,37
+1496,65,Female,Premium,4995,7,0,Credit Card,1,42
+1497,42,Female,Basic,1846,50,5,Net Banking,6,1
+1498,57,Female,Basic,640,14,14,Net Banking,3,26
+1499,62,Female,Basic,1729,38,14,Credit Card,7,1
+1500,18,Female,Premium,3165,47,8,UPI,8,4
+1501,33,Female,Enterprise,2567,33,14,Credit Card,5,39
+1502,56,Female,Premium,3486,43,7,Net Banking,5,14
+1503,22,Female,Basic,4863,29,2,Credit Card,2,46
+1504,39,Female,Basic,4531,57,3,Net Banking,8,18
+1505,46,Male,Premium,1504,5,14,Credit Card,10,34
+1506,20,Female,Basic,3234,60,2,Debit Card,1,1
+1507,29,Male,Premium,3888,70,5,Credit Card,10,22
+1508,43,Male,Premium,4173,2,13,UPI,9,16
+1509,33,Male,Premium,1385,70,8,Net Banking,1,22
+1510,68,Male,Basic,3462,43,14,Debit Card,1,16
+1511,54,Female,Basic,2307,4,7,Net Banking,1,28
+1512,39,Male,Basic,2040,56,14,Net Banking,7,28
+1513,46,Female,Basic,4520,59,14,UPI,4,22
+1514,31,Female,Basic,2947,9,12,Credit Card,7,6
+1515,45,Male,Premium,4877,3,9,UPI,5,25
+1516,22,Female,Premium,4464,48,3,Credit Card,7,42
+1517,64,Male,Basic,3333,43,14,Debit Card,10,2
+1518,66,Male,Basic,3620,1,1,UPI,7,7
+1519,47,Female,Basic,1665,57,12,UPI,4,17
+1520,63,Female,Basic,4309,53,7,Net Banking,2,35
+1521,69,Male,Premium,2411,16,7,UPI,8,20
+1522,22,Female,Basic,3004,51,13,Credit Card,2,44
+1523,29,Female,Basic,1743,55,11,UPI,9,2
+1524,33,Female,Basic,1889,1,10,UPI,5,7
+1525,43,Male,Enterprise,1771,28,5,Debit Card,9,32
+1526,43,Male,Premium,4741,53,13,Credit Card,9,49
+1527,65,Female,Basic,3479,58,7,Net Banking,8,19
+1528,38,Female,Premium,3741,60,8,Credit Card,8,12
+1529,56,Female,Premium,3223,59,12,Debit Card,4,9
+1530,53,Female,Enterprise,1018,22,0,Credit Card,4,27
+1531,50,Female,Basic,4721,8,8,Credit Card,2,14
+1532,47,Male,Enterprise,1324,49,1,UPI,4,2
+1533,54,Female,Enterprise,1329,42,13,UPI,4,21
+1534,40,Male,Enterprise,1902,27,12,Credit Card,6,4
+1535,27,Female,Premium,2201,39,0,Credit Card,3,21
+1536,22,Male,Premium,4078,25,7,Net Banking,2,48
+1537,53,Female,Basic,4572,38,7,Debit Card,8,22
+1538,51,Male,Premium,2006,24,10,UPI,2,49
+1539,69,Female,Premium,3147,24,3,UPI,8,2
+1540,48,Male,Premium,3409,60,7,UPI,7,17
+1541,27,Male,Basic,2352,50,6,UPI,3,19
+1542,36,Male,Premium,4841,66,12,Credit Card,6,40
+1543,49,Male,Premium,4405,14,1,Credit Card,6,24
+1544,18,Male,Basic,744,53,4,Net Banking,10,20
+1545,22,Male,Premium,2601,32,13,UPI,5,38
+1546,62,Female,Premium,2564,48,9,UPI,8,12
+1547,21,Male,Premium,1489,39,3,Credit Card,5,25
+1548,33,Female,Basic,3965,40,2,Net Banking,7,23
+1549,41,Female,Basic,2075,42,0,Credit Card,6,34
+1550,33,Female,Enterprise,4628,8,4,UPI,7,32
+1551,19,Female,Basic,4887,26,9,UPI,9,24
+1552,66,Female,Premium,982,12,7,Debit Card,3,42
+1553,45,Male,Basic,739,43,11,Debit Card,10,25
+1554,49,Male,Premium,2982,51,8,Debit Card,7,3
+1555,44,Male,Basic,2868,63,6,Net Banking,10,25
+1556,37,Female,Premium,4914,49,11,Credit Card,3,28
+1557,41,Male,Basic,4137,27,10,UPI,2,12
+1558,29,Male,Basic,3156,9,0,UPI,7,26
+1559,67,Male,Basic,3922,39,0,Net Banking,4,48
+1560,52,Male,Basic,4067,65,14,UPI,1,44
+1561,50,Male,Enterprise,2033,71,0,UPI,6,8
+1562,50,Female,Enterprise,2346,71,1,Credit Card,6,5
+1563,68,Male,Basic,2370,7,0,Debit Card,6,11
+1564,60,Female,Premium,3591,67,3,Debit Card,2,42
+1565,54,Female,Basic,1816,10,9,Net Banking,1,35
+1566,29,Female,Premium,4817,71,8,Debit Card,3,27
+1567,20,Female,Premium,1116,53,11,Debit Card,2,41
+1568,18,Female,Enterprise,2956,57,3,Net Banking,6,44
+1569,50,Male,Basic,2136,27,12,Net Banking,6,38
+1570,57,Male,Premium,4242,54,3,Debit Card,5,19
+1571,27,Male,Basic,3291,4,6,Credit Card,10,48
+1572,60,Female,Enterprise,4855,23,13,Net Banking,10,32
+1573,61,Male,Basic,1168,48,10,UPI,5,46
+1574,46,Male,Premium,3564,42,8,Net Banking,9,28
+1575,30,Female,Premium,3403,3,6,UPI,5,36
+1576,29,Female,Premium,1089,3,0,Net Banking,10,18
+1577,48,Female,Basic,992,28,0,Net Banking,6,10
+1578,63,Female,Enterprise,3658,63,3,Debit Card,4,32
+1579,19,Male,Basic,1181,31,3,Debit Card,10,18
+1580,68,Female,Premium,3731,10,0,Debit Card,1,12
+1581,67,Female,Basic,3729,49,5,Credit Card,4,8
+1582,52,Male,Basic,1001,21,9,Debit Card,2,33
+1583,40,Male,Premium,242,53,1,Debit Card,10,46
+1584,34,Female,Basic,3549,54,10,Net Banking,3,38
+1585,43,Male,Basic,1977,57,4,Net Banking,7,14
+1586,25,Female,Basic,3401,20,7,Credit Card,7,2
+1587,46,Female,Basic,549,49,14,UPI,1,9
+1588,43,Male,Premium,1767,7,2,Net Banking,8,44
+1589,27,Male,Enterprise,1329,29,8,Net Banking,7,5
+1590,43,Female,Basic,3159,48,6,UPI,1,34
+1591,51,Female,Basic,3987,13,8,Credit Card,8,19
+1592,68,Female,Basic,1980,3,0,Net Banking,2,7
+1593,58,Male,Basic,783,2,4,Debit Card,8,39
+1594,24,Female,Premium,4727,16,11,Credit Card,3,42
+1595,21,Female,Premium,3577,6,12,UPI,10,17
+1596,67,Female,Basic,3601,45,2,UPI,7,26
+1597,62,Female,Basic,3385,71,3,Debit Card,6,46
+1598,28,Female,Basic,2394,5,3,Debit Card,5,27
+1599,46,Male,Premium,1362,56,10,Debit Card,10,43
+1600,53,Female,Enterprise,498,71,11,Credit Card,2,28
+1601,42,Female,Basic,3547,32,6,UPI,2,20
+1602,38,Female,Basic,2139,49,9,Debit Card,1,6
+1603,53,Female,Enterprise,988,13,10,Debit Card,9,8
+1604,27,Male,Enterprise,3089,30,7,UPI,8,32
+1605,54,Male,Basic,1577,25,10,Net Banking,8,19
+1606,26,Male,Basic,2149,60,9,Credit Card,1,32
+1607,41,Female,Basic,3472,59,4,Net Banking,5,19
+1608,52,Female,Premium,1077,28,12,Debit Card,6,24
+1609,66,Male,Basic,3942,58,12,Credit Card,2,24
+1610,52,Male,Basic,1777,20,11,Net Banking,10,17
+1611,65,Male,Premium,3339,34,9,UPI,5,18
+1612,53,Female,Basic,2692,5,6,Debit Card,6,12
+1613,35,Female,Premium,2955,60,2,Credit Card,9,41
+1614,66,Male,Basic,2103,43,2,Credit Card,10,23
+1615,56,Male,Basic,1582,57,2,Credit Card,1,48
+1616,49,Male,Premium,4440,57,11,Credit Card,10,18
+1617,41,Female,Basic,2522,54,3,Debit Card,3,16
+1618,40,Female,Enterprise,2756,45,5,Debit Card,9,16
+1619,49,Female,Premium,2061,37,14,UPI,1,36
+1620,54,Male,Basic,2066,48,4,UPI,1,23
+1621,29,Male,Premium,4247,54,7,UPI,1,22
+1622,66,Female,Basic,3375,48,13,Net Banking,7,39
+1623,30,Male,Enterprise,1298,6,13,UPI,5,33
+1624,40,Female,Basic,1934,34,11,Debit Card,6,24
+1625,42,Male,Premium,4863,63,12,Net Banking,8,20
+1626,52,Male,Basic,3616,48,4,Debit Card,2,33
+1627,58,Male,Basic,4826,23,10,Net Banking,2,31
+1628,47,Male,Premium,880,13,11,UPI,3,40
+1629,34,Female,Premium,2270,47,4,UPI,3,8
+1630,66,Male,Basic,1929,44,13,UPI,3,10
+1631,37,Female,Basic,2391,32,9,Net Banking,4,1
+1632,65,Female,Premium,867,26,1,Debit Card,3,21
+1633,42,Female,Enterprise,1812,53,11,Credit Card,2,25
+1634,39,Male,Basic,880,14,10,Debit Card,9,32
+1635,30,Female,Basic,1172,52,10,UPI,6,46
+1636,36,Female,Basic,3046,36,4,Net Banking,3,46
+1637,66,Female,Enterprise,2332,8,14,Net Banking,9,10
+1638,53,Male,Basic,2663,40,11,UPI,4,48
+1639,29,Male,Basic,2729,22,6,Net Banking,4,9
+1640,58,Female,Premium,2703,16,1,UPI,8,20
+1641,36,Male,Basic,4592,60,13,Debit Card,7,48
+1642,29,Female,Basic,3383,60,12,Net Banking,7,20
+1643,26,Female,Basic,4233,10,5,Credit Card,10,40
+1644,24,Male,Basic,3367,25,6,Net Banking,7,7
+1645,45,Female,Basic,3197,31,4,UPI,10,11
+1646,31,Male,Premium,3427,21,8,Credit Card,5,21
+1647,48,Male,Basic,2352,33,13,UPI,7,38
+1648,69,Female,Premium,1928,31,3,Net Banking,4,47
+1649,36,Male,Premium,2224,21,13,Credit Card,8,19
+1650,64,Male,Premium,529,36,13,Credit Card,9,46
+1651,33,Female,Basic,2686,65,12,Net Banking,3,15
+1652,22,Female,Basic,1355,4,9,Credit Card,7,6
+1653,52,Male,Basic,2090,68,14,Debit Card,10,10
+1654,29,Male,Basic,4677,4,0,Credit Card,9,46
+1655,42,Female,Basic,2385,9,13,Credit Card,1,16
+1656,69,Male,Premium,2517,30,7,Debit Card,2,45
+1657,38,Male,Basic,3821,45,14,UPI,7,11
+1658,53,Male,Basic,4691,4,7,UPI,2,35
+1659,40,Male,Basic,2711,69,6,Debit Card,7,8
+1660,33,Male,Premium,649,23,7,Credit Card,1,28
+1661,56,Male,Basic,1554,16,1,Net Banking,3,3
+1662,62,Male,Premium,1493,22,2,Debit Card,5,2
+1663,59,Female,Basic,2665,48,8,Net Banking,6,14
+1664,56,Female,Enterprise,3302,62,0,UPI,9,29
+1665,31,Female,Enterprise,2049,60,7,Debit Card,9,47
+1666,48,Female,Basic,3375,5,7,Net Banking,3,3
+1667,22,Female,Basic,4481,7,6,Credit Card,8,1
+1668,52,Male,Basic,3399,51,12,Debit Card,4,15
+1669,40,Male,Basic,1433,65,13,Net Banking,7,20
+1670,46,Male,Premium,1637,9,10,Debit Card,6,22
+1671,60,Male,Premium,3552,45,4,Debit Card,8,34
+1672,28,Female,Premium,4230,47,3,UPI,6,33
+1673,35,Male,Premium,452,67,9,UPI,4,9
+1674,64,Male,Basic,218,24,9,Credit Card,2,3
+1675,29,Female,Basic,2959,10,12,UPI,7,2
+1676,26,Male,Premium,422,48,14,UPI,4,4
+1677,27,Male,Basic,202,35,9,UPI,9,16
+1678,61,Female,Premium,1459,54,13,Net Banking,9,33
+1679,34,Male,Basic,4523,71,9,Debit Card,7,9
+1680,55,Male,Basic,4794,16,5,UPI,5,40
+1681,24,Male,Enterprise,2768,53,11,Net Banking,3,38
+1682,63,Male,Basic,2085,40,10,Debit Card,3,18
+1683,30,Male,Enterprise,1499,20,0,UPI,9,16
+1684,57,Female,Enterprise,2538,69,12,UPI,9,8
+1685,59,Female,Premium,1276,45,4,Debit Card,4,23
+1686,26,Female,Premium,3958,6,13,Net Banking,1,36
+1687,67,Female,Premium,3381,69,3,Net Banking,10,3
+1688,44,Female,Enterprise,1147,49,3,Credit Card,5,15
+1689,19,Female,Basic,3938,39,6,Debit Card,8,38
+1690,22,Male,Basic,2931,2,8,Credit Card,10,33
+1691,46,Female,Premium,4207,39,7,Net Banking,4,18
+1692,54,Female,Basic,1069,21,10,UPI,10,23
+1693,55,Male,Basic,293,40,12,Credit Card,10,43
+1694,36,Male,Basic,3187,54,13,Net Banking,4,3
+1695,25,Female,Premium,4855,12,11,Net Banking,9,30
+1696,65,Male,Enterprise,1975,37,7,UPI,9,45
+1697,62,Female,Basic,2460,38,4,Debit Card,7,17
+1698,18,Male,Enterprise,635,15,5,Net Banking,10,32
+1699,39,Female,Premium,4500,7,1,Credit Card,8,46
+1700,69,Male,Premium,3344,50,12,UPI,4,7
+1701,34,Male,Premium,3787,65,10,Debit Card,8,39
+1702,24,Female,Premium,276,67,13,Debit Card,6,14
+1703,42,Female,Basic,1015,44,2,Debit Card,3,15
+1704,62,Female,Premium,967,31,4,Net Banking,7,44
+1705,21,Female,Basic,3885,43,1,Debit Card,3,12
+1706,53,Female,Enterprise,305,48,2,Net Banking,7,8
+1707,23,Male,Enterprise,4116,61,3,UPI,5,16
+1708,48,Female,Basic,3073,10,5,UPI,4,41
+1709,36,Female,Basic,3546,29,4,Debit Card,3,34
+1710,61,Male,Premium,3348,48,9,UPI,8,46
+1711,56,Male,Basic,3348,62,3,Credit Card,4,24
+1712,44,Female,Enterprise,1665,13,12,Credit Card,8,29
+1713,27,Male,Basic,2787,44,14,Net Banking,10,16
+1714,43,Male,Basic,444,47,1,Debit Card,3,5
+1715,36,Female,Enterprise,2825,64,11,Net Banking,10,5
+1716,56,Male,Premium,4049,53,10,UPI,9,30
+1717,20,Male,Premium,1605,44,4,Debit Card,6,5
+1718,62,Female,Basic,1181,28,4,Net Banking,5,43
+1719,30,Female,Premium,4008,2,10,Debit Card,5,13
+1720,67,Male,Premium,341,57,6,Debit Card,3,35
+1721,45,Male,Premium,1092,57,0,Net Banking,2,49
+1722,37,Female,Premium,2599,34,3,Debit Card,6,25
+1723,45,Male,Premium,4840,58,10,UPI,1,14
+1724,25,Male,Basic,3160,52,4,Credit Card,7,44
+1725,58,Male,Basic,2399,29,7,Credit Card,5,46
+1726,56,Female,Premium,1669,35,11,Debit Card,4,26
+1727,18,Male,Basic,2900,48,14,Credit Card,9,18
+1728,20,Male,Premium,3205,33,11,Debit Card,10,20
+1729,30,Female,Basic,3574,9,7,Net Banking,1,34
+1730,45,Male,Premium,4919,48,0,UPI,4,7
+1731,66,Male,Premium,855,67,4,Credit Card,3,47
+1732,42,Female,Basic,2968,36,9,Net Banking,6,10
+1733,50,Female,Basic,242,71,0,UPI,5,15
+1734,55,Female,Basic,2511,44,0,Credit Card,7,17
+1735,23,Female,Premium,1860,60,1,Credit Card,1,11
+1736,61,Male,Premium,4891,63,1,UPI,5,34
+1737,62,Male,Basic,2424,5,14,Net Banking,2,27
+1738,49,Female,Premium,2310,40,14,Net Banking,2,21
+1739,62,Female,Basic,1157,19,8,Credit Card,2,31
+1740,64,Male,Basic,760,47,3,UPI,9,4
+1741,38,Female,Enterprise,1530,65,2,Net Banking,10,41
+1742,33,Male,Basic,1512,67,10,UPI,3,49
+1743,38,Female,Basic,2021,18,0,UPI,4,17
+1744,28,Male,Basic,3202,50,11,Credit Card,5,49
+1745,54,Female,Basic,3603,30,1,UPI,4,48
+1746,53,Female,Basic,2851,66,5,UPI,4,20
+1747,52,Male,Basic,2014,5,8,Debit Card,5,25
+1748,36,Female,Premium,1941,42,4,UPI,10,40
+1749,37,Male,Basic,4901,5,3,Net Banking,9,23
+1750,35,Male,Premium,4008,50,12,Credit Card,9,15
+1751,64,Male,Basic,3077,58,4,Credit Card,6,33
+1752,58,Male,Basic,3470,8,8,UPI,3,19
+1753,66,Male,Premium,4283,31,11,UPI,6,15
+1754,31,Female,Enterprise,945,12,12,Net Banking,10,41
+1755,32,Female,Basic,757,21,6,Debit Card,4,5
+1756,48,Male,Enterprise,3501,62,7,Credit Card,3,16
+1757,18,Female,Premium,1141,33,14,Debit Card,6,45
+1758,20,Male,Premium,4223,26,3,Net Banking,6,48
+1759,33,Female,Premium,2496,40,10,Credit Card,2,32
+1760,40,Female,Basic,1139,65,7,Net Banking,9,22
+1761,28,Female,Basic,1810,59,5,UPI,8,43
+1762,29,Female,Premium,1925,15,4,Net Banking,6,32
+1763,27,Male,Basic,1184,1,12,UPI,1,13
+1764,49,Male,Enterprise,1787,11,11,Debit Card,2,38
+1765,33,Female,Basic,4221,55,6,Credit Card,4,26
+1766,25,Female,Basic,1536,2,5,Credit Card,7,17
+1767,55,Male,Premium,3337,65,2,Debit Card,9,5
+1768,29,Female,Basic,861,44,4,UPI,10,49
+1769,41,Male,Premium,232,16,8,Credit Card,5,33
+1770,45,Male,Premium,3614,22,6,Net Banking,10,27
+1771,25,Male,Enterprise,1356,18,11,UPI,2,5
+1772,45,Female,Premium,3326,47,3,Credit Card,1,37
+1773,53,Male,Premium,260,30,6,Net Banking,10,7
+1774,43,Female,Premium,4128,10,4,Net Banking,1,48
+1775,25,Male,Enterprise,1743,58,10,Credit Card,5,18
+1776,67,Female,Basic,471,62,12,Debit Card,7,31
+1777,45,Female,Basic,4276,6,14,Debit Card,9,6
+1778,45,Female,Basic,3588,67,1,Credit Card,9,2
+1779,54,Male,Basic,2952,41,12,Net Banking,8,13
+1780,58,Male,Premium,2909,43,5,Debit Card,1,42
+1781,53,Female,Premium,1354,18,6,Debit Card,5,11
+1782,44,Female,Premium,4605,58,7,Debit Card,6,26
+1783,34,Female,Basic,4053,60,5,UPI,6,21
+1784,26,Male,Premium,1945,27,7,Debit Card,4,2
+1785,50,Male,Basic,3632,68,6,Credit Card,1,40
+1786,37,Male,Premium,537,22,1,Credit Card,3,20
+1787,30,Male,Premium,209,24,13,UPI,10,17
+1788,45,Female,Basic,4344,40,5,UPI,4,16
+1789,65,Female,Basic,930,66,8,Credit Card,4,42
+1790,46,Male,Basic,1848,40,11,UPI,4,5
+1791,30,Male,Premium,4428,6,5,Debit Card,5,14
+1792,63,Female,Enterprise,3854,18,3,Net Banking,9,24
+1793,52,Male,Premium,2330,30,6,Net Banking,4,4
+1794,23,Male,Basic,4671,21,2,Net Banking,9,48
+1795,35,Male,Basic,2596,62,4,Credit Card,9,24
+1796,68,Male,Premium,4566,10,0,UPI,1,47
+1797,22,Male,Premium,1706,13,14,Net Banking,5,9
+1798,64,Male,Basic,2358,9,9,Debit Card,9,3
+1799,42,Female,Basic,3116,68,2,Debit Card,4,9
+1800,19,Male,Premium,4371,39,7,Debit Card,5,18
+1801,27,Male,Basic,3429,24,8,UPI,4,36
+1802,47,Female,Basic,3803,34,8,Net Banking,2,19
+1803,67,Female,Basic,1866,61,14,Debit Card,10,24
+1804,62,Female,Premium,4624,41,9,UPI,2,4
+1805,22,Male,Enterprise,4336,5,1,Debit Card,2,9
+1806,50,Female,Enterprise,3169,50,3,Net Banking,1,33
+1807,18,Male,Premium,2889,4,4,Net Banking,3,1
+1808,35,Male,Premium,2526,51,14,Net Banking,10,35
+1809,49,Male,Basic,3010,52,2,Net Banking,1,10
+1810,64,Female,Premium,2716,39,12,Net Banking,4,12
+1811,66,Female,Basic,3671,8,10,Debit Card,1,18
+1812,28,Female,Premium,212,45,0,Net Banking,4,14
+1813,38,Female,Basic,3170,28,5,Debit Card,3,10
+1814,43,Female,Basic,3821,27,13,Net Banking,9,10
+1815,42,Male,Basic,3883,65,14,Debit Card,1,18
+1816,39,Male,Basic,3673,34,9,Net Banking,8,24
+1817,44,Male,Basic,3322,62,1,Debit Card,9,1
+1818,66,Male,Basic,3664,62,8,Net Banking,7,30
+1819,30,Female,Enterprise,852,38,0,UPI,1,15
+1820,50,Female,Basic,820,26,10,Debit Card,4,8
+1821,51,Male,Premium,3990,24,8,UPI,10,35
+1822,58,Female,Enterprise,1845,39,6,Debit Card,1,18
+1823,52,Female,Enterprise,2443,21,10,Debit Card,4,41
+1824,18,Male,Premium,4712,47,12,Debit Card,3,16
+1825,38,Male,Premium,4959,48,9,Credit Card,2,21
+1826,65,Female,Basic,3691,13,1,Net Banking,1,15
+1827,23,Female,Basic,3911,3,13,UPI,6,5
+1828,45,Male,Basic,3888,32,5,UPI,7,45
+1829,34,Male,Premium,1579,35,7,Debit Card,6,7
+1830,22,Male,Premium,4443,19,14,UPI,9,48
+1831,48,Female,Basic,2245,14,1,UPI,9,7
+1832,22,Male,Basic,3248,48,14,UPI,2,27
+1833,55,Male,Premium,1588,68,4,UPI,2,25
+1834,20,Female,Basic,601,45,12,Credit Card,9,22
+1835,40,Female,Premium,2853,19,11,Debit Card,1,48
+1836,54,Female,Premium,4524,64,10,UPI,5,13
+1837,54,Female,Premium,4123,66,5,Credit Card,1,17
+1838,27,Female,Premium,467,66,2,Credit Card,7,41
+1839,27,Male,Enterprise,4421,45,13,Debit Card,9,44
+1840,36,Male,Basic,1925,67,11,Net Banking,6,13
+1841,34,Female,Premium,1312,69,1,Net Banking,2,26
+1842,38,Female,Premium,2875,3,14,Net Banking,6,9
+1843,31,Female,Basic,4984,38,10,UPI,9,5
+1844,26,Female,Basic,1480,42,5,Debit Card,3,39
+1845,63,Female,Basic,1432,40,2,Net Banking,9,33
+1846,18,Male,Basic,4576,50,1,UPI,8,4
+1847,68,Male,Premium,4738,35,14,Debit Card,7,28
+1848,62,Male,Premium,2063,24,0,UPI,8,26
+1849,30,Male,Basic,4684,17,13,Net Banking,10,4
+1850,21,Female,Basic,816,40,7,Net Banking,6,16
+1851,18,Male,Enterprise,346,66,0,Credit Card,3,37
+1852,66,Female,Basic,4816,44,11,Credit Card,7,22
+1853,57,Female,Basic,4925,23,14,Debit Card,4,36
+1854,49,Female,Premium,3877,6,4,UPI,10,38
+1855,51,Male,Premium,488,66,10,UPI,5,35
+1856,45,Female,Basic,1609,21,5,Net Banking,8,25
+1857,48,Male,Basic,213,35,10,Net Banking,7,8
+1858,25,Male,Basic,456,29,11,Debit Card,7,17
+1859,56,Female,Premium,1921,7,11,Credit Card,8,18
+1860,43,Female,Premium,1623,53,2,Net Banking,10,12
+1861,51,Female,Basic,3190,37,13,UPI,3,33
+1862,20,Male,Premium,1395,23,6,Net Banking,3,23
+1863,67,Female,Premium,4759,8,1,Credit Card,2,12
+1864,29,Male,Basic,4565,48,6,UPI,1,11
+1865,18,Female,Basic,1444,10,1,Credit Card,10,13
+1866,61,Female,Premium,3423,24,4,Debit Card,6,35
+1867,22,Male,Basic,3670,47,6,Debit Card,6,27
+1868,47,Male,Basic,4367,53,10,Credit Card,10,25
+1869,47,Male,Premium,4169,39,10,UPI,8,40
+1870,34,Male,Enterprise,1506,67,13,Credit Card,6,3
+1871,65,Male,Premium,2321,66,2,Net Banking,6,49
+1872,64,Male,Premium,2602,6,13,Net Banking,1,25
+1873,40,Female,Premium,696,21,10,Credit Card,7,45
+1874,32,Female,Basic,3599,36,3,Net Banking,7,10
+1875,54,Male,Premium,3806,3,0,Credit Card,10,17
+1876,38,Female,Basic,1109,42,2,Net Banking,9,3
+1877,31,Male,Basic,572,45,8,Credit Card,7,45
+1878,19,Female,Premium,4657,44,9,Net Banking,8,22
+1879,28,Female,Premium,1544,33,4,UPI,4,38
+1880,68,Male,Basic,523,60,14,UPI,9,14
+1881,56,Male,Enterprise,2631,70,14,Net Banking,1,27
+1882,55,Male,Basic,4870,26,7,Credit Card,8,42
+1883,51,Female,Basic,2984,21,1,Net Banking,3,20
+1884,55,Male,Basic,2593,2,2,Debit Card,1,48
+1885,67,Female,Premium,4120,47,6,Debit Card,2,18
+1886,51,Male,Premium,1415,30,13,Credit Card,6,13
+1887,35,Female,Basic,1895,27,9,Net Banking,5,42
+1888,47,Female,Premium,2107,71,3,Net Banking,3,6
+1889,32,Male,Basic,980,20,8,UPI,9,10
+1890,44,Female,Premium,1219,50,13,Credit Card,8,37
+1891,68,Female,Basic,3465,23,6,Debit Card,3,29
+1892,51,Male,Basic,1603,13,13,Debit Card,2,6
+1893,69,Female,Enterprise,1626,4,10,Credit Card,8,39
+1894,55,Male,Basic,863,14,11,Debit Card,5,11
+1895,50,Male,Basic,2847,20,0,Credit Card,9,48
+1896,41,Male,Premium,210,13,3,Debit Card,1,25
+1897,32,Male,Enterprise,1238,3,9,Debit Card,10,44
+1898,47,Female,Basic,3025,47,10,Credit Card,3,44
+1899,59,Female,Basic,3203,3,5,Credit Card,5,30
+1900,68,Female,Basic,4880,1,5,Debit Card,2,20
+1901,34,Male,Premium,1275,24,9,Debit Card,3,37
+1902,22,Female,Basic,3288,35,5,UPI,4,16
+1903,46,Female,Premium,1989,14,4,Net Banking,4,31
+1904,21,Male,Enterprise,3236,67,2,Credit Card,9,29
+1905,27,Male,Basic,3853,13,1,Credit Card,1,6
+1906,34,Female,Basic,3375,47,2,Net Banking,9,29
+1907,27,Male,Basic,4499,50,8,UPI,9,32
+1908,34,Male,Basic,1276,26,2,Debit Card,6,9
+1909,37,Male,Enterprise,1173,3,2,Debit Card,1,37
+1910,41,Male,Basic,2065,51,0,UPI,6,23
+1911,22,Female,Basic,3325,40,1,UPI,8,16
+1912,51,Male,Premium,1499,68,10,Net Banking,5,18
+1913,23,Male,Basic,3606,36,11,Net Banking,5,19
+1914,19,Male,Premium,1358,51,2,Debit Card,1,44
+1915,30,Male,Basic,3329,1,1,UPI,1,2
+1916,60,Male,Premium,304,33,7,UPI,8,10
+1917,60,Male,Enterprise,3767,7,5,Debit Card,5,12
+1918,65,Male,Premium,4548,52,6,Debit Card,8,46
+1919,28,Male,Enterprise,4590,11,0,Debit Card,10,18
+1920,68,Female,Basic,1381,27,5,Debit Card,2,19
+1921,64,Male,Basic,4844,14,1,Debit Card,4,38
+1922,40,Female,Premium,3338,46,12,Net Banking,10,37
+1923,33,Male,Premium,4594,10,14,Debit Card,9,27
+1924,48,Male,Basic,3734,24,5,UPI,3,48
+1925,28,Male,Basic,4396,61,2,Credit Card,6,14
+1926,33,Male,Basic,3327,18,6,Net Banking,7,45
+1927,25,Female,Basic,1974,9,2,UPI,3,34
+1928,21,Male,Basic,4014,17,8,Credit Card,1,2
+1929,57,Male,Premium,291,58,2,Net Banking,2,44
+1930,21,Female,Basic,646,13,6,Debit Card,10,33
+1931,42,Female,Basic,308,50,11,Net Banking,7,19
+1932,20,Male,Premium,4612,6,3,Debit Card,7,27
+1933,49,Female,Premium,3439,51,7,Debit Card,1,48
+1934,20,Female,Enterprise,4253,36,13,Debit Card,10,30
+1935,44,Female,Premium,4737,71,1,Credit Card,7,7
+1936,46,Male,Basic,1445,25,7,Net Banking,10,27
+1937,49,Male,Premium,2920,11,8,Debit Card,6,21
+1938,67,Male,Premium,477,44,12,UPI,6,7
+1939,68,Female,Basic,3256,14,7,Net Banking,7,48
+1940,36,Male,Premium,4864,29,5,UPI,7,25
+1941,38,Female,Enterprise,3122,50,9,Credit Card,1,38
+1942,22,Male,Basic,2713,5,0,Credit Card,10,18
+1943,35,Male,Basic,1038,69,6,Net Banking,5,33
+1944,45,Female,Basic,3001,57,0,Credit Card,8,33
+1945,59,Male,Basic,229,26,6,Credit Card,8,32
+1946,39,Female,Basic,1457,6,13,Net Banking,3,25
+1947,38,Female,Premium,564,16,1,UPI,3,14
+1948,23,Male,Basic,2000,60,7,Debit Card,7,38
+1949,18,Female,Enterprise,1104,12,1,Net Banking,4,38
+1950,22,Male,Premium,4993,3,2,Net Banking,6,4
+1951,58,Male,Premium,2378,63,12,Debit Card,9,44
+1952,29,Female,Premium,3050,64,11,UPI,10,18
+1953,43,Male,Basic,3036,62,2,Debit Card,2,10
+1954,63,Female,Basic,4646,6,0,Debit Card,2,35
+1955,51,Male,Premium,379,19,4,UPI,6,35
+1956,66,Male,Premium,4073,18,4,UPI,3,40
+1957,31,Male,Premium,4160,43,9,Debit Card,1,23
+1958,43,Male,Basic,1386,3,4,Debit Card,2,25
+1959,62,Male,Enterprise,4159,38,13,Net Banking,7,1
+1960,44,Female,Basic,973,68,12,UPI,4,18
+1961,26,Female,Enterprise,4805,44,8,Credit Card,2,15
+1962,43,Female,Enterprise,4660,63,5,UPI,8,25
+1963,64,Female,Basic,552,42,5,Debit Card,4,32
+1964,39,Female,Premium,4707,64,2,Debit Card,4,20
+1965,64,Female,Basic,3228,54,4,Debit Card,2,17
+1966,47,Male,Basic,317,71,9,Debit Card,1,11
+1967,60,Male,Premium,681,37,6,Credit Card,1,13
+1968,65,Female,Premium,4487,4,2,UPI,3,25
+1969,34,Female,Enterprise,2837,2,1,Credit Card,6,20
+1970,43,Male,Premium,306,44,4,Credit Card,7,25
+1971,53,Male,Basic,4677,67,2,Debit Card,9,42
+1972,18,Male,Premium,443,68,4,Credit Card,5,45
+1973,25,Female,Enterprise,2832,62,8,Debit Card,9,49
+1974,66,Female,Basic,4763,1,10,Debit Card,8,31
+1975,52,Female,Enterprise,1065,17,9,Debit Card,1,1
+1976,69,Male,Basic,3181,16,0,Credit Card,3,16
+1977,32,Male,Premium,1761,9,3,Debit Card,8,48
+1978,64,Female,Basic,803,53,9,Credit Card,9,28
+1979,39,Female,Basic,3262,59,14,UPI,4,21
+1980,31,Male,Basic,4218,9,4,Debit Card,6,30
+1981,43,Male,Premium,2215,12,1,Net Banking,4,3
+1982,45,Male,Basic,1858,41,11,Net Banking,9,34
+1983,40,Male,Basic,3580,15,1,Net Banking,2,6
+1984,31,Female,Premium,3967,66,0,Net Banking,6,43
+1985,41,Male,Enterprise,3970,11,13,Net Banking,3,29
+1986,19,Male,Basic,1813,8,7,Credit Card,10,3
+1987,62,Male,Basic,2079,55,1,UPI,4,33
+1988,43,Female,Basic,4308,6,2,Credit Card,2,11
+1989,31,Female,Basic,2546,53,14,Debit Card,8,45
+1990,68,Male,Premium,1299,20,11,UPI,10,5
+1991,24,Male,Premium,1274,39,1,UPI,8,32
+1992,20,Male,Premium,986,34,3,UPI,1,47
+1993,64,Female,Basic,348,57,13,UPI,10,18
+1994,40,Female,Premium,1954,19,0,Net Banking,6,47
+1995,63,Female,Premium,2369,71,2,Debit Card,1,20
+1996,60,Male,Premium,3956,31,4,UPI,6,39
+1997,64,Female,Premium,1379,40,9,UPI,7,49
+1998,62,Male,Premium,3509,14,0,Net Banking,2,40
+1999,35,Male,Premium,2623,37,3,Credit Card,9,28
+2000,55,Male,Basic,4377,44,5,Credit Card,8,13
+2001,52,Female,Enterprise,4787,9,14,Credit Card,9,26
+2002,68,Male,Premium,1124,58,3,Debit Card,10,16
+2003,32,Female,Premium,1803,20,6,Credit Card,4,25
+2004,42,Female,Basic,3252,50,13,UPI,4,10
+2005,54,Male,Premium,4418,20,6,Net Banking,8,29
+2006,45,Male,Premium,2577,36,5,Net Banking,1,46
+2007,27,Female,Basic,3680,27,8,Credit Card,8,38
+2008,56,Male,Basic,3382,32,1,Net Banking,7,20
+2009,34,Female,Premium,3017,1,12,UPI,7,26
+2010,56,Male,Premium,3360,17,9,Credit Card,9,32
+2011,39,Female,Premium,911,9,7,UPI,10,39
+2012,43,Female,Basic,2786,45,7,Debit Card,7,38
+2013,61,Female,Premium,2848,66,10,UPI,2,49
+2014,42,Female,Basic,1917,32,9,UPI,1,24
+2015,34,Male,Basic,4552,45,13,UPI,1,31
+2016,30,Male,Basic,1070,9,13,UPI,7,40
+2017,37,Female,Basic,3774,30,10,Debit Card,5,12
+2018,42,Female,Basic,470,38,3,Credit Card,4,36
+2019,21,Male,Basic,1743,60,5,UPI,5,10
+2020,27,Male,Basic,749,1,10,Credit Card,10,6
+2021,20,Male,Basic,4863,5,5,Net Banking,10,7
+2022,58,Male,Premium,4214,63,4,UPI,6,31
+2023,62,Male,Basic,4654,36,13,UPI,10,27
+2024,35,Male,Basic,1912,65,0,Net Banking,6,8
+2025,64,Female,Premium,3440,24,2,Credit Card,1,3
+2026,53,Male,Basic,1562,4,6,Debit Card,2,40
+2027,64,Male,Premium,1484,68,7,UPI,3,47
+2028,39,Female,Basic,1086,25,1,Net Banking,4,21
+2029,51,Male,Basic,2458,7,2,Net Banking,6,1
+2030,64,Male,Premium,4582,13,3,UPI,9,45
+2031,25,Male,Premium,1985,68,13,Credit Card,2,15
+2032,57,Male,Enterprise,3743,43,10,Credit Card,8,7
+2033,66,Male,Premium,495,57,4,UPI,9,15
+2034,61,Female,Enterprise,2253,36,2,Net Banking,2,25
+2035,36,Male,Basic,2797,14,4,UPI,9,3
+2036,59,Female,Basic,880,27,7,Debit Card,7,30
+2037,58,Female,Basic,4498,37,7,Debit Card,9,14
+2038,54,Male,Basic,524,71,13,Credit Card,6,4
+2039,23,Female,Premium,2491,25,1,Debit Card,2,36
+2040,69,Male,Premium,4622,67,5,Net Banking,8,3
+2041,43,Female,Basic,1186,4,3,Debit Card,10,5
+2042,51,Female,Enterprise,3318,16,8,UPI,9,25
+2043,62,Male,Premium,960,19,9,Net Banking,8,31
+2044,23,Male,Basic,3893,29,1,Credit Card,2,11
+2045,54,Male,Basic,1236,51,7,Credit Card,8,8
+2046,50,Male,Basic,1106,18,0,Debit Card,3,26
+2047,39,Male,Basic,564,58,10,Credit Card,3,2
+2048,38,Female,Basic,3613,44,5,UPI,9,28
+2049,23,Female,Premium,1269,16,10,Net Banking,9,48
+2050,23,Female,Basic,4569,65,10,UPI,9,10
+2051,65,Female,Basic,2455,2,13,UPI,4,39
+2052,21,Female,Enterprise,3886,56,11,UPI,7,37
+2053,47,Female,Premium,4419,28,9,UPI,8,39
+2054,28,Female,Enterprise,3281,65,12,Net Banking,5,21
+2055,47,Male,Basic,3458,5,0,Net Banking,1,28
+2056,48,Male,Basic,2307,22,1,UPI,9,38
+2057,41,Female,Premium,3133,13,2,UPI,6,33
+2058,26,Female,Basic,3029,65,8,Credit Card,3,11
+2059,20,Male,Basic,641,16,4,Credit Card,3,45
+2060,68,Male,Premium,1759,64,9,Net Banking,10,44
+2061,48,Male,Premium,1941,32,9,Credit Card,1,1
+2062,57,Male,Basic,825,51,11,Net Banking,8,47
+2063,54,Female,Basic,4063,58,1,Net Banking,2,33
+2064,53,Male,Basic,1890,46,9,Debit Card,1,3
+2065,41,Female,Basic,2981,52,4,Net Banking,7,26
+2066,48,Female,Basic,290,63,4,Credit Card,9,15
+2067,23,Female,Basic,3206,60,0,Debit Card,6,41
+2068,19,Male,Basic,4502,65,2,Credit Card,8,14
+2069,37,Male,Enterprise,1288,55,4,Net Banking,8,23
+2070,45,Female,Premium,4811,57,8,Net Banking,9,8
+2071,28,Female,Premium,1380,71,9,UPI,7,36
+2072,21,Female,Basic,2101,26,0,Net Banking,9,20
+2073,32,Male,Basic,4690,12,7,Debit Card,9,6
+2074,23,Female,Basic,386,71,0,Net Banking,1,33
+2075,66,Male,Basic,1797,46,8,UPI,6,28
+2076,47,Female,Basic,3608,47,5,Net Banking,8,38
+2077,55,Female,Premium,3947,38,0,Net Banking,10,30
+2078,68,Female,Premium,2870,21,7,Net Banking,9,46
+2079,19,Male,Premium,439,14,4,UPI,4,43
+2080,32,Male,Basic,2780,2,6,Credit Card,2,17
+2081,28,Female,Enterprise,4436,70,6,Net Banking,9,9
+2082,25,Male,Basic,338,33,14,Debit Card,9,28
+2083,43,Female,Basic,2706,6,6,UPI,8,7
+2084,68,Male,Basic,4365,37,5,Debit Card,3,46
+2085,62,Male,Premium,4680,14,10,Net Banking,5,28
+2086,61,Male,Enterprise,4925,37,7,UPI,2,17
+2087,22,Female,Basic,2445,8,8,Net Banking,3,40
+2088,23,Male,Enterprise,4500,13,11,Debit Card,1,48
+2089,43,Male,Premium,1949,40,14,UPI,4,44
+2090,21,Female,Basic,767,58,1,Credit Card,5,44
+2091,36,Female,Basic,1081,18,6,Credit Card,2,5
+2092,37,Female,Basic,839,57,14,Credit Card,3,5
+2093,50,Female,Enterprise,4161,38,1,Net Banking,6,14
+2094,37,Male,Basic,4620,32,5,UPI,6,6
+2095,66,Male,Premium,4737,66,1,Debit Card,7,7
+2096,29,Male,Basic,2535,25,9,Debit Card,9,17
+2097,64,Male,Premium,4521,58,5,Net Banking,4,9
+2098,18,Male,Basic,3185,33,1,Net Banking,5,31
+2099,43,Female,Premium,759,66,0,Debit Card,2,22
+2100,31,Male,Premium,913,30,6,UPI,6,45
+2101,55,Male,Premium,4793,34,2,Net Banking,4,9
+2102,54,Male,Enterprise,4188,69,13,UPI,5,16
+2103,28,Female,Basic,456,48,11,Debit Card,7,36
+2104,53,Female,Premium,776,40,13,UPI,6,34
+2105,30,Male,Basic,237,51,12,Credit Card,8,45
+2106,60,Female,Basic,2272,13,3,Debit Card,6,13
+2107,20,Female,Premium,4705,31,12,Credit Card,10,19
+2108,50,Female,Basic,660,39,5,Debit Card,8,12
+2109,23,Female,Premium,1640,63,4,Credit Card,4,36
+2110,67,Female,Enterprise,4678,48,3,UPI,7,10
+2111,27,Female,Basic,2032,48,8,Debit Card,3,16
+2112,22,Female,Premium,4864,61,5,Debit Card,1,28
+2113,40,Male,Basic,3599,12,5,Credit Card,9,19
+2114,27,Male,Basic,632,56,1,UPI,9,40
+2115,61,Female,Basic,4351,18,5,Debit Card,6,6
+2116,19,Male,Enterprise,1951,27,6,Net Banking,2,4
+2117,30,Male,Enterprise,2247,28,7,Credit Card,8,30
+2118,57,Female,Enterprise,3040,52,14,Debit Card,10,39
+2119,19,Male,Enterprise,456,16,13,UPI,6,31
+2120,37,Female,Basic,871,58,7,UPI,7,46
+2121,18,Female,Basic,689,9,8,UPI,1,27
+2122,54,Female,Premium,3914,26,9,UPI,3,45
+2123,26,Male,Basic,2296,28,10,Credit Card,1,21
+2124,34,Male,Basic,1882,36,12,Debit Card,10,37
+2125,26,Male,Basic,4611,9,11,Credit Card,1,9
+2126,28,Male,Premium,2660,47,2,Credit Card,1,35
+2127,32,Female,Premium,4729,51,9,UPI,4,42
+2128,41,Female,Basic,4112,57,14,Net Banking,7,47
+2129,55,Male,Basic,2175,32,6,UPI,7,21
+2130,52,Female,Premium,3416,67,6,Net Banking,5,17
+2131,47,Female,Premium,1589,57,0,Credit Card,6,24
+2132,48,Male,Basic,4715,54,7,UPI,2,31
+2133,66,Female,Premium,4056,16,14,UPI,5,6
+2134,22,Male,Basic,1784,62,3,Credit Card,7,35
+2135,61,Female,Basic,3163,56,4,UPI,9,37
+2136,67,Male,Premium,4729,23,13,Debit Card,6,13
+2137,31,Female,Premium,1176,17,5,Net Banking,10,25
+2138,28,Female,Basic,3564,38,2,Net Banking,4,32
+2139,26,Male,Premium,245,30,4,Net Banking,3,1
+2140,51,Male,Premium,1393,58,9,UPI,9,49
+2141,29,Male,Premium,3542,22,4,Debit Card,7,35
+2142,52,Male,Premium,4712,17,0,UPI,6,19
+2143,52,Female,Premium,446,15,2,Net Banking,7,12
+2144,18,Female,Basic,3419,48,2,UPI,8,40
+2145,57,Male,Basic,4525,32,0,Net Banking,5,40
+2146,39,Female,Basic,991,40,12,Credit Card,3,47
+2147,46,Male,Basic,836,57,6,Net Banking,3,43
+2148,25,Male,Premium,3975,58,0,Credit Card,2,20
+2149,28,Female,Premium,2621,16,6,Credit Card,8,33
+2150,58,Female,Basic,1288,28,3,Credit Card,1,29
+2151,54,Male,Basic,4383,1,8,Net Banking,8,16
+2152,31,Male,Basic,3359,41,6,Debit Card,3,14
+2153,47,Male,Basic,912,48,4,Net Banking,9,7
+2154,52,Female,Premium,4896,31,6,UPI,2,6
+2155,38,Female,Basic,3844,36,8,UPI,10,21
+2156,54,Female,Premium,4090,33,9,Debit Card,9,36
+2157,22,Female,Enterprise,2786,33,5,Debit Card,6,22
+2158,36,Male,Basic,4509,23,0,Debit Card,1,40
+2159,31,Male,Basic,2308,60,5,Credit Card,5,19
+2160,43,Male,Basic,4993,30,0,Debit Card,10,25
+2161,21,Male,Premium,3814,45,12,Debit Card,9,3
+2162,42,Male,Premium,1442,39,11,Debit Card,6,36
+2163,62,Male,Basic,2259,45,3,Net Banking,7,45
+2164,59,Female,Premium,3686,12,13,UPI,4,34
+2165,42,Female,Enterprise,4532,32,7,UPI,1,11
+2166,35,Male,Basic,4010,56,4,Debit Card,5,48
+2167,57,Male,Basic,4100,24,14,UPI,2,42
+2168,25,Female,Enterprise,2805,13,4,Net Banking,8,47
+2169,56,Female,Premium,4942,20,12,UPI,4,27
+2170,57,Female,Enterprise,3234,56,9,Credit Card,1,42
+2171,31,Female,Premium,4768,53,10,Net Banking,10,2
+2172,49,Male,Premium,4407,68,7,UPI,7,6
+2173,68,Male,Basic,4251,54,7,UPI,2,46
+2174,55,Male,Premium,3563,34,0,Net Banking,3,2
+2175,50,Male,Enterprise,4221,28,12,UPI,9,42
+2176,40,Male,Premium,2045,50,12,UPI,9,17
+2177,32,Female,Basic,582,2,4,Debit Card,2,40
+2178,50,Male,Basic,4312,26,11,Credit Card,3,48
+2179,42,Female,Basic,4788,51,4,Net Banking,9,14
+2180,34,Male,Basic,4010,47,7,Debit Card,1,10
+2181,50,Male,Basic,2096,26,0,UPI,2,45
+2182,64,Male,Premium,1709,61,6,Net Banking,2,33
+2183,19,Male,Premium,4412,23,6,Net Banking,10,42
+2184,31,Male,Basic,1778,37,12,Credit Card,3,12
+2185,57,Female,Premium,1079,41,8,Credit Card,10,32
+2186,57,Female,Basic,2362,52,1,Net Banking,3,49
+2187,68,Female,Basic,1772,49,14,Credit Card,10,24
+2188,56,Male,Basic,1848,27,2,Credit Card,2,14
+2189,68,Male,Premium,4939,6,3,UPI,8,5
+2190,23,Female,Basic,1559,66,0,Credit Card,8,5
+2191,23,Male,Basic,4631,24,14,Credit Card,8,47
+2192,20,Male,Basic,3169,38,6,Debit Card,2,32
+2193,24,Female,Premium,4160,28,13,UPI,9,45
+2194,68,Male,Basic,4011,28,9,UPI,7,49
+2195,25,Female,Premium,4442,66,2,Net Banking,5,33
+2196,59,Male,Premium,4417,61,2,Credit Card,7,46
+2197,69,Female,Premium,280,46,2,Debit Card,8,4
+2198,32,Male,Enterprise,2932,69,7,Debit Card,9,30
+2199,64,Male,Basic,2909,43,8,UPI,2,41
+2200,46,Female,Basic,2622,59,9,Credit Card,6,17
+2201,50,Male,Enterprise,3841,2,12,Debit Card,9,3
+2202,69,Male,Basic,4799,15,13,Net Banking,6,13
+2203,47,Female,Premium,867,37,1,Credit Card,2,44
+2204,56,Male,Premium,2696,71,9,Credit Card,1,48
+2205,44,Female,Premium,3699,20,14,Credit Card,3,36
+2206,53,Male,Enterprise,3698,35,9,Debit Card,5,18
+2207,46,Male,Enterprise,1644,34,0,UPI,7,23
+2208,55,Male,Premium,1545,31,13,UPI,10,35
+2209,50,Male,Basic,1389,19,8,Net Banking,10,49
+2210,54,Female,Enterprise,658,68,5,Debit Card,3,33
+2211,44,Male,Basic,1412,24,13,Credit Card,9,36
+2212,50,Female,Basic,4759,39,14,Net Banking,10,17
+2213,21,Male,Enterprise,1111,54,8,Net Banking,4,39
+2214,39,Male,Basic,1225,39,5,UPI,10,34
+2215,19,Male,Basic,2611,17,1,Credit Card,2,12
+2216,27,Male,Basic,271,19,0,Credit Card,3,5
+2217,22,Female,Enterprise,2885,48,13,Debit Card,5,48
+2218,27,Female,Premium,1393,35,7,Debit Card,3,40
+2219,50,Female,Premium,2048,32,2,Debit Card,5,27
+2220,55,Female,Basic,2584,47,0,Net Banking,4,40
+2221,30,Male,Premium,2222,47,14,Credit Card,10,13
+2222,48,Female,Premium,3941,64,7,UPI,3,26
+2223,64,Female,Basic,4948,46,11,Net Banking,6,14
+2224,53,Male,Basic,1498,35,0,Net Banking,8,32
+2225,62,Male,Basic,4302,17,7,UPI,4,11
+2226,41,Male,Enterprise,1104,42,0,UPI,9,38
+2227,69,Male,Premium,3226,29,8,Debit Card,6,16
+2228,32,Female,Enterprise,2228,70,13,UPI,5,22
+2229,46,Female,Basic,4911,17,8,UPI,3,47
+2230,25,Male,Premium,2820,14,11,UPI,5,16
+2231,22,Male,Premium,2846,24,12,UPI,5,13
+2232,46,Male,Premium,2489,57,8,Debit Card,4,12
+2233,64,Female,Enterprise,4072,50,2,Net Banking,6,18
+2234,21,Female,Basic,1685,57,3,Credit Card,3,29
+2235,29,Male,Basic,3351,61,4,Credit Card,10,18
+2236,62,Male,Premium,1640,39,5,Net Banking,1,46
+2237,19,Female,Premium,965,55,8,Credit Card,7,2
+2238,44,Male,Premium,4679,36,12,Credit Card,7,2
+2239,48,Male,Basic,2638,37,10,Net Banking,4,3
+2240,68,Female,Premium,4292,14,11,Credit Card,9,29
+2241,68,Male,Basic,4983,27,3,Credit Card,2,8
+2242,53,Female,Basic,1349,31,13,Net Banking,1,11
+2243,53,Male,Premium,3765,44,13,Credit Card,3,12
+2244,43,Male,Premium,4342,68,5,UPI,7,32
+2245,60,Female,Basic,2172,48,12,Net Banking,9,4
+2246,44,Female,Basic,2866,57,0,Debit Card,2,9
+2247,22,Male,Basic,663,22,1,Credit Card,6,24
+2248,37,Female,Basic,4418,4,7,Debit Card,3,49
+2249,28,Male,Premium,2381,46,3,Credit Card,5,16
+2250,27,Male,Enterprise,1842,59,9,UPI,9,17
+2251,57,Female,Basic,4088,34,6,Net Banking,3,47
+2252,55,Male,Premium,1040,11,3,Debit Card,1,22
+2253,23,Male,Enterprise,2854,31,13,Net Banking,5,7
+2254,25,Female,Premium,4318,11,8,Debit Card,1,10
+2255,40,Female,Basic,765,56,8,Credit Card,8,29
+2256,64,Male,Enterprise,1164,38,3,UPI,7,36
+2257,43,Female,Basic,2482,21,12,Debit Card,2,24
+2258,63,Female,Basic,1195,10,14,Debit Card,9,46
+2259,60,Female,Basic,1387,26,7,UPI,5,14
+2260,29,Female,Basic,4511,8,5,UPI,7,14
+2261,43,Male,Basic,3454,8,0,UPI,4,25
+2262,30,Male,Basic,856,60,14,UPI,1,46
+2263,57,Male,Basic,3182,34,6,UPI,8,22
+2264,35,Female,Premium,1313,16,0,Net Banking,1,47
+2265,42,Female,Enterprise,4606,13,2,Credit Card,3,23
+2266,50,Female,Basic,756,22,7,Credit Card,6,32
+2267,64,Female,Enterprise,3219,27,14,Debit Card,8,26
+2268,57,Female,Enterprise,2504,64,8,UPI,8,27
+2269,60,Female,Premium,2780,2,2,Net Banking,2,45
+2270,29,Female,Basic,251,26,0,Net Banking,9,12
+2271,61,Male,Premium,1561,69,0,Debit Card,4,19
+2272,53,Male,Enterprise,1394,30,6,UPI,4,19
+2273,65,Female,Premium,4219,8,4,Credit Card,2,34
+2274,21,Female,Basic,3338,38,12,UPI,1,32
+2275,22,Female,Premium,1848,61,13,Net Banking,10,29
+2276,54,Male,Premium,871,65,0,UPI,7,21
+2277,25,Male,Premium,977,67,5,Credit Card,10,35
+2278,59,Female,Basic,2479,46,13,Credit Card,3,42
+2279,66,Female,Basic,3222,43,5,Debit Card,4,5
+2280,45,Male,Premium,2060,59,13,Net Banking,9,12
+2281,48,Male,Enterprise,3339,46,3,UPI,6,7
+2282,26,Male,Basic,1274,35,6,UPI,1,41
+2283,68,Male,Enterprise,1916,39,6,Debit Card,9,2
+2284,46,Female,Basic,1483,51,11,Debit Card,9,25
+2285,31,Male,Premium,4886,4,8,Debit Card,5,10
+2286,57,Male,Premium,2186,51,11,Net Banking,8,38
+2287,58,Female,Premium,2833,5,0,UPI,7,44
+2288,39,Male,Enterprise,1201,55,4,Debit Card,8,6
+2289,28,Male,Basic,1246,20,14,Net Banking,9,27
+2290,40,Male,Enterprise,2376,24,9,UPI,2,35
+2291,18,Female,Basic,2538,36,2,Credit Card,10,10
+2292,63,Male,Premium,2055,34,6,Debit Card,5,9
+2293,54,Female,Premium,700,54,3,Net Banking,8,20
+2294,38,Female,Premium,2433,34,3,UPI,3,37
+2295,43,Male,Basic,4774,17,12,UPI,6,35
+2296,63,Male,Enterprise,2739,5,11,Debit Card,6,37
+2297,53,Male,Basic,4808,18,0,Debit Card,7,40
+2298,40,Male,Basic,3914,55,0,UPI,3,8
+2299,18,Female,Premium,2532,53,9,Net Banking,8,46
+2300,68,Male,Basic,800,50,1,Credit Card,8,31
+2301,57,Male,Premium,4484,45,14,UPI,9,49
+2302,32,Male,Basic,1188,13,1,Net Banking,8,43
+2303,38,Female,Basic,2081,16,0,Debit Card,3,16
+2304,64,Male,Premium,4683,13,7,UPI,6,28
+2305,26,Male,Premium,1954,20,5,Debit Card,9,6
+2306,26,Female,Basic,2664,66,5,Credit Card,1,32
+2307,27,Female,Premium,2423,47,9,Debit Card,3,28
+2308,69,Male,Premium,4682,19,9,Credit Card,2,11
+2309,43,Male,Premium,1694,45,8,Debit Card,8,42
+2310,58,Male,Basic,1052,37,4,Debit Card,6,23
+2311,52,Male,Premium,651,54,14,Credit Card,10,30
+2312,69,Male,Premium,2524,6,3,Debit Card,8,9
+2313,42,Female,Premium,1958,14,14,Net Banking,2,28
+2314,43,Female,Basic,4508,4,10,Debit Card,6,24
+2315,28,Male,Premium,3553,55,5,UPI,7,28
+2316,55,Male,Premium,4336,34,7,Debit Card,8,24
+2317,19,Female,Premium,4895,27,13,Net Banking,9,15
+2318,24,Male,Basic,3538,7,0,UPI,5,39
+2319,35,Male,Enterprise,2788,3,6,Net Banking,3,33
+2320,44,Male,Premium,1982,47,7,UPI,2,47
+2321,51,Male,Basic,3720,2,8,Debit Card,8,34
+2322,44,Male,Basic,1979,25,10,Net Banking,1,22
+2323,34,Female,Enterprise,3332,60,7,Debit Card,10,29
+2324,60,Male,Basic,3773,24,6,UPI,6,34
+2325,61,Male,Enterprise,3418,15,2,Net Banking,2,42
+2326,68,Male,Premium,3957,14,1,Credit Card,3,47
+2327,41,Female,Premium,4216,54,14,Net Banking,8,10
+2328,42,Female,Basic,3037,6,2,Debit Card,1,45
+2329,24,Female,Basic,2581,18,3,Credit Card,6,30
+2330,69,Female,Enterprise,4439,20,3,Credit Card,3,11
+2331,23,Male,Basic,4136,62,5,UPI,6,34
+2332,41,Female,Premium,4628,40,11,Credit Card,3,21
+2333,50,Male,Basic,1619,39,6,Credit Card,8,13
+2334,66,Male,Basic,4350,52,11,UPI,5,25
+2335,46,Female,Basic,1530,32,3,Net Banking,4,21
+2336,60,Female,Premium,3117,27,9,Debit Card,9,1
+2337,39,Female,Enterprise,1646,52,5,Net Banking,5,5
+2338,43,Female,Basic,1640,63,8,Credit Card,4,22
+2339,45,Female,Basic,3944,63,13,Debit Card,8,7
+2340,67,Male,Basic,3044,17,5,Net Banking,8,13
+2341,38,Female,Premium,4375,49,13,Debit Card,8,45
+2342,66,Female,Basic,1064,23,2,Credit Card,4,23
+2343,24,Female,Enterprise,671,13,0,Net Banking,1,21
+2344,34,Male,Premium,1702,23,10,Debit Card,2,6
+2345,37,Female,Premium,4884,57,9,Debit Card,4,20
+2346,58,Male,Basic,1610,62,9,Net Banking,10,12
+2347,66,Female,Enterprise,3970,54,12,Net Banking,2,40
+2348,37,Female,Basic,2105,20,4,Credit Card,10,9
+2349,39,Male,Basic,4859,52,9,UPI,3,28
+2350,45,Female,Premium,4201,23,9,Debit Card,9,11
+2351,57,Male,Premium,3704,35,2,Net Banking,9,32
+2352,66,Male,Basic,3683,67,7,Net Banking,9,11
+2353,24,Male,Basic,4762,34,9,Net Banking,7,24
+2354,18,Female,Premium,798,33,14,Debit Card,4,15
+2355,49,Female,Basic,1191,46,0,Credit Card,1,41
+2356,30,Female,Premium,2132,45,10,UPI,3,35
+2357,47,Male,Premium,2984,19,1,Debit Card,8,17
+2358,40,Female,Basic,3241,15,2,Credit Card,4,25
+2359,68,Male,Basic,266,66,2,Debit Card,10,49
+2360,36,Female,Basic,3598,39,11,Debit Card,10,35
+2361,49,Male,Premium,2950,18,7,Net Banking,2,19
+2362,47,Male,Premium,669,70,4,Credit Card,8,41
+2363,46,Male,Basic,1924,59,7,Net Banking,7,31
+2364,66,Female,Premium,4185,32,10,Net Banking,10,17
+2365,62,Male,Enterprise,1831,21,13,Credit Card,9,23
+2366,46,Male,Basic,974,40,14,Net Banking,2,47
+2367,47,Male,Enterprise,3212,27,14,Net Banking,5,1
+2368,33,Male,Basic,2703,2,10,UPI,6,10
+2369,57,Male,Basic,1686,39,5,Credit Card,2,8
+2370,36,Male,Basic,4219,56,14,Credit Card,2,42
+2371,35,Female,Basic,4427,13,11,Net Banking,10,26
+2372,18,Female,Basic,1129,56,1,Net Banking,4,34
+2373,31,Male,Basic,3212,66,10,Credit Card,8,19
+2374,68,Female,Enterprise,1705,56,3,Credit Card,5,14
+2375,64,Female,Premium,4929,28,8,Debit Card,9,8
+2376,67,Male,Premium,3144,64,3,Credit Card,4,1
+2377,19,Male,Basic,3019,71,4,Debit Card,3,48
+2378,45,Male,Basic,1384,64,4,Net Banking,10,25
+2379,66,Female,Basic,488,56,9,UPI,8,24
+2380,67,Male,Premium,2011,41,7,UPI,1,47
+2381,47,Female,Enterprise,727,41,5,Debit Card,9,20
+2382,55,Male,Basic,1116,4,9,Net Banking,4,30
+2383,68,Female,Basic,1908,57,6,Net Banking,9,5
+2384,21,Male,Premium,3774,30,5,Net Banking,8,3
+2385,18,Male,Basic,3519,46,13,Credit Card,3,32
+2386,25,Female,Basic,1606,56,13,Net Banking,3,17
+2387,46,Female,Premium,1441,31,13,Credit Card,9,42
+2388,56,Female,Premium,3333,7,4,Debit Card,3,5
+2389,20,Female,Basic,998,54,14,UPI,4,11
+2390,49,Female,Basic,1723,8,4,Debit Card,9,38
+2391,27,Female,Enterprise,4307,55,2,Net Banking,4,4
+2392,27,Male,Basic,3088,69,6,Net Banking,3,39
+2393,36,Female,Basic,2890,44,12,Debit Card,7,19
+2394,63,Male,Basic,4291,13,9,Credit Card,6,39
+2395,51,Male,Basic,1441,20,4,Credit Card,1,46
+2396,50,Female,Basic,890,32,6,Credit Card,10,49
+2397,40,Male,Premium,727,60,14,UPI,8,23
+2398,45,Female,Basic,1695,50,1,UPI,1,17
+2399,49,Female,Basic,4025,27,8,Net Banking,4,13
+2400,67,Male,Premium,3093,25,7,Debit Card,6,27
+2401,24,Male,Premium,1092,52,14,Debit Card,6,1
+2402,46,Female,Enterprise,586,68,4,Net Banking,7,2
+2403,25,Female,Enterprise,1449,21,1,Credit Card,5,18
+2404,18,Male,Basic,2728,18,5,UPI,5,36
+2405,20,Male,Premium,4703,39,7,Debit Card,4,45
+2406,41,Male,Basic,3728,15,6,Net Banking,6,33
+2407,40,Male,Enterprise,1097,53,7,Credit Card,7,36
+2408,25,Female,Basic,910,38,3,Credit Card,10,2
+2409,64,Female,Enterprise,3895,48,13,UPI,10,4
+2410,54,Female,Premium,2886,52,2,UPI,1,16
+2411,20,Female,Basic,4712,28,6,Net Banking,9,4
+2412,68,Male,Premium,615,16,1,Net Banking,8,9
+2413,50,Male,Enterprise,1671,16,13,Credit Card,7,49
+2414,45,Female,Enterprise,4380,35,4,Credit Card,9,21
+2415,64,Female,Basic,4462,17,12,Debit Card,3,23
+2416,25,Female,Premium,2631,52,6,Credit Card,10,2
+2417,51,Female,Basic,2715,12,0,Net Banking,4,3
+2418,52,Female,Basic,1295,48,3,UPI,7,23
+2419,49,Female,Basic,1009,22,14,Net Banking,6,26
+2420,41,Female,Basic,3244,49,1,Debit Card,2,47
+2421,31,Female,Premium,1192,52,5,Debit Card,2,7
+2422,49,Female,Basic,1481,1,11,UPI,10,36
+2423,63,Male,Premium,4570,66,0,Net Banking,7,44
+2424,60,Female,Basic,1973,64,6,Debit Card,9,33
+2425,33,Male,Basic,3761,8,2,Net Banking,9,49
+2426,21,Male,Basic,4016,25,11,Debit Card,7,36
+2427,69,Female,Basic,1956,66,0,UPI,8,4
+2428,54,Female,Basic,2573,70,14,Debit Card,10,23
+2429,38,Male,Basic,2776,51,7,Net Banking,3,25
+2430,31,Male,Premium,1091,53,6,Net Banking,1,41
+2431,48,Female,Basic,4384,15,1,Debit Card,7,26
+2432,65,Male,Basic,907,50,6,Credit Card,8,28
+2433,35,Female,Basic,2597,71,2,UPI,2,28
+2434,24,Female,Enterprise,4682,38,14,UPI,9,21
+2435,27,Female,Enterprise,2334,40,12,Debit Card,4,10
+2436,24,Male,Basic,2554,66,8,Debit Card,10,27
+2437,50,Male,Basic,4735,39,7,Credit Card,9,15
+2438,40,Female,Basic,1176,17,4,UPI,3,17
+2439,38,Male,Enterprise,934,7,6,Credit Card,8,39
+2440,36,Male,Basic,2668,39,2,UPI,2,35
+2441,65,Male,Basic,2740,68,0,Debit Card,3,5
+2442,36,Male,Basic,832,35,0,UPI,1,16
+2443,53,Male,Basic,4468,51,14,UPI,5,23
+2444,46,Male,Basic,4299,47,10,UPI,4,39
+2445,35,Male,Premium,3101,36,1,Credit Card,1,48
+2446,19,Female,Basic,1863,64,7,Credit Card,10,9
+2447,18,Male,Premium,2215,13,0,UPI,9,33
+2448,64,Male,Basic,3381,18,10,Net Banking,6,35
+2449,22,Male,Basic,4263,21,11,Credit Card,6,40
+2450,37,Male,Enterprise,2830,65,4,Debit Card,2,24
+2451,28,Male,Basic,4072,8,8,Debit Card,7,24
+2452,59,Male,Premium,1254,48,11,UPI,9,24
+2453,19,Male,Premium,580,43,8,Debit Card,6,19
+2454,20,Male,Basic,3282,53,1,Credit Card,8,39
+2455,40,Female,Enterprise,2591,27,6,Net Banking,5,25
+2456,29,Male,Basic,1792,19,10,Net Banking,2,31
+2457,37,Male,Enterprise,4461,23,0,Net Banking,4,38
+2458,22,Male,Basic,2947,50,2,Debit Card,1,25
+2459,54,Male,Enterprise,2589,51,5,UPI,1,27
+2460,55,Female,Basic,3753,43,8,Debit Card,6,32
+2461,47,Female,Premium,3227,51,9,UPI,2,11
+2462,26,Female,Premium,1407,69,1,Net Banking,6,5
+2463,51,Female,Enterprise,4053,41,6,Credit Card,1,44
+2464,61,Female,Enterprise,744,11,14,Debit Card,10,33
+2465,52,Female,Premium,3281,52,3,Credit Card,3,19
+2466,69,Female,Enterprise,3863,23,1,Net Banking,9,43
+2467,39,Female,Basic,2439,49,2,UPI,2,47
+2468,61,Female,Basic,2567,38,5,Credit Card,8,16
+2469,41,Female,Basic,3973,47,9,Debit Card,6,35
+2470,34,Female,Basic,2827,7,8,Credit Card,6,11
+2471,27,Female,Basic,4131,66,7,Credit Card,7,11
+2472,47,Female,Premium,2674,62,9,Debit Card,5,10
+2473,63,Female,Basic,3330,29,13,UPI,4,34
+2474,40,Female,Premium,3707,38,10,Debit Card,6,5
+2475,49,Female,Basic,296,33,8,Net Banking,8,23
+2476,34,Male,Basic,4058,29,3,UPI,4,25
+2477,67,Female,Premium,2908,23,11,Credit Card,5,29
+2478,68,Male,Premium,3536,3,3,Debit Card,7,40
+2479,34,Female,Premium,656,45,14,Net Banking,6,13
+2480,31,Female,Premium,4568,8,8,Debit Card,4,47
+2481,26,Male,Basic,3187,29,7,UPI,4,32
+2482,57,Female,Premium,4288,2,11,Net Banking,10,34
+2483,19,Male,Basic,4084,50,14,Credit Card,4,12
+2484,62,Male,Basic,1231,65,1,UPI,1,24
+2485,42,Male,Basic,407,20,7,Net Banking,5,40
+2486,56,Female,Basic,2137,52,0,UPI,8,21
+2487,26,Female,Basic,1346,37,8,Credit Card,7,29
+2488,39,Female,Enterprise,4499,27,8,Net Banking,5,23
+2489,60,Male,Enterprise,2764,47,12,Debit Card,3,33
+2490,63,Male,Basic,642,6,14,Debit Card,1,8
+2491,21,Female,Basic,4984,60,7,Credit Card,7,42
+2492,43,Female,Basic,1032,45,10,Net Banking,3,13
+2493,46,Female,Basic,1661,44,4,Credit Card,4,5
+2494,62,Female,Enterprise,3716,18,4,Credit Card,5,41
+2495,51,Female,Basic,1359,65,12,UPI,8,10
+2496,40,Male,Premium,586,25,2,Debit Card,7,14
+2497,54,Male,Basic,2241,27,4,Credit Card,9,24
+2498,28,Male,Enterprise,2753,7,3,UPI,3,11
+2499,23,Female,Basic,1918,44,0,Credit Card,10,46
+2500,35,Male,Premium,4975,29,8,Credit Card,1,3
+2501,38,Male,Basic,4250,44,14,Credit Card,1,29
+2502,59,Male,Premium,3609,36,9,Debit Card,10,48
+2503,53,Male,Basic,889,19,13,Net Banking,1,30
+2504,58,Male,Basic,1369,6,3,Debit Card,2,49
+2505,55,Female,Enterprise,1152,25,2,UPI,2,37
+2506,51,Male,Enterprise,4790,31,5,Net Banking,7,7
+2507,34,Female,Enterprise,3696,9,0,UPI,9,17
+2508,54,Female,Premium,4117,37,4,Credit Card,8,20
+2509,42,Female,Premium,2684,27,14,Net Banking,4,11
+2510,55,Female,Basic,2054,13,6,UPI,2,44
+2511,29,Female,Basic,3639,41,1,Credit Card,3,25
+2512,40,Male,Basic,3431,66,9,UPI,10,24
+2513,59,Male,Premium,2797,24,8,UPI,5,2
+2514,39,Female,Basic,4183,44,11,Debit Card,9,27
+2515,38,Female,Basic,2391,60,14,Credit Card,8,19
+2516,44,Female,Premium,2835,9,5,Debit Card,3,29
+2517,48,Male,Premium,856,2,1,Net Banking,9,37
+2518,23,Female,Basic,4012,56,7,Credit Card,10,11
+2519,44,Male,Basic,3540,30,7,Debit Card,3,19
+2520,57,Female,Basic,4111,22,0,Debit Card,10,28
+2521,51,Male,Basic,1996,13,11,Net Banking,8,39
+2522,29,Female,Basic,4563,71,0,UPI,1,21
+2523,62,Male,Premium,1962,16,0,UPI,4,26
+2524,24,Female,Premium,4672,45,11,UPI,4,22
+2525,27,Male,Premium,3485,65,3,Net Banking,6,6
+2526,62,Male,Basic,1785,11,3,Debit Card,2,11
+2527,34,Male,Premium,3763,70,7,Credit Card,7,14
+2528,43,Male,Basic,2640,20,0,Net Banking,5,36
+2529,38,Male,Basic,4784,63,9,UPI,10,40
+2530,45,Male,Premium,3300,12,2,UPI,6,41
+2531,63,Male,Basic,3444,62,10,Credit Card,6,2
+2532,19,Female,Basic,1240,42,0,Net Banking,6,43
+2533,60,Female,Enterprise,3327,69,8,UPI,10,20
+2534,18,Female,Basic,2473,58,9,Net Banking,8,22
+2535,68,Female,Premium,3829,5,11,Debit Card,10,39
+2536,53,Female,Basic,2314,27,8,Net Banking,4,4
+2537,68,Male,Premium,1877,28,6,Debit Card,10,29
+2538,43,Male,Basic,3294,26,12,Credit Card,8,46
+2539,46,Male,Basic,1198,49,11,Debit Card,9,24
+2540,38,Male,Premium,2484,21,14,Debit Card,4,1
+2541,28,Male,Basic,1789,1,7,Credit Card,1,24
+2542,57,Female,Basic,1361,58,0,UPI,3,30
+2543,28,Female,Basic,2720,55,4,Credit Card,1,12
+2544,53,Female,Basic,4055,26,14,Net Banking,7,19
+2545,66,Female,Basic,4848,25,13,Credit Card,1,37
+2546,56,Male,Basic,894,33,1,Net Banking,4,40
+2547,57,Male,Enterprise,4612,69,12,UPI,1,43
+2548,52,Male,Basic,3998,6,0,Net Banking,2,4
+2549,51,Female,Basic,3883,23,2,Credit Card,1,15
+2550,64,Male,Basic,2171,30,6,Credit Card,5,20
+2551,41,Female,Basic,1703,54,0,UPI,7,44
+2552,39,Male,Enterprise,3449,11,10,Credit Card,3,20
+2553,22,Male,Basic,4418,31,1,UPI,8,21
+2554,50,Female,Enterprise,3442,6,1,UPI,5,10
+2555,53,Male,Basic,2068,11,3,Credit Card,5,30
+2556,64,Male,Premium,1871,12,14,Debit Card,5,24
+2557,37,Female,Premium,1282,66,11,Net Banking,8,48
+2558,36,Male,Enterprise,1928,53,2,Debit Card,2,40
+2559,52,Female,Premium,4051,36,2,UPI,2,40
+2560,69,Male,Premium,2342,17,9,Net Banking,8,38
+2561,60,Male,Basic,1348,28,4,Debit Card,9,3
+2562,34,Male,Basic,453,22,2,Credit Card,10,29
+2563,62,Male,Enterprise,4302,7,10,Debit Card,10,8
+2564,60,Male,Basic,3742,15,6,Net Banking,2,29
+2565,51,Male,Basic,2975,11,4,Net Banking,4,10
+2566,26,Male,Premium,4837,24,3,Net Banking,8,5
+2567,43,Male,Basic,3533,67,11,Net Banking,2,11
+2568,19,Female,Enterprise,4384,30,2,Debit Card,4,4
+2569,26,Female,Premium,3479,70,14,Credit Card,10,49
+2570,26,Male,Premium,4508,66,11,Credit Card,1,35
+2571,57,Male,Enterprise,3081,61,3,Net Banking,2,40
+2572,34,Female,Basic,465,41,13,Credit Card,7,12
+2573,18,Male,Basic,2540,51,14,Debit Card,1,21
+2574,42,Male,Basic,3348,44,11,Credit Card,1,16
+2575,60,Female,Basic,3559,13,1,UPI,2,14
+2576,57,Male,Premium,1204,12,0,Credit Card,4,21
+2577,59,Male,Enterprise,2294,9,2,Net Banking,7,48
+2578,42,Female,Basic,4917,48,10,Credit Card,4,27
+2579,56,Male,Basic,3471,49,1,Credit Card,5,36
+2580,52,Male,Enterprise,4722,53,0,Credit Card,4,1
+2581,20,Female,Basic,409,56,0,Credit Card,4,1
+2582,67,Male,Basic,1087,40,1,UPI,9,22
+2583,54,Female,Basic,353,24,12,Debit Card,6,15
+2584,61,Male,Enterprise,3793,33,12,Net Banking,3,20
+2585,61,Male,Premium,614,23,8,Net Banking,6,3
+2586,68,Female,Premium,3624,54,12,Credit Card,7,14
+2587,47,Female,Premium,1484,53,12,Debit Card,7,9
+2588,55,Male,Basic,3348,49,4,Credit Card,8,19
+2589,51,Female,Basic,968,49,8,UPI,4,40
+2590,29,Female,Premium,1182,60,7,Debit Card,1,34
+2591,36,Male,Basic,3402,65,12,Debit Card,6,4
+2592,54,Male,Premium,4874,32,10,Debit Card,8,33
+2593,61,Male,Enterprise,3726,21,5,Debit Card,5,43
+2594,66,Female,Premium,2987,18,0,Credit Card,3,37
+2595,34,Female,Premium,2410,60,9,UPI,4,2
+2596,27,Female,Premium,1238,13,4,Debit Card,8,27
+2597,66,Female,Premium,4132,24,11,Net Banking,6,45
+2598,64,Male,Basic,741,30,0,Net Banking,5,17
+2599,29,Female,Basic,558,2,6,UPI,9,49
+2600,33,Male,Basic,1049,25,9,Net Banking,10,31
+2601,41,Female,Premium,4722,50,13,Credit Card,3,41
+2602,36,Male,Basic,2744,14,10,Credit Card,7,6
+2603,25,Male,Premium,4781,6,7,UPI,9,31
+2604,48,Male,Basic,2031,30,7,Debit Card,4,3
+2605,38,Female,Premium,1672,30,6,Net Banking,10,40
+2606,34,Male,Basic,1636,38,1,Net Banking,10,3
+2607,40,Male,Premium,529,58,4,UPI,3,33
+2608,54,Female,Premium,4554,41,3,UPI,1,13
+2609,33,Male,Basic,4438,57,4,Net Banking,9,21
+2610,23,Female,Basic,4208,36,9,Debit Card,1,37
+2611,25,Female,Premium,4922,64,8,UPI,2,16
+2612,42,Male,Basic,1588,16,14,Credit Card,9,21
+2613,35,Male,Basic,4385,14,3,Net Banking,5,48
+2614,42,Female,Enterprise,919,31,14,UPI,4,44
+2615,29,Male,Premium,3435,66,14,UPI,9,13
+2616,32,Female,Enterprise,4776,68,11,UPI,9,4
+2617,43,Female,Basic,2331,65,7,Net Banking,2,31
+2618,58,Female,Basic,1300,55,7,Credit Card,3,9
+2619,62,Male,Enterprise,872,40,1,Credit Card,3,48
+2620,43,Female,Premium,716,25,13,Net Banking,5,33
+2621,64,Male,Premium,2732,25,5,UPI,3,37
+2622,49,Male,Basic,3870,3,4,Net Banking,10,37
+2623,27,Male,Basic,981,69,1,Net Banking,6,24
+2624,33,Male,Basic,3723,26,11,UPI,2,25
+2625,24,Female,Basic,3758,40,9,Net Banking,6,41
+2626,34,Male,Basic,2586,38,3,Debit Card,6,29
+2627,40,Female,Basic,4982,38,6,Credit Card,2,40
+2628,43,Female,Enterprise,1789,68,12,Debit Card,6,47
+2629,38,Male,Basic,1701,7,0,Debit Card,6,36
+2630,39,Female,Premium,3994,30,14,Debit Card,6,15
+2631,24,Female,Premium,4518,19,8,Net Banking,5,45
+2632,31,Male,Premium,3280,35,9,UPI,7,18
+2633,32,Female,Basic,1276,33,11,Net Banking,5,20
+2634,24,Female,Premium,1300,33,0,Credit Card,1,5
+2635,26,Female,Premium,702,38,14,Net Banking,9,18
+2636,68,Female,Premium,1539,10,11,Net Banking,3,40
+2637,65,Male,Premium,4085,57,4,Net Banking,2,1
+2638,25,Female,Enterprise,823,28,6,Net Banking,10,19
+2639,67,Female,Premium,2086,38,7,Debit Card,6,23
+2640,40,Female,Basic,3550,16,1,UPI,8,26
+2641,46,Female,Premium,1250,21,3,Credit Card,2,49
+2642,35,Male,Basic,3972,6,1,Credit Card,4,29
+2643,48,Female,Enterprise,4116,41,3,Credit Card,2,34
+2644,47,Male,Basic,4218,15,14,Net Banking,9,19
+2645,69,Female,Basic,1529,3,5,Credit Card,10,48
+2646,56,Male,Premium,4314,43,5,Debit Card,2,18
+2647,52,Male,Premium,3567,47,11,UPI,10,2
+2648,35,Male,Basic,4151,14,12,Net Banking,2,27
+2649,59,Male,Basic,2697,66,1,Net Banking,5,6
+2650,56,Male,Enterprise,1773,29,10,Debit Card,5,39
+2651,34,Female,Basic,2834,4,3,Credit Card,7,6
+2652,31,Female,Enterprise,2968,26,3,Net Banking,1,6
+2653,48,Female,Basic,1411,12,13,Net Banking,2,31
+2654,41,Male,Premium,975,2,0,Debit Card,6,41
+2655,52,Female,Premium,1360,17,14,Debit Card,2,40
+2656,61,Male,Basic,2583,35,13,Credit Card,4,30
+2657,62,Male,Basic,2854,10,1,UPI,10,21
+2658,51,Female,Basic,3740,43,13,UPI,6,41
+2659,20,Female,Premium,4897,21,2,Credit Card,7,44
+2660,54,Male,Premium,4835,15,12,UPI,10,18
+2661,60,Male,Premium,1295,35,14,Debit Card,5,23
+2662,57,Female,Basic,223,60,10,Debit Card,8,38
+2663,43,Female,Basic,4919,44,4,Debit Card,6,23
+2664,40,Female,Basic,3756,5,10,UPI,5,28
+2665,61,Female,Basic,1279,18,7,UPI,4,36
+2666,56,Male,Premium,4518,21,14,Net Banking,6,25
+2667,32,Female,Enterprise,378,51,5,Net Banking,6,7
+2668,66,Female,Premium,3047,41,2,Net Banking,6,18
+2669,21,Female,Basic,2160,24,5,UPI,1,20
+2670,46,Male,Enterprise,1673,24,6,Net Banking,6,5
+2671,39,Male,Premium,1412,38,5,Debit Card,1,18
+2672,42,Male,Enterprise,1009,44,9,UPI,5,42
+2673,30,Male,Premium,619,57,5,Credit Card,7,40
+2674,35,Female,Basic,3859,59,0,UPI,1,33
+2675,50,Male,Basic,4016,34,2,Net Banking,1,15
+2676,33,Female,Premium,1478,23,6,UPI,6,35
+2677,62,Female,Basic,2723,43,3,Net Banking,7,47
+2678,59,Female,Basic,1640,40,11,Net Banking,6,46
+2679,61,Female,Premium,1540,47,3,Credit Card,5,1
+2680,19,Male,Premium,2421,41,6,Credit Card,6,21
+2681,52,Male,Premium,2592,47,8,Debit Card,3,8
+2682,59,Male,Basic,1561,20,13,Net Banking,9,7
+2683,51,Female,Basic,791,65,10,UPI,5,41
+2684,47,Female,Premium,726,68,12,Credit Card,2,44
+2685,30,Female,Enterprise,2703,24,12,Credit Card,10,40
+2686,30,Female,Premium,1492,36,14,Net Banking,10,40
+2687,35,Female,Enterprise,1854,45,1,UPI,7,30
+2688,49,Male,Premium,387,2,8,Credit Card,3,38
+2689,49,Female,Premium,2958,28,2,Credit Card,1,35
+2690,52,Male,Basic,728,26,5,UPI,3,2
+2691,56,Female,Premium,633,23,3,Credit Card,9,46
+2692,63,Female,Premium,3712,36,0,UPI,5,8
+2693,69,Male,Premium,2004,6,8,Net Banking,7,38
+2694,46,Male,Basic,502,35,10,Credit Card,3,4
+2695,66,Female,Premium,4382,38,14,Net Banking,4,37
+2696,46,Female,Basic,637,35,5,UPI,1,21
+2697,61,Female,Premium,2788,53,7,Net Banking,3,13
+2698,33,Female,Basic,1032,38,14,Net Banking,7,9
+2699,61,Male,Premium,996,59,14,Net Banking,4,45
+2700,64,Female,Basic,759,43,1,Debit Card,2,29
+2701,27,Male,Basic,3788,4,6,UPI,5,41
+2702,47,Female,Basic,961,5,5,UPI,5,24
+2703,42,Male,Premium,3774,68,1,UPI,2,16
+2704,56,Male,Basic,3985,45,1,UPI,6,12
+2705,37,Female,Basic,2714,25,3,UPI,10,2
+2706,22,Male,Premium,884,11,3,Credit Card,4,19
+2707,18,Female,Basic,4433,29,2,Credit Card,1,30
+2708,47,Male,Enterprise,777,34,7,Credit Card,3,16
+2709,66,Female,Enterprise,427,14,13,Net Banking,9,24
+2710,20,Male,Premium,2528,24,6,Net Banking,10,13
+2711,62,Female,Basic,2931,59,1,UPI,7,5
+2712,31,Female,Premium,1027,39,2,Debit Card,6,23
+2713,47,Male,Basic,630,26,9,UPI,1,38
+2714,67,Male,Basic,1263,43,8,Credit Card,9,31
+2715,21,Male,Basic,1909,36,12,UPI,9,17
+2716,35,Male,Enterprise,1434,39,4,Net Banking,1,49
+2717,54,Female,Basic,501,61,1,UPI,6,49
+2718,42,Male,Premium,1620,16,2,Credit Card,7,3
+2719,65,Female,Premium,4828,59,7,UPI,2,26
+2720,18,Male,Basic,968,6,3,Net Banking,10,13
+2721,63,Female,Basic,1604,56,13,Debit Card,8,44
+2722,32,Female,Enterprise,643,8,1,Credit Card,8,38
+2723,26,Female,Premium,3304,27,1,UPI,6,22
+2724,32,Female,Premium,4555,71,5,Net Banking,9,21
+2725,66,Male,Basic,3505,27,7,Credit Card,3,29
+2726,41,Male,Basic,1738,46,6,Credit Card,2,45
+2727,21,Female,Basic,4130,41,3,Net Banking,2,46
+2728,29,Male,Basic,1531,25,1,UPI,6,39
+2729,54,Male,Basic,269,18,8,UPI,7,5
+2730,54,Female,Premium,3635,12,3,UPI,6,14
+2731,60,Male,Basic,680,51,8,Credit Card,3,18
+2732,23,Male,Basic,4294,39,4,Debit Card,5,4
+2733,56,Male,Premium,3696,10,13,Credit Card,8,33
+2734,63,Female,Premium,2993,54,11,UPI,6,39
+2735,41,Male,Basic,3092,29,14,Credit Card,2,20
+2736,28,Female,Premium,1398,41,11,Debit Card,7,13
+2737,30,Male,Basic,2572,9,10,Credit Card,8,36
+2738,51,Male,Basic,2092,63,10,Net Banking,4,45
+2739,42,Male,Basic,2083,37,13,UPI,1,4
+2740,24,Female,Premium,997,14,6,UPI,2,35
+2741,69,Female,Basic,217,39,11,UPI,4,8
+2742,21,Male,Basic,243,40,4,Credit Card,7,40
+2743,25,Female,Basic,354,54,14,Credit Card,2,49
+2744,37,Male,Premium,3648,3,1,Credit Card,6,47
+2745,46,Female,Basic,4280,55,5,UPI,2,36
+2746,68,Female,Basic,1625,33,6,Credit Card,7,6
+2747,62,Male,Basic,4520,71,13,UPI,2,22
+2748,63,Male,Basic,4512,19,14,Credit Card,3,6
+2749,27,Male,Premium,3839,34,10,UPI,9,42
+2750,60,Male,Premium,4326,50,12,Net Banking,4,36
+2751,51,Female,Basic,2092,47,5,Credit Card,5,9
+2752,43,Female,Basic,1097,46,12,UPI,9,16
+2753,58,Female,Basic,3624,56,13,Net Banking,7,39
+2754,66,Male,Basic,4740,57,2,Net Banking,8,46
+2755,20,Male,Basic,1458,51,9,Debit Card,3,38
+2756,23,Female,Premium,2215,54,7,Credit Card,4,33
+2757,22,Male,Enterprise,1902,28,2,UPI,7,18
+2758,22,Female,Enterprise,1073,19,13,Debit Card,4,12
+2759,64,Female,Enterprise,765,27,4,Credit Card,2,27
+2760,40,Female,Premium,2218,48,8,Net Banking,10,47
+2761,66,Female,Premium,2085,19,10,Credit Card,6,1
+2762,26,Female,Basic,2323,51,4,UPI,9,15
+2763,52,Male,Premium,4842,7,14,Net Banking,2,47
+2764,37,Male,Basic,2514,29,6,Debit Card,1,27
+2765,66,Male,Basic,4612,43,10,Credit Card,8,16
+2766,59,Female,Premium,4083,69,13,Credit Card,1,21
+2767,52,Female,Basic,3392,58,6,Debit Card,1,1
+2768,67,Female,Basic,2059,8,4,Credit Card,3,29
+2769,35,Female,Enterprise,224,42,1,Credit Card,5,3
+2770,34,Male,Basic,3703,42,4,Credit Card,9,12
+2771,41,Male,Basic,4455,13,6,Net Banking,10,28
+2772,20,Female,Enterprise,1337,26,6,Net Banking,2,39
+2773,49,Female,Premium,1389,18,3,UPI,1,37
+2774,52,Female,Premium,4998,42,0,Credit Card,1,31
+2775,55,Male,Basic,4296,51,5,UPI,8,31
+2776,30,Male,Basic,3357,16,12,Net Banking,10,33
+2777,64,Male,Enterprise,2567,3,14,Credit Card,10,33
+2778,42,Female,Premium,4677,45,13,UPI,10,47
+2779,26,Female,Premium,1941,22,2,Credit Card,2,40
+2780,21,Male,Basic,3888,23,10,Credit Card,9,11
+2781,31,Female,Basic,3946,59,4,Debit Card,9,46
+2782,54,Male,Enterprise,1097,62,3,UPI,2,29
+2783,51,Female,Basic,4223,68,14,Net Banking,3,25
+2784,28,Male,Premium,916,54,12,UPI,2,13
+2785,58,Female,Basic,4167,57,1,UPI,6,44
+2786,20,Male,Premium,4221,23,11,UPI,7,19
+2787,45,Male,Enterprise,3415,60,14,Debit Card,6,36
+2788,46,Male,Premium,590,55,6,Credit Card,3,28
+2789,26,Male,Basic,4084,63,13,Net Banking,3,4
+2790,20,Male,Premium,1899,56,4,Debit Card,2,3
+2791,42,Male,Premium,3237,55,14,Net Banking,2,38
+2792,51,Female,Basic,432,25,13,Debit Card,5,37
+2793,29,Female,Enterprise,2126,26,6,Credit Card,8,43
+2794,59,Female,Premium,3331,49,8,Net Banking,6,25
+2795,26,Male,Enterprise,3506,63,3,UPI,9,41
+2796,32,Male,Premium,2924,45,4,Debit Card,5,35
+2797,57,Female,Basic,433,39,8,Net Banking,10,29
+2798,42,Male,Basic,1591,65,12,Credit Card,4,41
+2799,22,Male,Basic,3092,69,9,Net Banking,9,29
+2800,28,Male,Enterprise,1455,56,10,Debit Card,10,12
+2801,51,Male,Premium,2738,9,13,Credit Card,5,35
+2802,41,Male,Premium,3890,70,12,UPI,1,20
+2803,32,Female,Basic,1089,28,3,Debit Card,5,17
+2804,55,Female,Basic,4887,45,4,Debit Card,5,12
+2805,25,Female,Premium,945,26,12,Credit Card,5,36
+2806,22,Female,Basic,1919,28,4,Debit Card,2,10
+2807,65,Female,Basic,627,40,7,Net Banking,6,18
+2808,43,Male,Premium,931,15,14,UPI,5,30
+2809,35,Male,Basic,999,6,12,Net Banking,2,8
+2810,23,Male,Basic,4497,27,14,Credit Card,10,41
+2811,54,Male,Basic,1035,38,3,Debit Card,8,13
+2812,65,Female,Basic,334,68,3,UPI,6,31
+2813,30,Female,Enterprise,2738,64,12,Credit Card,10,6
+2814,45,Female,Basic,3918,30,6,Net Banking,3,7
+2815,22,Male,Basic,240,3,10,Debit Card,9,21
+2816,30,Female,Basic,3567,62,4,Debit Card,4,38
+2817,34,Male,Premium,2615,12,5,Credit Card,3,43
+2818,67,Female,Basic,2240,30,5,Net Banking,7,49
+2819,57,Female,Premium,4539,38,11,Debit Card,8,28
+2820,62,Male,Basic,3149,60,5,Net Banking,7,44
+2821,49,Male,Basic,4461,38,13,UPI,1,21
+2822,46,Female,Basic,3666,15,9,Debit Card,1,21
+2823,68,Female,Premium,3288,18,4,UPI,5,24
+2824,20,Male,Enterprise,1315,52,12,Debit Card,8,27
+2825,57,Female,Basic,4778,29,12,Credit Card,10,27
+2826,51,Female,Premium,2790,60,4,Debit Card,3,13
+2827,57,Male,Enterprise,3773,21,8,Debit Card,8,29
+2828,44,Female,Basic,3178,17,12,Net Banking,3,39
+2829,30,Male,Premium,2647,18,7,Net Banking,4,28
+2830,62,Female,Basic,1430,57,14,UPI,10,37
+2831,50,Male,Enterprise,2866,37,3,UPI,7,29
+2832,23,Female,Premium,4458,60,6,UPI,3,48
+2833,41,Male,Enterprise,2794,38,7,Debit Card,4,22
+2834,36,Female,Premium,3630,12,11,Debit Card,8,36
+2835,33,Male,Basic,3117,1,8,UPI,4,30
+2836,57,Female,Enterprise,3152,58,4,Credit Card,9,28
+2837,45,Female,Basic,2195,3,2,Credit Card,4,23
+2838,50,Female,Basic,4091,63,14,Debit Card,4,33
+2839,65,Female,Premium,506,21,12,Credit Card,5,4
+2840,58,Female,Premium,1562,23,3,Credit Card,1,3
+2841,30,Female,Enterprise,2302,9,14,UPI,7,32
+2842,60,Female,Basic,3230,55,9,Credit Card,9,4
+2843,62,Female,Premium,532,19,5,Credit Card,9,1
+2844,42,Female,Premium,2952,62,9,Debit Card,1,12
+2845,59,Male,Basic,442,39,10,Debit Card,6,13
+2846,53,Male,Basic,2084,27,4,Debit Card,3,34
+2847,44,Female,Basic,1632,46,8,Credit Card,4,29
+2848,55,Male,Basic,2750,34,12,UPI,8,9
+2849,24,Female,Enterprise,502,33,10,Net Banking,4,31
+2850,22,Female,Premium,4530,50,10,Debit Card,8,7
+2851,60,Male,Premium,3309,20,13,Debit Card,4,13
+2852,62,Female,Enterprise,2386,40,2,Debit Card,9,2
+2853,68,Female,Basic,4490,58,1,UPI,6,33
+2854,48,Male,Premium,1750,31,5,Net Banking,1,7
+2855,40,Male,Basic,1992,38,12,Net Banking,10,18
+2856,59,Female,Enterprise,846,45,6,Debit Card,2,8
+2857,27,Male,Basic,4856,41,4,Credit Card,7,12
+2858,49,Male,Enterprise,912,9,0,Debit Card,10,43
+2859,60,Female,Basic,4708,9,2,Debit Card,7,30
+2860,47,Male,Basic,737,63,2,Credit Card,3,9
+2861,56,Male,Premium,434,22,11,Credit Card,1,28
+2862,48,Female,Basic,2596,16,13,Debit Card,8,4
+2863,35,Male,Premium,1704,32,3,UPI,10,39
+2864,53,Male,Basic,1574,66,13,UPI,10,17
+2865,19,Female,Premium,4711,14,9,Credit Card,7,11
+2866,31,Female,Basic,2109,38,5,Debit Card,10,2
+2867,30,Female,Basic,1115,8,4,UPI,8,23
+2868,46,Male,Basic,4158,21,0,Debit Card,1,22
+2869,29,Female,Basic,280,56,14,Debit Card,3,26
+2870,56,Female,Basic,2283,46,5,Debit Card,2,12
+2871,19,Male,Basic,2888,43,13,UPI,1,32
+2872,49,Female,Basic,1890,46,13,Net Banking,5,9
+2873,30,Female,Basic,956,48,8,Debit Card,3,43
+2874,63,Female,Premium,2870,70,10,UPI,10,5
+2875,44,Female,Enterprise,3951,31,0,Net Banking,8,26
+2876,66,Male,Basic,3752,33,7,Credit Card,6,7
+2877,58,Female,Premium,667,44,7,UPI,10,29
+2878,34,Female,Premium,1694,71,2,Net Banking,9,33
+2879,57,Male,Basic,1219,8,14,UPI,9,24
+2880,48,Female,Premium,1101,2,12,Net Banking,6,25
+2881,51,Male,Basic,872,17,8,Net Banking,2,31
+2882,41,Male,Premium,638,52,10,UPI,9,29
+2883,62,Male,Basic,4422,45,12,Credit Card,2,5
+2884,52,Female,Premium,2276,37,12,Debit Card,3,38
+2885,65,Male,Premium,644,42,10,Net Banking,6,45
+2886,23,Male,Basic,1165,44,7,Debit Card,2,11
+2887,36,Male,Basic,3990,38,2,Credit Card,5,32
+2888,47,Female,Enterprise,663,6,9,Debit Card,2,8
+2889,24,Female,Basic,2398,68,4,Debit Card,4,20
+2890,27,Female,Premium,2487,51,2,UPI,3,34
+2891,58,Female,Enterprise,3965,35,4,UPI,5,47
+2892,49,Female,Premium,3376,58,8,Credit Card,6,42
+2893,51,Female,Premium,4208,57,14,UPI,7,8
+2894,45,Female,Premium,3704,6,11,Net Banking,10,2
+2895,32,Male,Enterprise,1112,13,3,Credit Card,8,21
+2896,47,Male,Basic,696,59,5,UPI,9,15
+2897,54,Male,Basic,1663,30,2,UPI,4,6
+2898,46,Male,Basic,4453,2,2,Credit Card,4,5
+2899,39,Female,Enterprise,4467,58,4,Net Banking,7,3
+2900,21,Male,Premium,693,36,7,Credit Card,10,43
+2901,37,Male,Basic,1626,45,13,UPI,10,43
+2902,49,Male,Enterprise,1892,9,7,UPI,9,16
+2903,53,Male,Basic,1993,65,2,Credit Card,2,35
+2904,67,Female,Basic,2923,50,7,Net Banking,6,9
+2905,21,Female,Premium,858,32,12,Net Banking,10,35
+2906,44,Female,Basic,4961,43,10,Debit Card,10,19
+2907,34,Male,Enterprise,4662,54,12,Net Banking,8,43
+2908,29,Female,Basic,749,47,7,Credit Card,5,46
+2909,39,Male,Premium,842,14,2,Net Banking,5,34
+2910,34,Female,Premium,4550,48,9,Net Banking,8,39
+2911,27,Female,Basic,407,55,14,Debit Card,1,10
+2912,18,Female,Enterprise,2697,29,12,Net Banking,6,10
+2913,39,Female,Premium,4390,47,14,Debit Card,10,20
+2914,43,Female,Basic,2083,63,9,Debit Card,9,1
+2915,35,Male,Basic,3086,19,1,Net Banking,6,6
+2916,67,Female,Enterprise,677,9,9,UPI,7,46
+2917,31,Male,Basic,961,37,1,Credit Card,4,2
+2918,64,Male,Basic,389,52,8,Credit Card,10,38
+2919,46,Male,Basic,955,57,6,Net Banking,1,33
+2920,29,Male,Basic,1646,28,5,Credit Card,9,3
+2921,53,Male,Premium,1863,36,6,Credit Card,6,36
+2922,52,Female,Basic,2035,64,7,Debit Card,3,13
+2923,69,Female,Basic,4428,18,11,UPI,4,35
+2924,29,Female,Basic,4350,35,0,Credit Card,10,15
+2925,24,Female,Basic,4260,68,7,UPI,6,45
+2926,46,Male,Enterprise,4805,39,2,Credit Card,6,22
+2927,28,Female,Basic,4965,8,2,UPI,9,43
+2928,50,Female,Enterprise,3812,15,5,UPI,4,4
+2929,23,Male,Basic,1889,7,3,Credit Card,5,17
+2930,64,Male,Basic,1516,17,3,Debit Card,5,5
+2931,32,Female,Enterprise,3386,64,3,UPI,3,21
+2932,49,Female,Basic,4220,12,9,UPI,2,24
+2933,68,Male,Premium,4554,56,8,Credit Card,8,31
+2934,28,Female,Enterprise,1345,46,7,UPI,10,40
+2935,40,Female,Basic,4594,47,2,UPI,9,30
+2936,43,Female,Basic,760,16,0,Debit Card,10,42
+2937,51,Female,Premium,2112,69,0,UPI,9,7
+2938,63,Male,Basic,2064,2,0,Debit Card,5,49
+2939,51,Male,Basic,496,54,3,UPI,9,7
+2940,46,Male,Basic,2609,27,13,UPI,4,27
+2941,21,Female,Basic,2836,31,5,Debit Card,2,24
+2942,34,Female,Premium,1661,41,3,Debit Card,3,19
+2943,52,Female,Basic,4492,36,10,Net Banking,1,41
+2944,30,Female,Basic,2468,47,10,UPI,5,34
+2945,58,Female,Premium,1194,43,2,Debit Card,1,22
+2946,56,Male,Basic,207,65,7,UPI,1,27
+2947,32,Female,Basic,2791,50,13,UPI,7,6
+2948,46,Female,Premium,2715,1,7,UPI,2,10
+2949,46,Male,Basic,4615,57,5,Credit Card,8,45
+2950,28,Female,Premium,1617,16,8,Net Banking,6,31
+2951,69,Male,Enterprise,2516,28,11,Credit Card,4,25
+2952,49,Male,Basic,4132,22,9,Net Banking,9,2
+2953,19,Male,Premium,1487,41,0,UPI,10,10
+2954,64,Male,Basic,3044,19,12,UPI,8,10
+2955,31,Male,Basic,1318,50,7,Debit Card,10,26
+2956,37,Female,Enterprise,752,59,5,Net Banking,3,5
+2957,39,Male,Enterprise,860,69,0,Net Banking,3,22
+2958,28,Male,Basic,915,34,3,Credit Card,4,4
+2959,44,Female,Premium,3785,39,4,Net Banking,9,34
+2960,20,Female,Enterprise,3961,7,6,UPI,9,7
+2961,34,Male,Enterprise,2729,52,7,Debit Card,5,17
+2962,61,Female,Premium,4170,60,8,Credit Card,9,11
+2963,45,Female,Basic,3607,52,11,Debit Card,6,8
+2964,46,Male,Basic,1658,24,11,Net Banking,8,28
+2965,38,Male,Enterprise,3467,26,5,Net Banking,8,44
+2966,64,Female,Basic,1054,10,9,Credit Card,10,33
+2967,33,Male,Premium,4960,17,8,Net Banking,7,25
+2968,54,Male,Basic,3737,2,3,Debit Card,4,21
+2969,37,Female,Basic,2097,27,7,UPI,4,12
+2970,23,Male,Basic,472,71,2,Credit Card,6,26
+2971,36,Male,Enterprise,4287,48,3,Net Banking,9,29
+2972,22,Male,Basic,1472,9,9,Debit Card,7,38
+2973,20,Male,Premium,4574,23,3,UPI,5,35
+2974,18,Male,Basic,4219,71,5,Net Banking,5,37
+2975,55,Female,Basic,1015,27,14,Credit Card,8,46
+2976,32,Female,Basic,4571,71,8,Net Banking,6,44
+2977,51,Male,Premium,1122,43,5,Net Banking,1,45
+2978,52,Female,Basic,4937,7,0,Net Banking,1,45
+2979,66,Male,Basic,4800,63,4,UPI,9,29
+2980,42,Male,Basic,1464,44,8,UPI,8,49
+2981,41,Male,Basic,3924,39,4,Net Banking,6,24
+2982,29,Male,Enterprise,2987,40,5,Net Banking,1,15
+2983,35,Male,Enterprise,2922,7,2,Credit Card,2,6
+2984,32,Female,Basic,4423,70,7,Net Banking,10,32
+2985,61,Female,Premium,2750,25,9,Debit Card,3,44
+2986,33,Male,Enterprise,3149,59,10,Debit Card,10,34
+2987,44,Female,Basic,1873,13,12,Credit Card,3,36
+2988,25,Male,Premium,4787,62,3,UPI,2,20
+2989,63,Female,Enterprise,3292,8,3,Net Banking,2,12
+2990,42,Male,Basic,3038,45,10,Credit Card,6,35
+2991,34,Female,Basic,1866,18,11,UPI,7,49
+2992,46,Male,Enterprise,4711,60,4,Credit Card,4,38
+2993,25,Male,Premium,2395,60,13,UPI,1,17
+2994,32,Female,Basic,1584,2,9,Net Banking,6,27
+2995,44,Female,Basic,4603,66,14,Credit Card,7,17
+2996,63,Male,Basic,4154,14,8,Net Banking,4,11
+2997,67,Female,Premium,3099,48,12,Credit Card,6,39
+2998,69,Male,Premium,260,56,7,UPI,9,2
+2999,24,Female,Enterprise,4147,12,6,Credit Card,4,2
+3000,20,Female,Basic,2490,55,4,Debit Card,10,29
+3001,46,Male,Premium,672,28,8,Debit Card,4,45
+3002,61,Female,Premium,1158,4,8,Credit Card,10,24
+3003,41,Female,Basic,732,36,9,Debit Card,5,24
+3004,20,Male,Basic,693,50,9,Net Banking,3,16
+3005,37,Female,Enterprise,281,3,1,Debit Card,10,31
+3006,63,Male,Enterprise,3170,1,3,Debit Card,2,49
+3007,32,Male,Basic,211,17,7,Net Banking,9,43
+3008,42,Male,Premium,4744,71,12,Net Banking,1,9
+3009,47,Male,Basic,961,62,13,UPI,5,27
+3010,31,Male,Premium,3385,48,0,Net Banking,5,41
+3011,24,Female,Premium,225,62,12,Credit Card,8,14
+3012,34,Male,Premium,2006,69,14,Debit Card,6,45
+3013,61,Male,Enterprise,4357,19,4,UPI,6,25
+3014,37,Female,Premium,4524,34,7,Net Banking,6,43
+3015,53,Female,Basic,4902,49,1,Debit Card,4,44
+3016,26,Female,Premium,3859,47,1,Credit Card,1,22
+3017,55,Male,Basic,1725,50,12,Credit Card,3,35
+3018,65,Male,Basic,960,26,7,UPI,10,33
+3019,39,Male,Basic,794,56,9,Credit Card,6,27
+3020,19,Female,Basic,1255,14,11,Debit Card,5,40
+3021,41,Male,Premium,2054,25,8,Net Banking,10,26
+3022,25,Female,Basic,3283,4,6,Credit Card,1,19
+3023,28,Male,Premium,4116,32,7,Net Banking,5,45
+3024,30,Female,Premium,3875,65,4,Debit Card,2,39
+3025,34,Male,Basic,2248,61,0,Debit Card,1,45
+3026,25,Male,Premium,1658,20,3,Net Banking,4,26
+3027,38,Male,Basic,1419,10,14,Debit Card,6,6
+3028,35,Female,Basic,4428,34,1,UPI,7,3
+3029,47,Female,Premium,4381,61,2,Credit Card,9,6
+3030,35,Male,Basic,1699,27,11,UPI,5,28
+3031,63,Male,Basic,2030,40,2,UPI,8,3
+3032,64,Male,Premium,3595,65,8,UPI,8,13
+3033,48,Female,Premium,1403,33,12,Net Banking,9,13
+3034,55,Male,Basic,4470,68,14,Net Banking,3,13
+3035,49,Male,Enterprise,3010,71,9,Debit Card,3,1
+3036,28,Male,Premium,3292,9,14,Net Banking,9,40
+3037,62,Male,Enterprise,3244,16,3,Debit Card,7,37
+3038,42,Female,Basic,4873,5,1,Net Banking,4,31
+3039,50,Female,Premium,3714,23,2,Debit Card,1,17
+3040,55,Male,Enterprise,1998,43,2,Credit Card,7,9
+3041,58,Male,Premium,2775,57,13,Debit Card,10,45
+3042,25,Female,Premium,344,51,6,Credit Card,6,13
+3043,28,Female,Basic,4126,13,7,Debit Card,3,37
+3044,39,Male,Basic,1577,24,12,Net Banking,5,14
+3045,68,Female,Basic,3346,11,10,Net Banking,3,11
+3046,41,Female,Basic,2025,52,12,Credit Card,8,25
+3047,58,Male,Enterprise,993,17,5,UPI,5,31
+3048,34,Female,Basic,1801,37,3,UPI,10,14
+3049,29,Female,Enterprise,4614,13,5,Debit Card,10,7
+3050,63,Male,Enterprise,1310,62,12,Net Banking,6,24
+3051,49,Male,Basic,4253,8,10,UPI,2,49
+3052,32,Female,Basic,4993,56,0,Net Banking,8,36
+3053,33,Male,Enterprise,4137,70,12,Net Banking,9,42
+3054,39,Female,Enterprise,4163,44,9,Net Banking,3,42
+3055,45,Male,Basic,982,60,7,Debit Card,6,47
+3056,37,Female,Basic,1316,41,0,Credit Card,6,44
+3057,50,Male,Premium,1950,21,14,Debit Card,2,41
+3058,27,Female,Premium,2776,42,4,UPI,10,3
+3059,57,Female,Basic,4227,29,1,Credit Card,8,47
+3060,49,Female,Premium,3536,65,14,UPI,5,44
+3061,67,Male,Basic,4587,17,5,Credit Card,8,26
+3062,50,Male,Basic,1687,30,8,Credit Card,8,47
+3063,19,Female,Basic,4075,26,4,Debit Card,3,26
+3064,50,Female,Basic,3831,53,3,Net Banking,5,1
+3065,50,Male,Basic,4392,19,13,Net Banking,7,15
+3066,58,Male,Basic,4158,53,1,Credit Card,5,11
+3067,30,Male,Basic,3597,17,11,Debit Card,6,37
+3068,47,Male,Basic,273,46,2,UPI,2,7
+3069,50,Male,Basic,1559,53,5,UPI,8,12
+3070,30,Male,Enterprise,1291,64,7,Net Banking,5,38
+3071,69,Female,Basic,2141,45,13,Net Banking,6,3
+3072,43,Male,Basic,3348,49,7,UPI,1,42
+3073,39,Female,Premium,4503,19,4,UPI,10,26
+3074,56,Male,Enterprise,1444,71,4,Debit Card,2,30
+3075,19,Male,Basic,1485,65,9,UPI,4,32
+3076,55,Female,Premium,4705,37,13,Debit Card,9,36
+3077,56,Female,Premium,3236,70,12,Net Banking,6,45
+3078,43,Male,Premium,970,26,2,UPI,8,37
+3079,63,Female,Basic,2043,2,14,Net Banking,2,18
+3080,67,Female,Premium,273,59,6,Credit Card,10,1
+3081,32,Female,Basic,1860,5,14,Credit Card,5,21
+3082,51,Female,Premium,4549,37,12,Credit Card,1,28
+3083,59,Male,Premium,1019,31,5,UPI,4,48
+3084,61,Female,Basic,4018,48,14,Net Banking,10,16
+3085,66,Male,Premium,531,6,0,UPI,1,48
+3086,57,Male,Basic,1621,15,3,Net Banking,9,28
+3087,28,Male,Premium,3855,15,5,Debit Card,2,22
+3088,20,Male,Basic,1891,61,10,UPI,7,19
+3089,23,Female,Basic,4750,16,5,Credit Card,3,48
+3090,26,Female,Basic,4608,20,10,Debit Card,2,1
+3091,23,Male,Enterprise,427,44,13,Net Banking,4,31
+3092,26,Male,Basic,3081,42,14,UPI,7,42
+3093,56,Male,Basic,3065,46,11,Net Banking,7,34
+3094,48,Male,Basic,2775,34,11,Net Banking,9,46
+3095,49,Female,Premium,4722,64,2,UPI,3,40
+3096,58,Male,Premium,664,29,5,UPI,7,6
+3097,67,Female,Basic,477,3,11,Net Banking,6,28
+3098,29,Male,Basic,4314,9,9,Net Banking,10,3
+3099,25,Male,Basic,265,25,5,Debit Card,7,31
+3100,25,Male,Basic,4462,42,11,Credit Card,7,16
+3101,67,Male,Basic,602,46,8,Net Banking,10,17
+3102,45,Female,Premium,4183,59,8,Credit Card,5,44
+3103,37,Female,Basic,4704,21,1,Debit Card,9,27
+3104,64,Female,Basic,3678,22,3,Credit Card,7,24
+3105,24,Male,Basic,3644,29,8,Credit Card,7,20
+3106,28,Male,Enterprise,4892,63,14,Debit Card,3,32
+3107,37,Female,Enterprise,4619,61,13,Net Banking,1,35
+3108,33,Female,Premium,3239,64,12,Credit Card,5,13
+3109,21,Male,Basic,1637,69,3,Net Banking,8,48
+3110,23,Male,Basic,628,40,7,Net Banking,5,43
+3111,39,Female,Basic,2882,1,9,UPI,10,20
+3112,43,Male,Basic,2977,65,11,Net Banking,3,48
+3113,20,Male,Premium,3578,62,2,Net Banking,9,2
+3114,58,Female,Premium,592,54,2,Credit Card,2,4
+3115,59,Male,Enterprise,4741,60,8,Net Banking,3,27
+3116,31,Female,Premium,541,46,10,Net Banking,4,25
+3117,28,Male,Basic,332,5,9,UPI,10,4
+3118,35,Female,Premium,464,22,7,UPI,1,32
+3119,29,Male,Basic,4388,53,0,Credit Card,4,17
+3120,40,Female,Basic,1885,70,9,Credit Card,4,1
+3121,29,Female,Premium,1634,32,13,UPI,9,33
+3122,30,Female,Basic,1860,11,1,UPI,8,30
+3123,42,Female,Basic,4017,10,2,Debit Card,2,5
+3124,62,Male,Basic,2554,39,13,Net Banking,7,12
+3125,68,Male,Premium,465,31,10,Credit Card,6,38
+3126,36,Female,Premium,4941,12,1,Credit Card,7,32
+3127,63,Male,Basic,1336,38,2,Net Banking,4,38
+3128,53,Male,Premium,4749,67,7,Net Banking,5,17
+3129,62,Male,Basic,1590,66,10,Credit Card,6,45
+3130,25,Male,Basic,1312,52,10,UPI,9,40
+3131,46,Male,Premium,2434,5,11,UPI,2,32
+3132,49,Female,Premium,3066,11,13,Net Banking,9,24
+3133,68,Female,Enterprise,3268,25,5,Credit Card,10,12
+3134,61,Female,Basic,2379,35,14,Net Banking,1,47
+3135,35,Female,Premium,834,35,13,UPI,4,31
+3136,23,Male,Premium,3831,22,6,Debit Card,5,19
+3137,35,Male,Enterprise,1599,37,9,Debit Card,9,29
+3138,36,Female,Basic,4986,55,14,UPI,6,21
+3139,39,Male,Premium,2939,64,14,Net Banking,4,26
+3140,54,Male,Premium,3370,20,12,Debit Card,2,28
+3141,49,Female,Basic,2065,4,9,UPI,5,17
+3142,58,Male,Basic,2155,18,5,Credit Card,8,9
+3143,20,Female,Basic,4877,51,0,Net Banking,8,21
+3144,45,Female,Premium,2418,68,10,Net Banking,6,34
+3145,27,Male,Enterprise,1589,20,2,Debit Card,1,11
+3146,68,Male,Premium,3330,9,12,Net Banking,8,20
+3147,52,Female,Premium,4476,26,0,Debit Card,4,49
+3148,46,Female,Premium,4314,25,11,Debit Card,2,47
+3149,32,Male,Basic,1449,68,14,UPI,1,39
+3150,50,Female,Basic,3366,41,9,Debit Card,7,16
+3151,24,Female,Basic,1445,59,11,Credit Card,2,29
+3152,29,Female,Basic,253,45,8,Net Banking,4,1
+3153,66,Male,Basic,3110,41,12,Debit Card,4,18
+3154,47,Female,Premium,2596,38,8,Net Banking,10,22
+3155,38,Male,Basic,642,19,4,Debit Card,1,8
+3156,48,Female,Basic,4875,14,3,UPI,2,7
+3157,41,Male,Basic,3811,21,11,Credit Card,1,25
+3158,37,Female,Basic,4577,15,8,Net Banking,6,30
+3159,54,Male,Enterprise,2607,3,8,UPI,3,34
+3160,21,Male,Enterprise,1022,37,14,Net Banking,1,44
+3161,45,Male,Premium,3902,46,2,UPI,8,48
+3162,61,Female,Basic,3139,16,4,Credit Card,4,41
+3163,37,Female,Premium,4936,14,2,Debit Card,10,11
+3164,41,Female,Premium,1231,9,9,UPI,7,15
+3165,67,Male,Premium,2216,7,1,Net Banking,10,35
+3166,66,Female,Basic,762,14,0,Net Banking,2,23
+3167,68,Male,Premium,2738,6,11,UPI,6,45
+3168,49,Female,Premium,540,15,9,Credit Card,6,21
+3169,58,Male,Premium,4767,52,1,Credit Card,7,28
+3170,53,Male,Premium,3975,34,7,Debit Card,1,13
+3171,51,Male,Basic,2496,1,10,Debit Card,1,34
+3172,53,Female,Premium,434,69,7,Net Banking,2,38
+3173,19,Female,Basic,1316,20,2,Net Banking,2,6
+3174,32,Female,Premium,2108,7,6,Debit Card,5,44
+3175,51,Male,Basic,1617,7,6,Debit Card,1,4
+3176,53,Male,Basic,1491,50,1,Debit Card,2,5
+3177,23,Female,Basic,3688,2,8,UPI,6,40
+3178,56,Female,Premium,4927,47,2,Debit Card,3,6
+3179,59,Female,Basic,3854,14,1,UPI,4,21
+3180,68,Male,Premium,728,31,11,UPI,1,28
+3181,68,Male,Premium,3524,50,2,Debit Card,5,3
+3182,29,Male,Basic,2180,61,1,Credit Card,4,23
+3183,20,Male,Basic,3139,41,14,Credit Card,8,8
+3184,62,Male,Basic,1529,14,7,Net Banking,3,19
+3185,35,Female,Enterprise,1433,5,4,Debit Card,10,11
+3186,57,Male,Premium,1953,5,2,Net Banking,1,10
+3187,38,Male,Basic,3000,64,4,Debit Card,10,28
+3188,32,Male,Basic,3133,29,10,Net Banking,5,20
+3189,50,Male,Premium,2959,5,10,UPI,1,44
+3190,52,Male,Enterprise,2975,36,7,Debit Card,5,28
+3191,43,Female,Premium,3687,19,6,Credit Card,9,29
+3192,25,Male,Premium,4050,64,5,Debit Card,5,8
+3193,53,Male,Basic,2727,22,13,Net Banking,2,19
+3194,65,Male,Basic,1090,34,12,Net Banking,2,48
+3195,47,Female,Basic,2265,56,0,Net Banking,10,21
+3196,40,Female,Basic,1388,17,9,Net Banking,9,18
+3197,59,Female,Basic,4497,56,0,Net Banking,5,9
+3198,61,Male,Basic,940,17,0,Net Banking,8,4
+3199,31,Female,Basic,1569,18,13,Credit Card,10,41
+3200,31,Male,Enterprise,1589,45,9,Net Banking,4,25
+3201,19,Male,Premium,2200,56,13,Credit Card,2,34
+3202,54,Female,Premium,1671,50,7,Debit Card,4,9
+3203,22,Male,Premium,1736,58,7,UPI,4,9
+3204,55,Male,Basic,518,18,13,Credit Card,9,18
+3205,62,Male,Premium,2464,7,6,Debit Card,10,11
+3206,58,Female,Basic,2094,10,5,UPI,6,13
+3207,64,Male,Premium,3911,69,3,Credit Card,10,38
+3208,31,Male,Basic,3022,3,0,Credit Card,6,9
+3209,56,Female,Enterprise,4708,44,14,Debit Card,5,16
+3210,42,Male,Basic,1475,70,14,Net Banking,6,4
+3211,37,Male,Basic,3283,14,8,Credit Card,1,34
+3212,19,Female,Enterprise,600,4,14,Credit Card,5,7
+3213,56,Male,Basic,923,18,0,Debit Card,6,15
+3214,23,Male,Premium,2529,52,3,Net Banking,8,38
+3215,34,Male,Premium,1335,38,2,UPI,4,11
+3216,42,Male,Premium,2970,20,6,Net Banking,5,32
+3217,45,Male,Enterprise,467,44,4,Net Banking,4,27
+3218,19,Female,Enterprise,769,51,4,Debit Card,7,30
+3219,52,Female,Basic,2756,19,3,Net Banking,10,17
+3220,54,Female,Premium,2173,68,0,Debit Card,6,36
+3221,22,Female,Premium,745,66,4,UPI,4,19
+3222,18,Male,Premium,3022,13,3,Credit Card,6,7
+3223,57,Male,Basic,4660,62,13,Credit Card,4,43
+3224,29,Male,Premium,4842,61,9,Debit Card,8,45
+3225,53,Male,Enterprise,470,30,12,Debit Card,3,21
+3226,62,Male,Enterprise,938,30,7,Net Banking,8,28
+3227,40,Female,Basic,1457,51,1,Net Banking,2,3
+3228,64,Female,Basic,258,48,7,Credit Card,6,14
+3229,48,Male,Basic,4381,33,0,Credit Card,8,2
+3230,28,Male,Premium,589,19,12,Credit Card,1,29
+3231,27,Male,Premium,918,71,3,Debit Card,6,18
+3232,20,Female,Basic,4444,57,2,UPI,9,37
+3233,31,Male,Basic,4878,19,4,UPI,10,45
+3234,33,Male,Basic,320,41,12,Debit Card,10,45
+3235,27,Male,Basic,2852,42,4,Net Banking,2,24
+3236,46,Female,Enterprise,2503,52,4,UPI,1,46
+3237,27,Male,Premium,3111,4,11,Net Banking,2,12
+3238,29,Female,Basic,999,4,3,Credit Card,5,45
+3239,47,Female,Premium,3580,5,7,Credit Card,6,32
+3240,58,Female,Basic,2306,41,2,Net Banking,1,18
+3241,18,Female,Enterprise,1309,61,11,Credit Card,7,13
+3242,22,Female,Basic,1450,55,3,Debit Card,4,4
+3243,37,Female,Basic,2840,13,0,Net Banking,9,23
+3244,25,Male,Basic,1849,14,6,Net Banking,6,10
+3245,60,Male,Premium,1545,60,0,Net Banking,9,5
+3246,29,Male,Premium,3156,25,14,UPI,1,40
+3247,18,Female,Premium,2646,44,1,Net Banking,4,14
+3248,37,Male,Basic,3564,10,10,Net Banking,2,34
+3249,45,Female,Basic,684,71,6,Net Banking,6,28
+3250,60,Female,Basic,1002,50,0,UPI,4,8
+3251,54,Female,Premium,1915,44,10,Credit Card,9,16
+3252,64,Male,Basic,2115,14,2,UPI,3,31
+3253,54,Female,Premium,3683,15,12,Debit Card,1,7
+3254,29,Female,Enterprise,1957,16,5,Net Banking,1,3
+3255,54,Male,Enterprise,2009,2,5,Debit Card,9,29
+3256,66,Male,Basic,3207,30,5,UPI,9,36
+3257,66,Female,Basic,3425,30,10,Credit Card,5,39
+3258,61,Female,Basic,3695,31,12,Credit Card,2,4
+3259,45,Male,Premium,2520,20,1,Net Banking,9,9
+3260,64,Male,Premium,1870,49,1,Credit Card,8,17
+3261,32,Male,Basic,4815,35,5,UPI,10,49
+3262,23,Female,Basic,1351,23,9,UPI,10,20
+3263,61,Male,Premium,4947,61,4,Credit Card,6,14
+3264,37,Male,Enterprise,2423,55,13,Net Banking,7,46
+3265,67,Male,Basic,2867,67,6,Net Banking,6,29
+3266,31,Female,Premium,410,8,6,UPI,5,13
+3267,19,Male,Basic,2694,40,4,Credit Card,4,36
+3268,26,Male,Basic,4881,59,7,UPI,7,45
+3269,54,Male,Enterprise,4462,32,9,UPI,4,17
+3270,37,Male,Premium,2707,7,5,Debit Card,10,47
+3271,43,Male,Premium,3163,2,14,UPI,10,43
+3272,46,Female,Basic,3628,6,4,Net Banking,10,4
+3273,18,Female,Premium,3575,36,3,Credit Card,9,20
+3274,52,Female,Basic,4155,32,6,Credit Card,5,11
+3275,23,Male,Basic,3905,45,3,Debit Card,8,42
+3276,54,Female,Premium,3605,42,4,Debit Card,6,22
+3277,22,Female,Basic,4238,53,4,Net Banking,4,45
+3278,50,Female,Premium,1252,9,0,Debit Card,3,8
+3279,66,Male,Premium,913,49,14,UPI,6,28
+3280,68,Male,Basic,3088,2,0,UPI,1,45
+3281,31,Female,Basic,887,67,2,Net Banking,2,41
+3282,29,Female,Basic,529,11,14,Credit Card,7,30
+3283,59,Male,Basic,1946,50,13,Net Banking,4,33
+3284,37,Male,Premium,1407,35,10,Debit Card,5,33
+3285,67,Female,Premium,2342,15,2,Credit Card,10,47
+3286,41,Male,Basic,984,31,1,Credit Card,1,36
+3287,60,Female,Basic,2896,62,11,Credit Card,2,27
+3288,51,Male,Premium,4020,28,1,Debit Card,4,20
+3289,42,Female,Premium,3918,25,5,UPI,8,33
+3290,67,Female,Basic,2893,25,12,UPI,10,25
+3291,46,Male,Basic,825,1,0,Debit Card,4,44
+3292,56,Female,Premium,4434,59,5,Debit Card,3,43
+3293,48,Female,Basic,3908,69,4,Net Banking,3,19
+3294,64,Female,Basic,961,42,5,Net Banking,5,47
+3295,60,Male,Premium,4179,34,4,UPI,3,21
+3296,67,Male,Premium,3729,66,6,Debit Card,8,42
+3297,40,Male,Premium,1755,18,0,Net Banking,5,33
+3298,61,Female,Premium,3833,5,12,Debit Card,7,3
+3299,55,Male,Premium,875,20,2,Debit Card,8,14
+3300,37,Female,Basic,4387,66,5,UPI,5,15
+3301,40,Female,Basic,236,62,0,UPI,8,33
+3302,62,Male,Basic,4036,32,12,Debit Card,3,42
+3303,69,Male,Basic,1987,58,10,Credit Card,7,22
+3304,33,Female,Premium,2927,50,10,Credit Card,8,1
+3305,67,Female,Enterprise,4080,38,6,Debit Card,7,31
+3306,59,Male,Enterprise,2094,55,3,UPI,2,47
+3307,25,Male,Premium,336,28,2,Credit Card,8,35
+3308,67,Male,Basic,3276,22,9,UPI,6,20
+3309,38,Female,Basic,4083,43,8,Credit Card,10,32
+3310,18,Female,Premium,861,36,0,Debit Card,3,12
+3311,25,Female,Premium,2010,52,7,Net Banking,4,16
+3312,46,Female,Premium,614,36,0,Net Banking,7,8
+3313,49,Female,Premium,542,28,12,UPI,3,14
+3314,55,Male,Premium,2929,58,13,UPI,1,18
+3315,22,Male,Premium,3650,36,4,Credit Card,6,30
+3316,64,Female,Basic,3865,70,9,Debit Card,3,33
+3317,39,Female,Premium,3937,9,7,Credit Card,10,34
+3318,64,Male,Enterprise,4097,21,5,Debit Card,6,44
+3319,51,Male,Basic,4441,64,6,Debit Card,10,49
+3320,18,Male,Premium,4618,61,10,UPI,3,34
+3321,43,Male,Basic,2369,40,7,Net Banking,6,49
+3322,60,Female,Enterprise,2078,56,12,Net Banking,4,7
+3323,27,Male,Basic,4170,4,5,UPI,4,6
+3324,47,Female,Premium,4896,31,10,Net Banking,10,6
+3325,67,Male,Basic,4770,27,5,UPI,10,22
+3326,35,Male,Premium,2817,58,10,Credit Card,2,8
+3327,34,Male,Basic,1715,25,5,Debit Card,4,37
+3328,43,Female,Basic,774,69,4,Net Banking,4,15
+3329,25,Female,Basic,4642,70,7,Net Banking,7,26
+3330,64,Male,Enterprise,3067,5,12,Credit Card,5,39
+3331,57,Female,Basic,3744,8,1,Credit Card,8,3
+3332,66,Female,Basic,4677,9,6,Net Banking,7,10
+3333,29,Male,Premium,271,15,14,Net Banking,10,3
+3334,44,Male,Premium,2768,7,3,UPI,9,30
+3335,25,Female,Enterprise,3637,15,0,UPI,8,46
+3336,42,Female,Basic,3180,37,12,Net Banking,9,22
+3337,63,Female,Premium,1317,39,4,UPI,1,3
+3338,21,Male,Basic,2586,6,2,Credit Card,10,1
+3339,50,Male,Basic,3708,57,3,Debit Card,3,33
+3340,18,Female,Premium,1559,19,6,UPI,5,19
+3341,36,Male,Premium,4959,63,4,Debit Card,9,36
+3342,48,Male,Premium,1715,31,13,UPI,8,34
+3343,33,Female,Basic,239,10,14,Net Banking,10,31
+3344,31,Female,Basic,1582,67,3,UPI,7,43
+3345,65,Male,Basic,2230,62,0,Debit Card,2,24
+3346,22,Male,Enterprise,2821,3,5,Debit Card,6,12
+3347,58,Female,Basic,2100,18,10,Net Banking,4,13
+3348,43,Male,Basic,2417,25,9,Debit Card,5,16
+3349,45,Male,Basic,4996,20,5,Net Banking,5,16
+3350,19,Female,Premium,4806,58,6,Net Banking,4,20
+3351,67,Female,Basic,1483,50,0,Debit Card,4,41
+3352,23,Male,Enterprise,783,10,13,Credit Card,4,48
+3353,26,Male,Basic,658,21,3,Debit Card,2,27
+3354,50,Male,Enterprise,2465,29,11,Debit Card,1,39
+3355,58,Female,Basic,2866,10,8,UPI,2,13
+3356,42,Male,Premium,1015,13,14,Debit Card,7,4
+3357,65,Male,Enterprise,2711,47,11,UPI,1,32
+3358,30,Female,Basic,446,23,13,UPI,6,45
+3359,26,Female,Enterprise,616,50,9,Debit Card,4,40
+3360,30,Male,Basic,4663,4,5,Net Banking,2,34
+3361,48,Female,Enterprise,3917,67,1,Credit Card,3,39
+3362,58,Female,Premium,307,53,3,Debit Card,7,43
+3363,28,Male,Basic,2831,2,5,Debit Card,6,17
+3364,21,Female,Basic,1038,68,3,Net Banking,6,24
+3365,51,Female,Basic,4713,65,14,UPI,8,29
+3366,55,Male,Basic,1621,57,9,Net Banking,8,46
+3367,63,Female,Basic,4978,70,6,Net Banking,6,28
+3368,21,Male,Basic,4112,7,11,UPI,1,45
+3369,55,Male,Basic,455,19,12,Debit Card,10,47
+3370,36,Female,Premium,3027,44,2,Net Banking,7,22
+3371,23,Female,Basic,1037,63,5,Net Banking,8,28
+3372,51,Female,Basic,3162,65,12,Debit Card,5,25
+3373,35,Male,Premium,2482,39,14,Debit Card,4,41
+3374,30,Female,Basic,752,26,11,Credit Card,7,3
+3375,58,Male,Basic,380,44,3,Net Banking,6,13
+3376,40,Female,Basic,4452,12,2,Credit Card,6,31
+3377,36,Female,Enterprise,1677,22,11,UPI,3,13
+3378,62,Female,Premium,770,14,2,Debit Card,10,41
+3379,28,Male,Basic,1927,30,13,Debit Card,4,18
+3380,18,Female,Premium,791,44,1,Credit Card,5,37
+3381,41,Female,Premium,4716,38,10,Net Banking,9,43
+3382,24,Male,Premium,2460,59,2,UPI,8,34
+3383,42,Male,Premium,3147,42,12,Net Banking,3,17
+3384,38,Female,Premium,547,52,11,Net Banking,6,21
+3385,32,Female,Basic,365,63,13,Credit Card,10,36
+3386,18,Female,Basic,4643,61,9,Net Banking,1,40
+3387,29,Male,Basic,3096,34,0,Credit Card,3,19
+3388,24,Male,Enterprise,4693,39,14,Debit Card,10,12
+3389,32,Male,Premium,782,41,2,Debit Card,7,28
+3390,38,Male,Premium,3706,37,8,Debit Card,7,11
+3391,36,Female,Enterprise,4603,65,3,UPI,2,48
+3392,46,Male,Basic,3238,32,14,UPI,3,37
+3393,42,Male,Premium,3045,8,2,Net Banking,7,28
+3394,50,Male,Premium,2966,18,7,Credit Card,6,35
+3395,66,Female,Enterprise,4394,45,0,Net Banking,7,44
+3396,49,Female,Enterprise,1465,33,4,Debit Card,10,15
+3397,66,Male,Premium,4453,5,0,Net Banking,9,16
+3398,52,Male,Basic,4849,36,6,Net Banking,8,45
+3399,61,Female,Premium,4946,23,4,Net Banking,6,7
+3400,55,Female,Basic,3167,40,14,Debit Card,4,47
+3401,43,Female,Premium,2474,5,1,Credit Card,10,3
+3402,28,Female,Enterprise,2670,34,11,Net Banking,9,31
+3403,52,Female,Basic,2490,24,13,Debit Card,7,12
+3404,25,Female,Premium,2777,17,0,UPI,5,8
+3405,63,Female,Basic,3860,71,10,Credit Card,2,25
+3406,31,Female,Basic,1268,22,14,Debit Card,9,44
+3407,27,Male,Basic,2936,15,6,Net Banking,7,35
+3408,19,Male,Premium,2150,15,11,Debit Card,9,12
+3409,63,Male,Enterprise,291,25,0,Credit Card,9,21
+3410,26,Male,Enterprise,3293,53,2,Net Banking,10,26
+3411,20,Male,Basic,2419,21,10,UPI,5,2
+3412,38,Male,Enterprise,1587,66,14,UPI,7,14
+3413,43,Female,Premium,4474,32,5,UPI,5,46
+3414,25,Female,Basic,2485,21,14,Debit Card,3,4
+3415,65,Male,Basic,3406,68,5,Credit Card,10,17
+3416,19,Male,Basic,3124,44,14,UPI,8,47
+3417,23,Female,Enterprise,479,66,6,Net Banking,8,48
+3418,45,Female,Premium,1818,14,10,Net Banking,9,5
+3419,46,Female,Premium,2987,15,13,Net Banking,6,24
+3420,43,Male,Basic,570,20,10,Debit Card,2,49
+3421,42,Female,Premium,3383,34,0,Credit Card,3,7
+3422,29,Male,Basic,4034,36,6,Credit Card,10,23
+3423,22,Male,Basic,1903,9,1,UPI,6,47
+3424,51,Female,Premium,2468,71,5,Credit Card,1,17
+3425,65,Female,Basic,503,30,12,Net Banking,2,12
+3426,54,Male,Premium,3974,63,7,Net Banking,8,11
+3427,32,Female,Basic,1548,35,12,Debit Card,8,11
+3428,61,Female,Premium,2622,13,4,Net Banking,6,34
+3429,53,Male,Basic,3828,46,9,Credit Card,3,47
+3430,32,Female,Premium,2628,56,2,Net Banking,2,37
+3431,60,Male,Basic,3233,9,10,UPI,6,29
+3432,65,Male,Basic,868,36,7,Debit Card,1,48
+3433,40,Female,Enterprise,699,3,7,Debit Card,10,36
+3434,23,Male,Basic,1614,19,3,Credit Card,6,27
+3435,63,Male,Premium,729,28,7,Net Banking,9,42
+3436,67,Female,Enterprise,3821,23,4,Net Banking,7,22
+3437,61,Female,Basic,3656,7,12,Credit Card,9,2
+3438,60,Female,Basic,954,14,10,Credit Card,2,47
+3439,62,Male,Premium,2547,46,4,UPI,5,36
+3440,38,Male,Enterprise,926,15,2,Credit Card,9,48
+3441,40,Female,Enterprise,2849,67,14,Net Banking,7,30
+3442,60,Male,Premium,2246,15,6,UPI,9,7
+3443,33,Female,Premium,3015,51,10,Debit Card,6,12
+3444,64,Female,Basic,1074,8,13,Net Banking,7,3
+3445,32,Male,Enterprise,3479,69,10,Debit Card,10,17
+3446,42,Female,Enterprise,3184,62,8,Debit Card,5,41
+3447,53,Male,Basic,2378,51,8,Debit Card,6,32
+3448,28,Male,Basic,4007,63,0,Net Banking,1,8
+3449,68,Female,Basic,807,68,0,Debit Card,1,23
+3450,32,Male,Basic,834,16,9,Net Banking,2,38
+3451,21,Female,Premium,4779,24,11,Debit Card,4,30
+3452,38,Male,Basic,2927,6,11,Credit Card,9,15
+3453,30,Male,Basic,1274,57,10,Credit Card,7,10
+3454,39,Male,Basic,2114,31,14,Net Banking,6,38
+3455,36,Female,Enterprise,788,6,4,Debit Card,1,15
+3456,51,Male,Premium,3431,29,0,Debit Card,5,30
+3457,31,Female,Basic,2504,67,3,Debit Card,4,46
+3458,21,Male,Basic,4038,3,11,Credit Card,5,26
+3459,65,Male,Enterprise,2173,28,0,Debit Card,9,45
+3460,69,Female,Premium,2255,48,14,Debit Card,3,14
+3461,63,Female,Basic,3680,10,1,Net Banking,4,3
+3462,44,Female,Basic,2279,33,1,Debit Card,8,36
+3463,46,Female,Basic,3252,67,3,Credit Card,3,26
+3464,64,Female,Basic,4682,69,7,Debit Card,3,14
+3465,45,Male,Premium,1451,12,1,Credit Card,9,31
+3466,52,Male,Enterprise,3995,57,13,Credit Card,5,14
+3467,25,Female,Basic,4022,44,8,UPI,10,40
+3468,33,Male,Premium,4502,13,14,Credit Card,1,10
+3469,59,Male,Basic,3589,24,11,UPI,7,9
+3470,53,Male,Premium,1980,44,8,UPI,7,46
+3471,47,Female,Premium,2804,57,1,Debit Card,6,40
+3472,35,Male,Basic,3888,16,0,UPI,6,43
+3473,19,Male,Basic,1924,21,9,Net Banking,3,42
+3474,66,Male,Premium,2984,51,14,Credit Card,3,18
+3475,30,Female,Basic,3919,21,9,Net Banking,10,36
+3476,21,Male,Basic,1877,60,8,UPI,9,36
+3477,43,Male,Premium,648,51,14,Debit Card,1,12
+3478,42,Female,Enterprise,4887,21,1,Credit Card,7,40
+3479,47,Female,Basic,281,6,7,Net Banking,10,3
+3480,28,Male,Premium,1606,65,13,Debit Card,7,18
+3481,24,Male,Basic,1680,58,2,UPI,8,7
+3482,48,Female,Premium,1279,6,0,Debit Card,6,31
+3483,61,Female,Premium,3798,65,10,Net Banking,8,1
+3484,27,Female,Enterprise,4714,34,0,Debit Card,1,31
+3485,56,Female,Basic,4383,56,9,Net Banking,1,13
+3486,30,Female,Premium,3880,3,1,Debit Card,9,29
+3487,48,Female,Premium,2903,42,6,Credit Card,4,3
+3488,24,Female,Basic,4510,62,11,Debit Card,3,29
+3489,66,Male,Basic,3956,6,5,Credit Card,6,35
+3490,59,Female,Basic,1958,6,11,Net Banking,10,15
+3491,59,Female,Basic,2799,63,10,Credit Card,9,21
+3492,53,Male,Enterprise,2750,20,1,Debit Card,10,19
+3493,37,Female,Basic,4053,21,3,Credit Card,4,28
+3494,21,Female,Basic,2946,2,1,Net Banking,9,4
+3495,24,Male,Premium,2492,56,0,Debit Card,5,45
+3496,18,Female,Basic,1701,10,11,Credit Card,7,13
+3497,61,Male,Premium,4604,70,2,Credit Card,3,15
+3498,62,Male,Basic,430,23,14,UPI,3,48
+3499,59,Male,Enterprise,4450,30,3,Credit Card,3,39
+3500,64,Male,Enterprise,1398,37,9,UPI,8,32
+3501,30,Female,Enterprise,314,55,4,Net Banking,6,3
+3502,39,Male,Basic,1613,49,4,UPI,9,30
+3503,38,Male,Premium,4606,34,14,Net Banking,9,20
+3504,39,Female,Basic,1192,44,6,Credit Card,8,2
+3505,45,Male,Basic,2547,22,13,Credit Card,1,25
+3506,26,Male,Basic,1241,31,14,UPI,6,11
+3507,43,Male,Premium,211,7,9,Net Banking,4,1
+3508,26,Male,Basic,3876,21,7,Credit Card,4,48
+3509,32,Female,Premium,3265,16,8,UPI,3,49
+3510,27,Male,Basic,2236,20,11,UPI,9,48
+3511,41,Female,Basic,3246,43,6,UPI,2,10
+3512,59,Female,Premium,2550,44,4,Credit Card,1,17
+3513,25,Male,Basic,740,47,8,Net Banking,10,30
+3514,41,Male,Premium,3060,19,7,Credit Card,3,35
+3515,33,Male,Basic,276,48,9,Debit Card,4,19
+3516,66,Male,Premium,3267,69,8,Debit Card,4,46
+3517,43,Female,Premium,223,11,9,Credit Card,6,34
+3518,44,Female,Basic,875,29,7,Net Banking,1,32
+3519,54,Female,Basic,2594,45,5,UPI,1,12
+3520,21,Male,Premium,4467,68,3,Debit Card,2,43
+3521,67,Female,Premium,3598,36,8,Debit Card,4,17
+3522,41,Male,Basic,2959,48,11,Credit Card,7,6
+3523,36,Male,Basic,688,15,8,Debit Card,6,13
+3524,53,Male,Enterprise,1685,44,9,Debit Card,9,39
+3525,56,Male,Premium,3859,67,9,UPI,7,22
+3526,27,Male,Basic,3435,40,8,UPI,5,11
+3527,42,Female,Basic,2619,14,13,Net Banking,6,7
+3528,35,Female,Basic,3695,63,9,Debit Card,10,45
+3529,36,Male,Premium,956,51,2,Net Banking,9,45
+3530,53,Female,Basic,2724,58,10,Net Banking,1,21
+3531,27,Male,Enterprise,4450,15,11,UPI,9,1
+3532,50,Male,Basic,456,65,14,UPI,6,30
+3533,67,Male,Basic,1979,55,2,Credit Card,4,19
+3534,22,Female,Premium,4969,10,10,UPI,5,47
+3535,64,Male,Enterprise,2315,42,5,Net Banking,1,46
+3536,66,Male,Premium,3548,11,5,Debit Card,7,29
+3537,52,Female,Basic,4968,16,14,Net Banking,8,35
+3538,61,Female,Premium,1672,19,12,Net Banking,5,20
+3539,51,Female,Premium,458,31,14,Net Banking,2,36
+3540,50,Male,Basic,4275,53,12,UPI,8,39
+3541,38,Male,Basic,506,8,5,Net Banking,10,1
+3542,34,Female,Basic,1318,24,4,Credit Card,7,23
+3543,39,Male,Basic,3217,8,13,Debit Card,10,31
+3544,65,Female,Enterprise,4541,48,4,UPI,9,35
+3545,54,Female,Basic,2980,30,1,Net Banking,4,47
+3546,32,Male,Enterprise,1858,58,13,Credit Card,9,45
+3547,52,Male,Premium,386,55,6,Debit Card,4,22
+3548,45,Female,Premium,1997,62,11,Net Banking,3,46
+3549,24,Female,Premium,1124,48,3,Debit Card,3,7
+3550,49,Female,Basic,984,4,13,UPI,10,33
+3551,28,Female,Basic,3644,37,2,UPI,2,45
+3552,27,Male,Basic,3396,8,7,Credit Card,10,36
+3553,26,Female,Premium,1560,1,3,UPI,3,44
+3554,31,Female,Basic,540,70,14,Credit Card,8,7
+3555,30,Female,Premium,762,47,10,Net Banking,8,27
+3556,42,Male,Basic,4946,5,3,Debit Card,2,2
+3557,19,Male,Basic,3199,50,7,UPI,2,17
+3558,52,Female,Basic,1393,24,0,Debit Card,2,1
+3559,24,Male,Enterprise,3310,47,8,Debit Card,10,46
+3560,38,Male,Premium,268,18,13,Net Banking,7,30
+3561,35,Male,Basic,2628,28,6,Net Banking,6,22
+3562,20,Female,Premium,3798,5,14,UPI,1,28
+3563,59,Female,Basic,2572,30,11,Net Banking,2,33
+3564,56,Male,Enterprise,4756,1,1,Debit Card,1,26
+3565,58,Female,Premium,1043,46,10,Credit Card,7,35
+3566,66,Female,Basic,773,69,11,Credit Card,6,11
+3567,28,Male,Premium,4414,31,5,Credit Card,2,7
+3568,56,Male,Basic,2796,70,7,UPI,2,28
+3569,41,Female,Enterprise,4941,56,10,Net Banking,2,25
+3570,63,Male,Basic,1678,28,4,Net Banking,8,41
+3571,36,Female,Premium,2273,16,5,Net Banking,7,31
+3572,21,Female,Basic,1713,54,11,Net Banking,1,3
+3573,43,Male,Premium,1168,53,9,Debit Card,4,33
+3574,55,Female,Premium,2396,12,7,Credit Card,4,34
+3575,59,Female,Premium,1711,20,12,Debit Card,7,21
+3576,49,Male,Premium,854,34,5,UPI,2,37
+3577,56,Male,Enterprise,3192,53,11,Credit Card,4,49
+3578,62,Male,Basic,4850,64,8,Credit Card,1,19
+3579,63,Female,Basic,4720,23,14,Debit Card,4,37
+3580,53,Male,Basic,492,27,11,UPI,1,21
+3581,57,Male,Enterprise,2801,17,8,UPI,2,14
+3582,54,Male,Basic,4726,48,8,Credit Card,2,10
+3583,50,Male,Premium,4612,21,5,Net Banking,10,7
+3584,53,Female,Premium,4693,50,11,UPI,3,29
+3585,20,Female,Basic,1788,40,14,Debit Card,8,40
+3586,26,Male,Basic,795,3,11,UPI,6,8
+3587,25,Female,Basic,2793,17,8,Credit Card,6,39
+3588,50,Male,Basic,2323,61,2,Net Banking,9,13
+3589,23,Male,Basic,2143,50,4,UPI,8,46
+3590,58,Female,Basic,1115,6,1,Credit Card,2,19
+3591,56,Female,Enterprise,4069,28,11,UPI,6,11
+3592,21,Male,Enterprise,2994,55,12,Net Banking,1,2
+3593,30,Male,Basic,3278,58,12,Debit Card,9,49
+3594,66,Female,Basic,1175,45,7,Credit Card,4,6
+3595,19,Male,Basic,1275,19,10,Credit Card,4,29
+3596,22,Female,Premium,3189,29,12,Net Banking,9,41
+3597,61,Male,Premium,3667,23,3,Credit Card,3,5
+3598,44,Male,Basic,1651,32,5,Net Banking,5,41
+3599,49,Female,Basic,4023,10,5,Credit Card,1,30
+3600,38,Female,Premium,4132,49,4,Net Banking,6,39
+3601,25,Female,Premium,2228,65,11,UPI,3,36
+3602,55,Female,Basic,562,29,11,UPI,1,27
+3603,25,Female,Premium,2629,59,0,UPI,10,18
+3604,67,Female,Basic,3832,45,10,Credit Card,6,49
+3605,20,Female,Basic,2518,67,6,Net Banking,10,36
+3606,61,Male,Premium,3285,51,9,Net Banking,2,16
+3607,20,Male,Premium,2545,11,14,Debit Card,8,5
+3608,39,Male,Basic,3798,6,7,UPI,2,9
+3609,23,Female,Enterprise,4529,67,0,Debit Card,4,34
+3610,19,Female,Basic,1931,62,9,UPI,3,34
+3611,40,Female,Premium,226,5,6,Debit Card,9,36
+3612,61,Male,Basic,292,9,3,UPI,2,31
+3613,19,Female,Enterprise,2864,28,5,Net Banking,3,20
+3614,55,Female,Enterprise,508,38,8,UPI,7,17
+3615,34,Male,Basic,251,43,14,Credit Card,4,20
+3616,52,Female,Enterprise,518,21,4,UPI,6,28
+3617,51,Male,Premium,2192,62,7,UPI,3,21
+3618,40,Male,Premium,4476,46,4,Net Banking,1,19
+3619,47,Female,Basic,4091,70,1,Credit Card,6,3
+3620,69,Female,Premium,4942,38,3,Net Banking,4,30
+3621,25,Female,Enterprise,4156,49,13,Debit Card,2,5
+3622,39,Male,Basic,2892,39,1,Debit Card,7,42
+3623,61,Male,Enterprise,3218,71,6,Credit Card,10,6
+3624,53,Male,Basic,2224,30,6,Debit Card,5,3
+3625,22,Female,Basic,4631,21,13,Credit Card,6,49
+3626,30,Female,Premium,1725,1,14,UPI,6,42
+3627,46,Female,Premium,1478,32,2,Debit Card,9,24
+3628,48,Female,Premium,713,8,13,UPI,2,44
+3629,64,Male,Basic,4537,69,12,Net Banking,6,1
+3630,33,Male,Enterprise,1933,30,6,Debit Card,9,36
+3631,59,Male,Basic,3570,8,14,Net Banking,4,15
+3632,47,Male,Basic,4121,19,0,Net Banking,6,41
+3633,33,Female,Basic,2700,59,0,Credit Card,7,38
+3634,29,Female,Premium,3664,55,8,Net Banking,1,44
+3635,34,Female,Enterprise,2459,30,5,Credit Card,5,18
+3636,33,Male,Premium,4963,36,12,Credit Card,4,23
+3637,29,Male,Premium,4889,55,13,Credit Card,10,47
+3638,25,Female,Basic,2859,44,11,Credit Card,2,29
+3639,37,Female,Premium,455,27,4,Credit Card,2,41
+3640,20,Male,Basic,1702,54,12,UPI,2,22
+3641,33,Female,Basic,4856,48,5,Credit Card,7,24
+3642,47,Male,Basic,2310,30,5,Debit Card,4,45
+3643,62,Male,Premium,606,39,0,Credit Card,6,48
+3644,40,Male,Premium,3049,13,4,UPI,7,13
+3645,45,Female,Premium,3376,16,8,Debit Card,9,33
+3646,68,Female,Basic,2060,44,3,Debit Card,2,22
+3647,57,Male,Basic,4554,71,2,UPI,10,35
+3648,22,Female,Premium,922,27,0,Debit Card,9,17
+3649,37,Male,Basic,1482,45,13,UPI,5,22
+3650,57,Male,Enterprise,813,35,14,Net Banking,6,5
+3651,61,Male,Premium,3531,28,1,Net Banking,6,25
+3652,18,Male,Basic,3316,7,2,Credit Card,3,6
+3653,47,Female,Enterprise,2178,62,3,Credit Card,10,17
+3654,38,Male,Premium,1012,51,6,Credit Card,7,31
+3655,37,Male,Basic,1986,46,5,Credit Card,7,17
+3656,23,Female,Premium,530,20,10,UPI,8,33
+3657,39,Male,Basic,2412,38,7,Net Banking,5,39
+3658,35,Male,Premium,1416,61,13,UPI,2,48
+3659,25,Female,Premium,4682,32,8,Debit Card,3,37
+3660,56,Female,Enterprise,3537,26,14,Debit Card,9,48
+3661,49,Female,Premium,2575,58,5,Debit Card,6,4
+3662,50,Male,Basic,1440,39,6,Debit Card,8,43
+3663,33,Female,Premium,519,20,3,Debit Card,8,14
+3664,29,Female,Basic,4694,50,1,Net Banking,5,13
+3665,55,Male,Premium,2114,52,8,UPI,1,27
+3666,69,Male,Premium,4400,22,8,Debit Card,6,24
+3667,51,Male,Basic,4991,53,14,Credit Card,7,27
+3668,31,Male,Basic,529,66,3,Net Banking,9,8
+3669,53,Male,Enterprise,859,43,11,Credit Card,2,47
+3670,50,Female,Enterprise,3888,23,2,Net Banking,2,39
+3671,40,Female,Basic,3318,64,9,Net Banking,10,21
+3672,67,Female,Basic,2172,9,13,Credit Card,1,41
+3673,62,Male,Basic,1993,7,10,Credit Card,5,11
+3674,19,Male,Enterprise,3418,41,5,Debit Card,2,31
+3675,58,Male,Basic,4757,54,13,Credit Card,3,27
+3676,38,Female,Premium,2733,65,13,UPI,2,42
+3677,19,Female,Basic,2657,2,2,Net Banking,4,46
+3678,44,Male,Premium,3300,4,0,Net Banking,3,48
+3679,26,Female,Basic,4566,32,3,Debit Card,9,27
+3680,18,Male,Premium,2933,2,0,Net Banking,10,8
+3681,28,Female,Basic,4680,64,1,Credit Card,2,33
+3682,20,Female,Premium,4355,14,2,Net Banking,7,12
+3683,69,Female,Basic,419,20,7,Net Banking,3,35
+3684,40,Male,Premium,3018,49,9,Credit Card,10,34
+3685,43,Female,Enterprise,2106,8,3,Credit Card,8,16
+3686,21,Female,Basic,2811,63,3,Net Banking,4,36
+3687,35,Male,Enterprise,2793,46,12,UPI,4,2
+3688,23,Female,Premium,295,21,9,Credit Card,9,12
+3689,52,Male,Basic,1188,32,8,UPI,3,27
+3690,39,Male,Basic,1312,8,6,UPI,7,17
+3691,60,Male,Basic,2478,16,1,Debit Card,1,20
+3692,32,Male,Premium,445,40,2,UPI,7,21
+3693,39,Male,Premium,2358,27,3,Debit Card,10,30
+3694,54,Female,Basic,4529,18,3,UPI,2,42
+3695,69,Male,Premium,3549,35,9,Debit Card,6,20
+3696,59,Male,Premium,2925,52,7,Credit Card,9,8
+3697,29,Male,Enterprise,4277,15,9,Net Banking,6,18
+3698,64,Male,Premium,2866,63,13,Net Banking,3,18
+3699,66,Female,Enterprise,3399,53,9,Debit Card,1,18
+3700,59,Male,Premium,2954,66,5,Credit Card,4,2
+3701,55,Female,Basic,1617,31,2,Debit Card,4,12
+3702,35,Male,Premium,854,61,10,Debit Card,8,32
+3703,62,Female,Basic,2642,64,8,Credit Card,10,42
+3704,52,Male,Basic,310,34,9,UPI,10,8
+3705,47,Male,Basic,289,55,7,UPI,7,10
+3706,41,Female,Premium,962,59,8,Credit Card,10,11
+3707,59,Male,Premium,3372,3,14,Debit Card,7,14
+3708,47,Female,Basic,2379,17,4,Net Banking,7,26
+3709,31,Male,Basic,2704,46,2,Debit Card,2,47
+3710,23,Female,Basic,1664,38,3,UPI,9,30
+3711,20,Male,Premium,297,35,13,Credit Card,6,42
+3712,33,Male,Basic,492,1,12,Credit Card,2,4
+3713,24,Female,Premium,2039,29,11,Credit Card,1,39
+3714,69,Male,Basic,1934,4,4,UPI,1,11
+3715,31,Male,Basic,2819,61,8,Debit Card,1,24
+3716,26,Male,Basic,4947,17,8,Credit Card,4,22
+3717,32,Male,Basic,2396,28,13,Net Banking,4,3
+3718,38,Male,Enterprise,3666,50,2,Credit Card,9,37
+3719,52,Male,Basic,2106,8,6,Debit Card,1,2
+3720,19,Female,Basic,1921,34,5,UPI,3,12
+3721,44,Female,Basic,3891,59,14,Net Banking,3,21
+3722,19,Female,Basic,2016,18,3,Net Banking,8,5
+3723,52,Male,Basic,452,59,4,Credit Card,2,7
+3724,35,Female,Basic,4427,27,13,Debit Card,6,4
+3725,31,Male,Premium,3719,16,14,Credit Card,4,43
+3726,37,Male,Premium,2107,10,9,Net Banking,10,41
+3727,35,Male,Basic,2110,22,1,Credit Card,6,36
+3728,27,Male,Basic,2721,16,10,Debit Card,5,22
+3729,42,Female,Enterprise,4049,12,6,UPI,9,29
+3730,19,Male,Basic,1258,51,13,Net Banking,9,9
+3731,42,Female,Basic,3738,1,3,Debit Card,1,26
+3732,50,Male,Basic,2522,27,1,Credit Card,3,12
+3733,53,Female,Basic,386,67,10,Net Banking,1,48
+3734,48,Female,Premium,1148,12,5,Credit Card,6,1
+3735,31,Female,Basic,2490,30,10,Credit Card,3,8
+3736,18,Female,Premium,4559,9,11,UPI,1,33
+3737,63,Female,Basic,4817,53,1,Credit Card,6,4
+3738,33,Female,Basic,4830,61,9,Credit Card,5,14
+3739,63,Male,Premium,409,54,1,Debit Card,8,29
+3740,69,Female,Basic,2293,37,6,Credit Card,2,14
+3741,20,Male,Premium,3738,65,0,UPI,8,9
+3742,52,Female,Basic,1763,42,6,Credit Card,5,9
+3743,58,Male,Premium,225,49,9,Credit Card,8,26
+3744,23,Female,Basic,374,4,4,Credit Card,10,49
+3745,42,Female,Enterprise,1534,64,0,Net Banking,4,47
+3746,30,Male,Basic,521,51,5,UPI,4,42
+3747,51,Female,Enterprise,4350,60,6,Net Banking,10,17
+3748,25,Female,Basic,4247,31,0,UPI,4,41
+3749,38,Female,Premium,3427,58,8,UPI,6,4
+3750,51,Male,Basic,2072,4,14,Debit Card,4,46
+3751,21,Female,Enterprise,2267,22,6,Net Banking,9,3
+3752,42,Male,Basic,532,3,0,UPI,9,29
+3753,32,Female,Basic,3191,47,2,UPI,3,25
+3754,21,Female,Basic,1110,38,4,Debit Card,7,21
+3755,62,Male,Basic,4696,33,3,Net Banking,5,12
+3756,29,Female,Basic,1149,48,1,Credit Card,9,1
+3757,49,Female,Enterprise,2275,65,14,Debit Card,2,1
+3758,49,Male,Enterprise,2714,26,0,UPI,3,45
+3759,45,Female,Basic,3531,8,3,Net Banking,10,46
+3760,30,Male,Enterprise,3229,50,6,UPI,5,48
+3761,48,Male,Premium,300,38,10,Debit Card,5,7
+3762,31,Male,Basic,4846,10,3,Debit Card,10,10
+3763,37,Female,Premium,2600,42,8,Net Banking,7,15
+3764,35,Male,Premium,3571,37,13,Debit Card,8,40
+3765,46,Male,Enterprise,2543,26,7,Debit Card,8,11
+3766,23,Female,Basic,552,12,7,Credit Card,1,46
+3767,49,Male,Premium,3155,49,4,UPI,1,45
+3768,46,Female,Basic,1218,14,11,Credit Card,3,23
+3769,60,Female,Basic,1379,46,14,Credit Card,1,13
+3770,19,Female,Basic,3736,35,0,Net Banking,1,27
+3771,40,Female,Enterprise,3850,29,14,Debit Card,10,41
+3772,36,Male,Premium,2702,12,8,UPI,8,17
+3773,48,Male,Premium,4019,44,1,UPI,1,13
+3774,68,Male,Premium,1179,66,5,UPI,9,12
+3775,22,Male,Basic,1176,2,9,Debit Card,2,29
+3776,36,Male,Basic,1571,59,13,UPI,9,21
+3777,51,Female,Basic,2480,17,4,UPI,7,20
+3778,27,Male,Basic,4776,10,9,Debit Card,9,20
+3779,42,Male,Premium,307,18,12,Net Banking,3,31
+3780,19,Male,Premium,1172,22,14,UPI,1,8
+3781,28,Female,Basic,1826,58,7,Debit Card,1,24
+3782,67,Female,Basic,903,53,10,Credit Card,10,11
+3783,48,Male,Basic,1074,1,2,Debit Card,6,39
+3784,32,Female,Basic,4009,61,5,Credit Card,7,33
+3785,26,Male,Enterprise,2611,31,5,Debit Card,9,42
+3786,40,Male,Premium,2307,31,9,UPI,6,15
+3787,36,Female,Premium,3753,66,2,Net Banking,5,4
+3788,26,Female,Basic,1473,19,11,Net Banking,2,1
+3789,52,Male,Basic,759,53,11,UPI,2,32
+3790,38,Male,Basic,316,22,14,Credit Card,8,11
+3791,26,Female,Enterprise,3246,23,11,Debit Card,1,30
+3792,45,Male,Premium,243,15,6,UPI,8,37
+3793,63,Female,Basic,708,26,10,Debit Card,10,19
+3794,68,Male,Premium,3639,3,3,UPI,7,36
+3795,24,Female,Basic,4128,20,4,UPI,7,34
+3796,33,Male,Premium,1116,40,8,Debit Card,5,7
+3797,33,Male,Enterprise,3145,39,5,Net Banking,3,45
+3798,50,Female,Premium,998,18,9,Net Banking,7,20
+3799,21,Male,Premium,1960,41,14,Credit Card,7,12
+3800,21,Male,Basic,2533,70,12,Debit Card,7,32
+3801,56,Female,Basic,3475,27,3,Credit Card,2,2
+3802,57,Male,Basic,1018,15,7,UPI,3,22
+3803,34,Male,Basic,2368,37,8,Credit Card,3,41
+3804,54,Male,Premium,3935,58,9,UPI,4,48
+3805,56,Female,Premium,3265,5,4,Debit Card,9,40
+3806,69,Female,Basic,3459,7,1,Debit Card,10,24
+3807,46,Female,Premium,1106,41,14,Debit Card,1,31
+3808,69,Male,Basic,4308,10,14,Debit Card,7,4
+3809,53,Male,Basic,802,62,5,Credit Card,7,24
+3810,55,Male,Basic,4495,26,10,UPI,4,43
+3811,56,Male,Basic,2833,68,14,Net Banking,1,17
+3812,67,Female,Basic,1991,24,11,Debit Card,3,40
+3813,54,Male,Basic,3727,41,7,Debit Card,5,19
+3814,69,Male,Basic,4743,65,12,UPI,2,40
+3815,52,Male,Enterprise,2011,17,4,Net Banking,7,38
+3816,24,Female,Basic,4111,24,0,Debit Card,10,34
+3817,44,Male,Basic,1040,27,7,Net Banking,10,47
+3818,45,Male,Basic,3342,7,8,Debit Card,7,33
+3819,39,Male,Premium,4885,12,0,Credit Card,10,6
+3820,31,Male,Basic,2290,3,7,Credit Card,5,36
+3821,24,Male,Premium,4815,10,9,Net Banking,10,13
+3822,54,Female,Premium,1236,33,11,UPI,6,47
+3823,39,Male,Premium,924,46,1,UPI,1,9
+3824,22,Male,Premium,1187,59,3,Credit Card,4,35
+3825,19,Male,Basic,1002,52,12,UPI,4,34
+3826,44,Male,Basic,2782,6,14,UPI,8,16
+3827,38,Male,Basic,4037,2,14,UPI,2,18
+3828,55,Male,Premium,726,29,1,Net Banking,1,18
+3829,32,Male,Basic,1865,40,1,Net Banking,7,38
+3830,38,Male,Basic,1338,61,9,UPI,6,43
+3831,27,Male,Enterprise,659,68,2,Credit Card,5,32
+3832,40,Male,Basic,2752,68,13,UPI,8,7
+3833,56,Female,Premium,4620,29,7,Debit Card,2,23
+3834,22,Female,Premium,4874,62,3,Credit Card,2,23
+3835,18,Female,Basic,3008,60,6,Net Banking,9,46
+3836,30,Female,Basic,3098,41,11,Debit Card,1,18
+3837,38,Male,Basic,3443,65,9,UPI,6,7
+3838,43,Female,Premium,4268,64,2,UPI,3,42
+3839,67,Female,Premium,2531,63,9,Credit Card,5,40
+3840,62,Male,Premium,4770,48,11,Credit Card,8,24
+3841,38,Female,Enterprise,3885,20,13,UPI,7,14
+3842,35,Female,Premium,831,37,14,UPI,4,5
+3843,54,Male,Basic,4998,64,13,Credit Card,8,46
+3844,62,Male,Basic,2656,5,12,Debit Card,10,22
+3845,49,Male,Premium,1181,34,10,Net Banking,2,22
+3846,53,Female,Basic,4854,39,13,Credit Card,7,10
+3847,34,Female,Basic,4517,67,2,Debit Card,5,26
+3848,52,Male,Premium,1756,62,1,UPI,6,15
+3849,66,Male,Basic,2405,24,12,Net Banking,3,38
+3850,28,Female,Enterprise,4643,3,11,Debit Card,10,41
+3851,38,Male,Premium,4155,71,5,Net Banking,7,42
+3852,69,Female,Basic,1121,67,5,Net Banking,7,49
+3853,43,Male,Enterprise,604,50,0,Net Banking,2,1
+3854,21,Male,Basic,4972,29,6,Debit Card,1,14
+3855,51,Female,Basic,4884,32,11,Debit Card,10,36
+3856,69,Male,Basic,1820,39,13,UPI,2,31
+3857,65,Male,Basic,3152,9,13,Net Banking,8,28
+3858,35,Male,Basic,3318,14,3,Credit Card,10,34
+3859,57,Female,Basic,1794,68,12,Credit Card,3,35
+3860,52,Male,Basic,765,64,10,Credit Card,4,39
+3861,58,Male,Basic,4999,20,11,Debit Card,8,23
+3862,46,Male,Premium,3068,28,2,UPI,3,46
+3863,69,Male,Premium,1057,14,12,Debit Card,6,44
+3864,46,Male,Basic,1484,44,12,Net Banking,2,19
+3865,55,Male,Basic,784,39,7,Credit Card,3,18
+3866,59,Female,Basic,4527,28,1,Debit Card,1,15
+3867,38,Female,Basic,1445,64,8,Credit Card,9,1
+3868,59,Male,Premium,251,32,12,Debit Card,4,25
+3869,30,Female,Premium,2363,9,7,Credit Card,6,26
+3870,66,Female,Basic,737,28,7,Net Banking,7,35
+3871,58,Male,Basic,740,17,12,Credit Card,2,15
+3872,34,Female,Basic,1014,55,2,Net Banking,8,4
+3873,26,Female,Premium,1615,10,12,Net Banking,9,15
+3874,58,Female,Basic,3038,6,3,Debit Card,10,42
+3875,18,Female,Enterprise,1852,48,1,Debit Card,2,38
+3876,19,Female,Premium,2865,67,1,Debit Card,5,45
+3877,65,Female,Basic,4714,41,3,Net Banking,2,39
+3878,46,Female,Premium,4262,60,5,UPI,5,1
+3879,50,Female,Enterprise,2556,42,4,UPI,7,22
+3880,27,Male,Premium,4010,71,14,Net Banking,6,11
+3881,67,Male,Basic,1063,28,0,Net Banking,4,46
+3882,57,Female,Basic,385,13,12,Debit Card,2,38
+3883,38,Female,Premium,4556,15,9,Debit Card,7,37
+3884,45,Male,Premium,1751,36,0,Debit Card,10,26
+3885,28,Female,Premium,2407,15,14,UPI,9,27
+3886,51,Female,Enterprise,961,56,5,UPI,1,13
+3887,25,Male,Enterprise,4519,4,2,Net Banking,3,7
+3888,39,Male,Enterprise,1479,52,2,UPI,7,8
+3889,25,Male,Basic,4475,10,6,Debit Card,9,46
+3890,66,Female,Premium,4927,45,12,Debit Card,5,23
+3891,32,Female,Premium,3894,29,12,Debit Card,7,26
+3892,34,Male,Premium,3481,53,0,Debit Card,10,44
+3893,40,Male,Premium,1736,29,0,Debit Card,7,27
+3894,41,Female,Basic,3364,23,13,Credit Card,4,9
+3895,62,Male,Premium,2970,57,12,Net Banking,5,46
+3896,36,Female,Premium,2163,50,9,Net Banking,2,38
+3897,22,Female,Basic,4045,21,2,UPI,8,47
+3898,49,Male,Basic,3635,43,13,Debit Card,1,13
+3899,61,Male,Basic,4910,10,7,Credit Card,2,7
+3900,18,Female,Basic,761,30,0,Debit Card,3,11
+3901,40,Male,Basic,2621,51,9,Debit Card,7,10
+3902,54,Male,Basic,4917,33,12,UPI,6,33
+3903,25,Male,Premium,2335,18,3,Credit Card,7,39
+3904,30,Male,Premium,2261,22,8,Credit Card,5,3
+3905,25,Female,Premium,2380,64,13,Net Banking,4,41
+3906,40,Female,Premium,2160,21,3,Debit Card,7,29
+3907,60,Female,Basic,4079,1,9,Credit Card,3,37
+3908,18,Female,Basic,3479,15,7,Net Banking,10,45
+3909,62,Male,Enterprise,4084,36,6,Credit Card,7,16
+3910,68,Male,Basic,3470,47,2,Debit Card,2,16
+3911,41,Female,Enterprise,4887,54,6,Net Banking,8,44
+3912,52,Female,Premium,782,32,14,Credit Card,6,43
+3913,41,Male,Premium,1813,58,6,UPI,3,49
+3914,34,Female,Enterprise,1301,46,9,Credit Card,3,7
+3915,22,Female,Basic,488,54,2,Debit Card,5,15
+3916,37,Male,Basic,4059,33,1,UPI,3,38
+3917,38,Female,Premium,3260,39,14,Credit Card,6,6
+3918,57,Male,Basic,3126,23,8,Credit Card,2,18
+3919,48,Male,Enterprise,4302,43,14,Net Banking,8,19
+3920,63,Female,Basic,1383,55,0,Debit Card,9,2
+3921,53,Male,Premium,4535,2,13,Credit Card,7,3
+3922,28,Female,Premium,1646,66,6,Credit Card,3,46
+3923,69,Male,Premium,1949,38,3,Credit Card,10,25
+3924,32,Female,Basic,2103,29,1,Debit Card,4,36
+3925,36,Female,Basic,3375,67,14,UPI,10,49
+3926,24,Female,Premium,1277,71,1,Debit Card,2,28
+3927,68,Male,Basic,2577,36,7,Net Banking,9,38
+3928,45,Male,Premium,1047,29,6,Net Banking,5,28
+3929,68,Female,Premium,3076,37,11,Debit Card,2,32
+3930,60,Male,Premium,1439,45,6,Credit Card,10,41
+3931,22,Female,Premium,1532,16,4,Credit Card,6,36
+3932,22,Female,Basic,3706,31,13,UPI,7,39
+3933,47,Male,Premium,2579,34,9,Debit Card,2,36
+3934,49,Female,Enterprise,4991,50,7,Debit Card,1,43
+3935,25,Male,Basic,4322,65,13,Credit Card,7,23
+3936,27,Female,Enterprise,3437,62,1,Net Banking,1,2
+3937,55,Male,Basic,2565,43,1,Net Banking,3,10
+3938,64,Female,Basic,2612,56,4,UPI,4,6
+3939,49,Female,Basic,3374,15,14,UPI,2,8
+3940,65,Male,Enterprise,572,48,0,Net Banking,7,15
+3941,45,Female,Basic,2149,49,5,Debit Card,5,45
+3942,34,Female,Enterprise,444,44,3,UPI,1,29
+3943,48,Male,Enterprise,2040,10,5,Credit Card,8,28
+3944,25,Female,Basic,3627,20,6,Debit Card,10,22
+3945,57,Male,Basic,324,70,12,Credit Card,7,34
+3946,42,Female,Premium,4832,8,2,UPI,4,20
+3947,26,Male,Basic,2953,45,10,Net Banking,2,33
+3948,19,Female,Premium,2119,34,12,UPI,7,15
+3949,32,Female,Basic,1835,51,7,Net Banking,2,7
+3950,67,Female,Basic,1625,4,6,Debit Card,6,24
+3951,20,Male,Premium,1740,39,12,UPI,1,26
+3952,66,Male,Basic,730,24,0,UPI,7,10
+3953,53,Male,Basic,4549,55,5,UPI,7,15
+3954,21,Male,Basic,3303,26,6,Debit Card,4,37
+3955,31,Female,Basic,4956,25,13,Credit Card,4,24
+3956,58,Female,Premium,2001,36,10,Credit Card,10,11
+3957,58,Male,Premium,1236,71,14,Net Banking,5,40
+3958,42,Male,Basic,3928,58,3,UPI,2,21
+3959,67,Male,Premium,4211,12,13,Credit Card,9,40
+3960,27,Female,Premium,3663,1,1,Debit Card,10,38
+3961,38,Male,Basic,1342,50,9,UPI,4,15
+3962,53,Male,Basic,1955,25,8,Net Banking,9,15
+3963,29,Female,Enterprise,1829,5,6,Credit Card,3,37
+3964,44,Female,Premium,962,68,0,Debit Card,9,45
+3965,57,Male,Premium,4157,6,7,Debit Card,1,14
+3966,19,Female,Premium,757,26,14,Net Banking,7,43
+3967,30,Male,Basic,4821,55,2,Credit Card,4,21
+3968,49,Female,Premium,1039,39,3,UPI,7,44
+3969,48,Male,Premium,202,9,11,Debit Card,10,20
+3970,33,Male,Premium,1251,45,4,Net Banking,6,33
+3971,49,Male,Basic,1604,14,0,Debit Card,4,3
+3972,49,Male,Basic,356,55,14,Debit Card,4,40
+3973,51,Female,Basic,2137,9,5,Credit Card,8,23
+3974,28,Female,Enterprise,710,15,9,Credit Card,7,44
+3975,27,Female,Basic,3604,37,5,UPI,4,47
+3976,32,Female,Basic,4982,50,1,Debit Card,6,23
+3977,34,Male,Basic,1337,21,10,Net Banking,6,27
+3978,57,Male,Basic,4114,57,9,Debit Card,1,35
+3979,35,Female,Premium,3521,19,5,Net Banking,2,25
+3980,26,Female,Premium,4866,58,7,Debit Card,4,32
+3981,42,Female,Premium,914,6,5,Net Banking,6,22
+3982,57,Female,Basic,2486,4,3,Debit Card,6,8
+3983,31,Female,Premium,2854,43,14,Debit Card,1,38
+3984,42,Male,Basic,1190,42,3,UPI,8,18
+3985,67,Male,Basic,4629,3,8,Credit Card,2,28
+3986,39,Male,Basic,2360,1,5,Credit Card,5,28
+3987,69,Female,Basic,4657,55,7,Net Banking,4,11
+3988,47,Female,Basic,2344,15,7,Debit Card,5,12
+3989,37,Female,Premium,2263,47,6,Debit Card,5,2
+3990,38,Female,Premium,2803,46,2,Credit Card,10,37
+3991,61,Male,Premium,2177,58,9,Net Banking,8,4
+3992,49,Male,Basic,575,71,0,UPI,10,41
+3993,68,Female,Basic,941,39,4,UPI,7,45
+3994,63,Male,Basic,4685,3,12,UPI,9,45
+3995,66,Male,Enterprise,2867,30,14,Debit Card,1,47
+3996,38,Female,Premium,1440,35,9,Net Banking,6,34
+3997,52,Female,Premium,3670,57,9,Credit Card,6,23
+3998,49,Female,Basic,2567,29,14,Debit Card,2,13
+3999,47,Female,Premium,2443,50,1,Debit Card,8,7
+4000,56,Female,Basic,3749,62,11,UPI,6,32
